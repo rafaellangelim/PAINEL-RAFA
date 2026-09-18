@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>painel · Rafa</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #ECE6DC;
+    --card: #FBF9F5;
+    --card-2: #F4EFE6;
+    --ink: #2B2620;
+    --ink-soft: #6B6459;
+    --gold: #A97A2B;
+    --gold-soft: #E8DBC0;
+    --terra: #B75C43;
+    --terra-soft: #F1DCD3;
+    --sage: #6E7F5C;
+    --sage-soft: #DCE4D2;
+    --line: rgba(43,38,32,0.10);
+    --shadow: 0 1px 2px rgba(43,38,32,0.06), 0 8px 24px rgba(43,38,32,0.06);
+    --radius: 18px;
+  }
+  :root:not([data-theme="light"]) {
+    @media (prefers-color-scheme: dark) {
+      --bg: #1C1A16;
+      --card: #26231D;
+      --card-2: #2E2A22;
+      --ink: #EDE7DA;
+      --ink-soft: #A79E8D;
+      --gold: #D6A84E;
+      --gold-soft: #3A311F;
+      --terra: #D98268;
+      --terra-soft: #3A2620;
+      --sage: #9BAE86;
+      --sage-soft: #2A2F22;
+      --line: rgba(237,231,218,0.10);
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.3);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg: #1C1A16;
+    --card: #26231D;
+    --card-2: #2E2A22;
+    --ink: #EDE7DA;
+    --ink-soft: #A79E8D;
+    --gold: #D6A84E;
+    --gold-soft: #3A311F;
+    --terra: #D98268;
+    --terra-soft: #3A2620;
+    --sage: #9BAE86;
+    --sage-soft: #2A2F22;
+    --line: rgba(237,231,218,0.10);
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.3);
+  }
+
+  *{ box-sizing: border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    padding: 28px 20px 60px;
+  }
+  .wrap{ max-width: 900px; margin: 0 auto; }
+
+  header.top{
+    display:flex; align-items:flex-end; justify-content:space-between;
+    gap: 16px; margin-bottom: 22px; flex-wrap: wrap;
+  }
+  h1{
+    font-family:'Lora', Georgia, serif;
+    font-weight: 700;
+    font-size: clamp(28px, 4vw, 38px);
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  .date{
+    color: var(--ink-soft);
+    font-size: 14px;
+    white-space: nowrap;
+  }
+
+  .pet{
+    width: 46px; height: 34px; flex-shrink: 0;
+    opacity: 0.9;
+  }
+  .header-row{ display:flex; align-items:center; gap:12px; }
+
+  .stats{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+  .stat{
+    background: var(--card-2);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    border: 1px solid var(--line);
+  }
+  .stat.precisa{ background: var(--terra-soft); }
+  .stat.resolvidos{ background: var(--sage-soft); }
+  .stat.rascunhos{ background: var(--gold-soft); }
+  .stat .label{ font-size: 13px; color: var(--ink-soft); margin-bottom: 6px; }
+  .stat .num{
+    font-family:'Lora', Georgia, serif;
+    font-weight: 700; font-size: 30px; line-height: 1;
+  }
+  .stat.precisa .num{ color: var(--terra); }
+  .stat.resolvidos .num{ color: var(--sage); }
+  .stat.rascunhos .num{ color: var(--gold); }
+
+  .banner{
+    background: var(--gold-soft);
+    border-radius: var(--radius);
+    padding: 14px 18px;
+    font-size: 14px;
+    margin-bottom: 22px;
+    border: 1px solid var(--line);
+  }
+  .banner b{ color: var(--gold); }
+
+  .grid{
+    display:grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 16px;
+  }
+  @media (max-width: 680px){
+    .grid{ grid-template-columns: 1fr; }
+    .stats{ grid-template-columns: 1fr; }
+  }
+
+  .card{
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 20px 22px;
+    border: 1px solid var(--line);
+    box-shadow: var(--shadow);
+  }
+  .card h2{
+    font-family:'Lora', Georgia, serif;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0 0 12px;
+  }
+  .card ul{ list-style:none; margin:0; padding:0; }
+  .card li{
+    padding: 9px 0;
+    border-top: 1px solid var(--line);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card li:first-child{ border-top: none; padding-top: 0; }
+  .empty{ color: var(--ink-soft); font-size: 14px; font-style: italic; }
+
+  .agenda-item{ display:flex; gap: 10px; }
+  .agenda-time{ color: var(--gold); font-weight: 600; min-width: 44px; }
+
+  details.updater{
+    margin-top: 26px;
+    background: var(--card);
+    border-radius: var(--radius);
+    border: 1px solid var(--line);
+    padding: 16px 20px;
+  }
+  details.updater summary{
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--ink-soft);
+  }
+  details.updater textarea{
+    width: 100%;
+    min-height: 160px;
+    margin-top: 12px;
+    border-radius: 12px;
+    border: 1px solid var(--line);
+    background: var(--card-2);
+    color: var(--ink);
+    font-family: inherit;
+    font-size: 13px;
+    padding: 12px;
+    resize: vertical;
+  }
+  details.updater button{
+    margin-top: 10px;
+    background: var(--ink);
+    color: var(--bg);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  details.updater button:hover{ opacity: 0.9; }
+  .updated-at{ font-size: 12px; color: var(--ink-soft); margin-top: 10px; }
+
+  .areas-grid{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  @media (max-width: 680px){
+    .areas-grid{ grid-template-columns: repeat(2, 1fr); }
+  }
+  .area-chip{
+    background: var(--card-2);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 10px 12px;
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 13px;
+  }
+  .area-chip .area-num{
+    font-family:'Lora', Georgia, serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--gold);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div class="header-row">
+      <svg class="pet" viewBox="0 0 60 44" xmlns="http://www.w3.org/2000/svg">
+        <ellipse cx="30" cy="30" rx="22" ry="13" fill="var(--gold)" opacity="0.85"/>
+        <circle cx="14" cy="16" r="3.2" fill="var(--gold)" opacity="0.85"/>
+        <circle cx="24" cy="10" r="3.6" fill="var(--gold)" opacity="0.85"/>
+        <circle cx="16" cy="26" r="2.4" fill="var(--card)"/>
+        <circle cx="15.3" cy="25.6" r="1" fill="var(--ink)"/>
+        <path d="M12 30 q4 3 8 0" stroke="var(--ink)" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+      </svg>
+      <h1 id="greeting">bom dia, Rafa</h1>
+    </div>
+    <div class="date" id="today"></div>
+  </header>
+
+  <div class="stats">
+    <div class="stat precisa">
+      <div class="label">precisa de você</div>
+      <div class="num" id="count-precisa">0</div>
+    </div>
+    <div class="stat resolvidos">
+      <div class="label">resolvidos</div>
+      <div class="num" id="count-resolvidos">0</div>
+    </div>
+    <div class="stat rascunhos">
+      <div class="label">rascunhos</div>
+      <div class="num" id="count-rascunhos">0</div>
+    </div>
+  </div>
+
+  <div class="banner" id="banner" style="display:none;"></div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>precisa de você</h2>
+      <ul id="list-precisa"><li class="empty">Cole o resumo de hoje para preencher.</li></ul>
+    </div>
+    <div class="card">
+      <h2>agenda de hoje</h2>
+      <ul id="list-agenda"><li class="empty">Cole o resumo de hoje para preencher.</li></ul>
+    </div>
+  </div>
+
+  <div class="grid" style="margin-top:16px;">
+    <div class="card">
+      <h2>resolvido / informativo</h2>
+      <ul id="list-resolvidos"><li class="empty">Nada ainda.</li></ul>
+    </div>
+    <div class="card">
+      <h2>rascunhos criados</h2>
+      <ul id="list-rascunhos"><li class="empty">Nenhum rascunho hoje.</li></ul>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:16px;">
+    <h2>áreas da vida</h2>
+    <div class="areas-grid" id="areas-grid"></div>
+  </div>
+
+  <details class="updater" id="updater">
+    <summary>Atualizar painel com o resumo de hoje</summary>
+    <textarea id="raw-input" placeholder="Cole aqui o texto que a Varredura Matinal gerou..."></textarea>
+    <br>
+    <button id="update-btn">Atualizar painel</button>
+    <div class="updated-at" id="updated-at"></div>
+  </details>
+
+</div>
+
+<script>
+(function(){
+  var STORAGE_KEY = 'painel-rafa-data-v1';
+
+  function todayLabel(){
+    var d = new Date();
+    var opts = { weekday: 'long', day: 'numeric', month: 'long' };
+    return d.toLocaleDateString('pt-BR', opts);
+  }
+  document.getElementById('today').textContent = todayLabel();
+
+  function normalize(s){
+    return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
+  }
+
+  // find section boundaries by header keywords, case/accent-insensitive
+  function parseSections(raw){
+    var lines = raw.split('\n');
+    var headers = [
+      { key: 'precisa', test: function(n){ return n.indexOf('PRECISA DE VOC') === 0 || n.indexOf('PRECISA DE VOC') > -1 && n.length < 40; } },
+      { key: 'resolvidos', test: function(n){ return n.indexOf('RESOLVID') === 0 || (n.indexOf('RESOLVID') > -1 && n.length < 40); } },
+      { key: 'agenda', test: function(n){ return n.indexOf('AGENDA') === 0 || (n.indexOf('AGENDA') > -1 && n.length < 40); } },
+      { key: 'rascunhos', test: function(n){ return n.indexOf('RASCUNH') === 0 && n.length < 40; } },
+      { key: 'areas', test: function(n){ return n.indexOf('AREAS DA VIDA') === 0 || (n.indexOf('AREAS DA VIDA') > -1 && n.length < 40); } }
+    ];
+
+    var sections = { precisa: [], resolvidos: [], agenda: [], rascunhos: [], areas: [] };
+    var current = null;
+
+    lines.forEach(function(line){
+      var trimmed = line.trim();
+      if(!trimmed){ return; }
+      var n = normalize(trimmed);
+      var matched = null;
+      for(var i=0;i<headers.length;i++){
+        if(headers[i].test(n)){ matched = headers[i].key; break; }
+      }
+      if(matched){
+        current = matched;
+        return;
+      }
+      if(!current) return;
+      var bulletMatch = trimmed.match(/^[-•*]\s*(.+)$/);
+      if(bulletMatch){
+        sections[current].push(bulletMatch[1]);
+      } else if(sections[current].length === 0 || trimmed.length > 3){
+        // plain sentence line inside a section, keep as its own item if short paragraph
+        if(trimmed.length < 240){
+          sections[current].push(trimmed);
+        }
+      }
+    });
+
+    return sections;
+  }
+
+  function renderList(elId, items, emptyText){
+    var el = document.getElementById(elId);
+    el.innerHTML = '';
+    if(!items || items.length === 0){
+      var li = document.createElement('li');
+      li.className = 'empty';
+      li.textContent = emptyText;
+      el.appendChild(li);
+      return;
+    }
+    items.forEach(function(item){
+      var li = document.createElement('li');
+      li.textContent = item;
+      el.appendChild(li);
+    });
+  }
+
+  var LIFE_AREAS = ['Saúde e bem-estar', 'Família', 'Pet/filhote', 'Financeiro pessoal', 'Social/lazer', 'Fellow/CTBMF'];
+
+  function renderAreas(areaLines){
+    var counts = {};
+    LIFE_AREAS.forEach(function(a){ counts[a] = 0; });
+    (areaLines || []).forEach(function(line){
+      var m = line.match(/^(.+?):\s*(\d+)/);
+      if(m){
+        var label = m[1].trim();
+        var found = LIFE_AREAS.find(function(a){
+          return normalize(a) === normalize(label);
+        });
+        if(found){ counts[found] = parseInt(m[2], 10); }
+      }
+    });
+    var grid = document.getElementById('areas-grid');
+    grid.innerHTML = '';
+    LIFE_AREAS.forEach(function(a){
+      var chip = document.createElement('div');
+      chip.className = 'area-chip';
+      chip.innerHTML = '<span>' + a + '</span><span class="area-num">' + counts[a] + '</span>';
+      grid.appendChild(chip);
+    });
+  }
+
+  function render(data){
+    var sections = data.sections || { precisa: [], resolvidos: [], agenda: [], rascunhos: [], areas: [] };
+    renderAreas(sections.areas);
+
+    document.getElementById('count-precisa').textContent = sections.precisa.length;
+    document.getElementById('count-resolvidos').textContent = sections.resolvidos.length;
+    document.getElementById('count-rascunhos').textContent = sections.rascunhos.length;
+
+    renderList('list-precisa', sections.precisa, 'Nada pendente. Tudo em dia.');
+    renderList('list-agenda', sections.agenda, 'Sem compromissos marcados.');
+    renderList('list-resolvidos', sections.resolvidos, 'Nada resolvido registrado.');
+    renderList('list-rascunhos', sections.rascunhos, 'Nenhum rascunho hoje.');
+
+    var banner = document.getElementById('banner');
+    if(data.raw){
+      banner.style.display = 'block';
+      banner.innerHTML = '<b>última varredura:</b> ' + (data.updatedAt || 'agora');
+    }
+
+    var updatedEl = document.getElementById('updated-at');
+    updatedEl.textContent = data.updatedAt ? ('Atualizado em ' + data.updatedAt) : '';
+  }
+
+  function loadSaved(){
+    try{
+      var raw = localStorage.getItem(STORAGE_KEY);
+      if(raw){
+        var data = JSON.parse(raw);
+        render(data);
+        if(data.raw){
+          document.getElementById('raw-input').value = data.raw;
+        }
+      }
+    }catch(e){
+      console.error('Não foi possível carregar dados salvos', e);
+    }
+  }
+
+  function save(data){
+    try{
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    }catch(e){
+      console.error('Não foi possível salvar', e);
+    }
+  }
+
+  document.getElementById('update-btn').addEventListener('click', function(){
+    var raw = document.getElementById('raw-input').value;
+    var sections = parseSections(raw);
+    var now = new Date();
+    var updatedAt = now.toLocaleDateString('pt-BR') + ' às ' + now.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'});
+    var data = { raw: raw, sections: sections, updatedAt: updatedAt };
+    save(data);
+    render(data);
+    document.getElementById('updater').open = false;
+  });
+
+  loadSaved();
+})();
+</script>
+</body>
+</html>
