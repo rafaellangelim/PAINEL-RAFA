@@ -89,6 +89,16 @@
     opacity: 0.9;
   }
   .header-row{ display:flex; align-items:center; gap:12px; }
+  .status-badge{
+    display:inline-flex; align-items:center; gap:6px;
+    font-size:12px; font-weight:600; padding:4px 10px;
+    border-radius:999px; margin-top:4px;
+  }
+  .status-badge.sleeping{ background: var(--sage-soft); color: var(--sage); }
+  .status-badge.awake{ background: var(--terra-soft); color: var(--terra); }
+  .pet.awake-pet ellipse, .pet.awake-pet circle:nth-child(2), .pet.awake-pet circle:nth-child(3){
+    fill: var(--terra) !important;
+  }
 
   .stats{
     display:grid;
@@ -231,7 +241,7 @@
 
   <header class="top">
     <div class="header-row">
-      <svg class="pet" viewBox="0 0 60 44" xmlns="http://www.w3.org/2000/svg">
+      <svg class="pet" id="pet-icon" viewBox="0 0 60 44" xmlns="http://www.w3.org/2000/svg">
         <ellipse cx="30" cy="30" rx="22" ry="13" fill="var(--gold)" opacity="0.85"/>
         <circle cx="14" cy="16" r="3.2" fill="var(--gold)" opacity="0.85"/>
         <circle cx="24" cy="10" r="3.6" fill="var(--gold)" opacity="0.85"/>
@@ -239,7 +249,10 @@
         <circle cx="15.3" cy="25.6" r="1" fill="var(--ink)"/>
         <path d="M12 30 q4 3 8 0" stroke="var(--ink)" stroke-width="1.2" fill="none" stroke-linecap="round"/>
       </svg>
-      <h1 id="greeting">bom dia, Rafa</h1>
+      <div>
+        <h1 id="greeting">bom dia, Rafa</h1>
+        <span class="status-badge sleeping" id="status-badge">dormindo · tudo certo</span>
+      </div>
     </div>
     <div class="date" id="today"></div>
   </header>
@@ -260,6 +273,7 @@
   </div>
 
   <div class="banner" id="banner" style="display:none;"></div>
+  <div class="saved-note" id="sync-status" style="margin-bottom:16px;">Carregando...</div>
 
   <div class="grid">
     <div class="card">
@@ -301,6 +315,7 @@
 <script>
 (function(){
   var STORAGE_KEY = 'painel-rafa-data-v1';
+  var DATA_URL = 'data.json';
 
   function todayLabel(){
     var d = new Date();
@@ -308,6 +323,39 @@
     return d.toLocaleDateString('pt-BR', opts);
   }
   document.getElementById('today').textContent = todayLabel();
+
+  function renderFromJson(json){
+    var sections = {
+      precisa: json.precisa || [],
+      resolvidos: json.resolvidos || [],
+      agenda: json.agenda || [],
+      rascunhos: json.rascunhos || [],
+      areas: []
+    };
+    var areasObj = json.areas || {};
+    for(var k in areasObj){
+      sections.areas.push(k + ': ' + areasObj[k]);
+    }
+    var data = { sections: sections, updatedAt: json.updatedAt || '' };
+    render(data);
+    save(data);
+  }
+
+  function loadFromGitHub(){
+    fetch(DATA_URL, { cache: 'no-store' })
+      .then(function(resp){
+        if(!resp.ok) throw new Error('sem dados ainda');
+        return resp.json();
+      })
+      .then(function(json){
+        renderFromJson(json);
+        document.getElementById('sync-status').textContent = 'Sincronizado automaticamente com a Routine.';
+      })
+      .catch(function(){
+        document.getElementById('sync-status').textContent = 'Ainda não recebeu dados da Routine. Mostrando o último salvo manualmente, se houver.';
+        loadSaved();
+      });
+  }
 
   function normalize(s){
     return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
@@ -409,6 +457,19 @@
     renderList('list-resolvidos', sections.resolvidos, 'Nada resolvido registrado.');
     renderList('list-rascunhos', sections.rascunhos, 'Nenhum rascunho hoje.');
 
+    var badge = document.getElementById('status-badge');
+    var pet = document.getElementById('pet-icon');
+    var n = sections.precisa.length;
+    if(n > 0){
+      badge.className = 'status-badge awake';
+      badge.textContent = 'acordado · ' + n + (n === 1 ? ' coisa precisa de você' : ' coisas precisam de você');
+      pet.classList.add('awake-pet');
+    } else {
+      badge.className = 'status-badge sleeping';
+      badge.textContent = 'dormindo · tudo certo';
+      pet.classList.remove('awake-pet');
+    }
+
     var banner = document.getElementById('banner');
     if(data.raw){
       banner.style.display = 'block';
@@ -451,9 +512,10 @@
     save(data);
     render(data);
     document.getElementById('updater').open = false;
+    document.getElementById('sync-status').textContent = 'Mostrando dado colado manualmente (não veio da Routine).';
   });
 
-  loadSaved();
+  loadFromGitHub();
 })();
 </script>
 </body>
