@@ -6,6 +6,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Painel Rafa">
+<meta name="theme-color" content="#ECE6DC">
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
 <style>
   :root{
     --bg: #ECE6DC; --card: #FBF9F5; --card-2: #F4EFE6;
@@ -135,9 +141,25 @@
 
 <script>
 (function(){
-  var KEY = 'painel-unificado-v1';
+  var firebaseConfig = {
+    apiKey: "AIzaSyCc4eG4FSQ_nVIZVhCdyJFnBMtJIMeY90M",
+    authDomain: "painel-rafa.firebaseapp.com",
+    projectId: "painel-rafa",
+    storageBucket: "painel-rafa.firebasestorage.app",
+    messagingSenderId: "210117455017",
+    appId: "1:210117455017:web:b712c898d69fc6569d8db8"
+  };
+  var db = null;
+  var docRef = null;
+  try{
+    firebase.initializeApp(firebaseConfig);
+    db = firebase.firestore();
+    docRef = db.collection('painel').doc('rafa');
+  }catch(e){ console.error('Firebase não iniciou', e); }
+
   var DATA_URL = 'data.json';
   var LIFE_AREAS = ['Saúde e bem-estar', 'Família', 'Pet/filhote', 'Financeiro pessoal', 'Social/lazer', 'Fellow/CTBMF'];
+  var suppressNextSave = false;
 
   function defaultState(){
     return {
@@ -149,33 +171,42 @@
     };
   }
 
-  function loadManual(){
-    var defaults = defaultState();
-    try{
-      var raw = localStorage.getItem(KEY);
-      if(raw){
-        var saved = JSON.parse(raw);
-        ['saude','pet','financeiro','fellow'].forEach(function(section){
-          if(saved[section]){
-            for(var k in defaults[section]){
-              defaults[section][k] = (saved[section][k] !== undefined) ? saved[section][k] : defaults[section][k];
-            }
-          }
-        });
-      }
-    }catch(e){ console.error(e); }
-    return defaults;
-  }
+  var state = defaultState();
 
   function saveManual(){
-    try{
-      localStorage.setItem(KEY, JSON.stringify({ saude: state.saude, pet: state.pet, financeiro: state.financeiro, fellow: state.fellow }));
-      var el = document.getElementById('saved-note');
-      if(el) el.textContent = 'Salvo agora neste navegador.';
-    }catch(e){ console.error('Não foi possível salvar', e); }
+    if(!docRef){ return; }
+    suppressNextSave = true;
+    docRef.set({ saude: state.saude, pet: state.pet, financeiro: state.financeiro, fellow: state.fellow }, { merge: true })
+      .then(function(){
+        var el = document.getElementById('saved-note');
+        if(el) el.textContent = 'Sincronizado na nuvem agora.';
+      })
+      .catch(function(e){
+        console.error(e);
+        var el = document.getElementById('saved-note');
+        if(el) el.textContent = 'Não foi possível sincronizar (verifique a conexão).';
+      });
   }
 
-  var state = loadManual();
+  function applyRemote(saved){
+    var defaults = defaultState();
+    ['saude','pet','financeiro','fellow'].forEach(function(section){
+      if(saved[section]){
+        for(var k in defaults[section]){
+          state[section][k] = (saved[section][k] !== undefined) ? saved[section][k] : defaults[section][k];
+        }
+      }
+    });
+    rerender();
+  }
+
+  if(docRef){
+    docRef.onSnapshot(function(doc){
+      if(suppressNextSave){ suppressNextSave = false; return; }
+      if(doc.exists){ applyRemote(doc.data()); }
+    }, function(err){ console.error('Erro de sincronização', err); });
+  }
+
   var currentPage = 'overview';
 
   function el(tag, attrs, children){
