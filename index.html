@@ -8,514 +8,515 @@
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg: #ECE6DC;
-    --card: #FBF9F5;
-    --card-2: #F4EFE6;
-    --ink: #2B2620;
-    --ink-soft: #6B6459;
-    --gold: #A97A2B;
-    --gold-soft: #E8DBC0;
-    --terra: #B75C43;
-    --terra-soft: #F1DCD3;
-    --sage: #6E7F5C;
-    --sage-soft: #DCE4D2;
+    --bg: #ECE6DC; --card: #FBF9F5; --card-2: #F4EFE6;
+    --ink: #2B2620; --ink-soft: #6B6459;
+    --gold: #A97A2B; --gold-soft: #E8DBC0;
+    --terra: #B75C43; --terra-soft: #F1DCD3;
+    --sage: #6E7F5C; --sage-soft: #DCE4D2;
+    --blue: #5C7A8B; --blue-soft: #DCE6E9;
     --line: rgba(43,38,32,0.10);
     --shadow: 0 1px 2px rgba(43,38,32,0.06), 0 8px 24px rgba(43,38,32,0.06);
     --radius: 18px;
   }
-  :root:not([data-theme="light"]) {
-    @media (prefers-color-scheme: dark) {
-      --bg: #1C1A16;
-      --card: #26231D;
-      --card-2: #2E2A22;
-      --ink: #EDE7DA;
-      --ink-soft: #A79E8D;
-      --gold: #D6A84E;
-      --gold-soft: #3A311F;
-      --terra: #D98268;
-      --terra-soft: #3A2620;
-      --sage: #9BAE86;
-      --sage-soft: #2A2F22;
-      --line: rgba(237,231,218,0.10);
-      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.3);
-    }
-  }
+  :root:not([data-theme="light"]) { @media (prefers-color-scheme: dark) {
+    --bg:#1C1A16; --card:#26231D; --card-2:#2E2A22; --ink:#EDE7DA; --ink-soft:#A79E8D;
+    --gold:#D6A84E; --gold-soft:#3A311F; --terra:#D98268; --terra-soft:#3A2620;
+    --sage:#9BAE86; --sage-soft:#2A2F22; --blue:#8FB0BF; --blue-soft:#20292C;
+    --line:rgba(237,231,218,0.10); --shadow:0 1px 2px rgba(0,0,0,0.3),0 8px 24px rgba(0,0,0,0.3);
+  } }
   :root[data-theme="dark"]{
-    --bg: #1C1A16;
-    --card: #26231D;
-    --card-2: #2E2A22;
-    --ink: #EDE7DA;
-    --ink-soft: #A79E8D;
-    --gold: #D6A84E;
-    --gold-soft: #3A311F;
-    --terra: #D98268;
-    --terra-soft: #3A2620;
-    --sage: #9BAE86;
-    --sage-soft: #2A2F22;
-    --line: rgba(237,231,218,0.10);
-    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.3);
+    --bg:#1C1A16; --card:#26231D; --card-2:#2E2A22; --ink:#EDE7DA; --ink-soft:#A79E8D;
+    --gold:#D6A84E; --gold-soft:#3A311F; --terra:#D98268; --terra-soft:#3A2620;
+    --sage:#9BAE86; --sage-soft:#2A2F22; --blue:#8FB0BF; --blue-soft:#20292C;
+    --line:rgba(237,231,218,0.10); --shadow:0 1px 2px rgba(0,0,0,0.3),0 8px 24px rgba(0,0,0,0.3);
   }
-
-  *{ box-sizing: border-box; }
+  *{ box-sizing:border-box; }
   html,body{ margin:0; padding:0; }
-  body{
-    background: var(--bg);
-    color: var(--ink);
-    font-family: 'Inter', system-ui, -apple-system, sans-serif;
-    min-height: 100vh;
-    padding: 28px 20px 60px;
+  body{ background:var(--bg); color:var(--ink); font-family:'Inter',system-ui,-apple-system,sans-serif; min-height:100vh; }
+  .layout{ display:flex; min-height:100vh; }
+  nav.side{
+    width: 240px; flex-shrink:0; background: var(--card); border-right:1px solid var(--line);
+    padding: 24px 16px; position: sticky; top:0; height:100vh; overflow-y:auto;
   }
-  .wrap{ max-width: 900px; margin: 0 auto; }
+  nav.side h1{ font-family:'Lora',Georgia,serif; font-size:19px; font-weight:700; margin:0 0 4px; }
+  nav.side .sub{ font-size:12px; color:var(--ink-soft); margin-bottom:18px; }
+  nav.side .group-label{ font-size:11px; text-transform:uppercase; letter-spacing:0.04em; color:var(--ink-soft); margin:16px 0 6px 12px; }
+  nav.side button{
+    display:block; width:100%; text-align:left; background:none; border:none;
+    padding:10px 12px; margin-bottom:4px; border-radius:10px; font-size:14px; color:var(--ink);
+    cursor:pointer; font-family:inherit;
+  }
+  nav.side button.active{ background:var(--gold-soft); font-weight:600; color:var(--gold); }
+  nav.side button:hover:not(.active){ background:var(--card-2); }
+  .dot{ display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:8px; }
 
-  header.top{
-    display:flex; align-items:flex-end; justify-content:space-between;
-    gap: 16px; margin-bottom: 22px; flex-wrap: wrap;
-  }
-  h1{
-    font-family:'Lora', Georgia, serif;
-    font-weight: 700;
-    font-size: clamp(28px, 4vw, 38px);
-    margin: 0;
-    letter-spacing: -0.01em;
-  }
-  .date{
-    color: var(--ink-soft);
-    font-size: 14px;
-    white-space: nowrap;
-  }
+  main{ flex:1; padding: 28px 32px 60px; max-width: 920px; }
+  h2.page-title{ font-family:'Lora',Georgia,serif; font-size:26px; font-weight:700; margin:0 0 6px; }
+  .page-sub{ color:var(--ink-soft); font-size:14px; margin-bottom:22px; }
 
-  .pet{
-    width: 46px; height: 34px; flex-shrink: 0;
-    opacity: 0.9;
-  }
-  .header-row{ display:flex; align-items:center; gap:12px; }
-  .status-badge{
-    display:inline-flex; align-items:center; gap:6px;
-    font-size:12px; font-weight:600; padding:4px 10px;
-    border-radius:999px; margin-top:4px;
-  }
-  .status-badge.sleeping{ background: var(--sage-soft); color: var(--sage); }
-  .status-badge.awake{ background: var(--terra-soft); color: var(--terra); }
-  .pet.awake-pet ellipse, .pet.awake-pet circle:nth-child(2), .pet.awake-pet circle:nth-child(3){
-    fill: var(--terra) !important;
-  }
+  .card{ background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:20px 22px; box-shadow:var(--shadow); margin-bottom:16px; }
+  .card h3{ font-family:'Lora',Georgia,serif; font-size:16px; font-weight:600; margin:0 0 14px; }
 
-  .stats{
-    display:grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 12px;
-    margin-bottom: 14px;
+  label{ font-size:13px; color:var(--ink-soft); display:block; margin-bottom:4px; }
+  input[type=text], input[type=number], input[type=date], textarea, select{
+    width:100%; padding:9px 11px; border-radius:10px; border:1px solid var(--line);
+    background:var(--card-2); color:var(--ink); font-family:inherit; font-size:14px; margin-bottom:12px;
   }
-  .stat{
-    background: var(--card-2);
-    border-radius: var(--radius);
-    padding: 16px 18px;
-    border: 1px solid var(--line);
-  }
-  .stat.precisa{ background: var(--terra-soft); }
-  .stat.resolvidos{ background: var(--sage-soft); }
-  .stat.rascunhos{ background: var(--gold-soft); }
-  .stat .label{ font-size: 13px; color: var(--ink-soft); margin-bottom: 6px; }
-  .stat .num{
-    font-family:'Lora', Georgia, serif;
-    font-weight: 700; font-size: 30px; line-height: 1;
-  }
-  .stat.precisa .num{ color: var(--terra); }
-  .stat.resolvidos .num{ color: var(--sage); }
-  .stat.rascunhos .num{ color: var(--gold); }
+  textarea{ min-height:70px; resize:vertical; }
+  .row{ display:flex; gap:12px; flex-wrap:wrap; }
+  .row > div{ flex:1; min-width:140px; }
 
-  .banner{
-    background: var(--gold-soft);
-    border-radius: var(--radius);
-    padding: 14px 18px;
-    font-size: 14px;
-    margin-bottom: 22px;
-    border: 1px solid var(--line);
-  }
-  .banner b{ color: var(--gold); }
+  .week{ display:flex; gap:8px; margin-bottom:14px; }
+  .day{ flex:1; text-align:center; padding:10px 0; border-radius:10px; background:var(--card-2); border:1px solid var(--line); cursor:pointer; font-size:13px; }
+  .day.on{ background:var(--sage-soft); color:var(--sage); font-weight:700; border-color:var(--sage); }
 
-  .grid{
-    display:grid;
-    grid-template-columns: 1.1fr 1fr;
-    gap: 16px;
-  }
-  @media (max-width: 680px){
-    .grid{ grid-template-columns: 1fr; }
-    .stats{ grid-template-columns: 1fr; }
-  }
+  .stat-chip{ background:var(--card-2); border:1px solid var(--line); border-radius:12px; padding:10px 14px; font-size:13px; min-width:110px; }
+  .stat-chip .n{ font-family:'Lora',Georgia,serif; font-weight:700; font-size:20px; color:var(--gold); display:block; }
 
-  .card{
-    background: var(--card);
-    border-radius: var(--radius);
-    padding: 20px 22px;
-    border: 1px solid var(--line);
-    box-shadow: var(--shadow);
-  }
-  .card h2{
-    font-family:'Lora', Georgia, serif;
-    font-size: 17px;
-    font-weight: 600;
-    margin: 0 0 12px;
-  }
-  .card ul{ list-style:none; margin:0; padding:0; }
-  .card li{
-    padding: 9px 0;
-    border-top: 1px solid var(--line);
-    font-size: 14px;
-    line-height: 1.5;
-  }
-  .card li:first-child{ border-top: none; padding-top: 0; }
-  .empty{ color: var(--ink-soft); font-size: 14px; font-style: italic; }
+  .list-item{ display:flex; gap:8px; align-items:center; margin-bottom:8px; }
+  .list-item input{ margin-bottom:0; flex:1; }
+  .list-item button.rm{ background:var(--terra-soft); color:var(--terra); border:none; border-radius:8px; width:30px; height:36px; cursor:pointer; font-size:15px; flex-shrink:0; }
+  button.add{ background:var(--card-2); border:1px dashed var(--line); border-radius:10px; padding:8px 14px; font-size:13px; cursor:pointer; color:var(--ink-soft); font-family:inherit; margin-top:2px; }
+  button.add:hover{ background:var(--gold-soft); color:var(--gold); }
 
-  .agenda-item{ display:flex; gap: 10px; }
-  .agenda-time{ color: var(--gold); font-weight: 600; min-width: 44px; }
+  .overview-grid{ display:grid; grid-template-columns:repeat(2,1fr); gap:14px; }
+  @media (max-width:680px){ .overview-grid{ grid-template-columns:1fr; } .layout{ flex-direction:column; } nav.side{ width:100%; height:auto; position:relative; } }
+  .ov-card{ background:var(--card-2); border:1px solid var(--line); border-radius:var(--radius); padding:16px 18px; cursor:pointer; }
+  .ov-card:hover{ background:var(--gold-soft); }
+  .ov-card .sublist{ font-size:13px; line-height:1.6; color:var(--ink-soft); }
 
-  details.updater{
-    margin-top: 26px;
-    background: var(--card);
-    border-radius: var(--radius);
-    border: 1px solid var(--line);
-    padding: 16px 20px;
-  }
-  details.updater summary{
-    cursor: pointer;
-    font-weight: 600;
-    font-size: 14px;
-    color: var(--ink-soft);
-  }
-  details.updater textarea{
-    width: 100%;
-    min-height: 160px;
-    margin-top: 12px;
-    border-radius: 12px;
-    border: 1px solid var(--line);
-    background: var(--card-2);
-    color: var(--ink);
-    font-family: inherit;
-    font-size: 13px;
-    padding: 12px;
-    resize: vertical;
-  }
-  details.updater button{
-    margin-top: 10px;
-    background: var(--ink);
-    color: var(--bg);
-    border: none;
-    border-radius: 10px;
-    padding: 10px 16px;
-    font-size: 14px;
-    font-weight: 600;
-    cursor: pointer;
-  }
-  details.updater button:hover{ opacity: 0.9; }
-  .updated-at{ font-size: 12px; color: var(--ink-soft); margin-top: 10px; }
+  .stats{ display:grid; grid-template-columns:repeat(3,1fr); gap:12px; margin-bottom:14px; }
+  .stat{ background:var(--card-2); border-radius:var(--radius); padding:16px 18px; border:1px solid var(--line); }
+  .stat.precisa{ background:var(--terra-soft); } .stat.resolvidos{ background:var(--sage-soft); } .stat.rascunhos{ background:var(--gold-soft); }
+  .stat .label{ font-size:13px; color:var(--ink-soft); margin-bottom:6px; }
+  .stat .num{ font-family:'Lora',Georgia,serif; font-weight:700; font-size:30px; line-height:1; }
+  .stat.precisa .num{ color:var(--terra); } .stat.resolvidos .num{ color:var(--sage); } .stat.rascunhos .num{ color:var(--gold); }
 
-  .areas-grid{
-    display:grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-  }
-  @media (max-width: 680px){
-    .areas-grid{ grid-template-columns: repeat(2, 1fr); }
-  }
-  .area-chip{
-    background: var(--card-2);
-    border: 1px solid var(--line);
-    border-radius: 12px;
-    padding: 10px 12px;
-    display:flex;
-    justify-content: space-between;
-    align-items: baseline;
-    font-size: 13px;
-  }
-  .area-chip .area-num{
-    font-family:'Lora', Georgia, serif;
-    font-weight: 700;
-    font-size: 18px;
-    color: var(--gold);
-  }
+  .status-badge{ display:inline-flex; align-items:center; gap:6px; font-size:12px; font-weight:600; padding:4px 10px; border-radius:999px; }
+  .status-badge.sleeping{ background:var(--sage-soft); color:var(--sage); }
+  .status-badge.awake{ background:var(--terra-soft); color:var(--terra); }
+
+  .areas-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:10px; }
+  @media (max-width:680px){ .areas-grid{ grid-template-columns:repeat(2,1fr); } }
+  .area-chip{ background:var(--card-2); border:1px solid var(--line); border-radius:12px; padding:10px 12px; display:flex; justify-content:space-between; align-items:baseline; font-size:13px; }
+  .area-chip .area-num{ font-family:'Lora',Georgia,serif; font-weight:700; font-size:18px; color:var(--gold); }
+
+  .empty{ color:var(--ink-soft); font-size:14px; font-style:italic; }
+  ul.plain{ list-style:none; margin:0; padding:0; }
+  ul.plain li{ padding:9px 0; border-top:1px solid var(--line); font-size:14px; line-height:1.5; }
+  ul.plain li:first-child{ border-top:none; padding-top:0; }
+
+  .manual-note{ font-size:12px; color:var(--ink-soft); background:var(--card-2); border-radius:10px; padding:8px 12px; margin-bottom:16px; }
+  .saved-note{ font-size:12px; color:var(--ink-soft); margin-top:4px; }
+  details.updater{ margin-top:8px; background:var(--card); border-radius:var(--radius); border:1px solid var(--line); padding:16px 20px; }
+  details.updater summary{ cursor:pointer; font-weight:600; font-size:14px; color:var(--ink-soft); }
+  details.updater textarea{ width:100%; min-height:140px; margin-top:12px; }
+  details.updater button{ background:var(--ink); color:var(--bg); border:none; border-radius:10px; padding:10px 16px; font-size:14px; font-weight:600; cursor:pointer; }
 </style>
 </head>
 <body>
-<div class="wrap">
+<div class="layout">
+  <nav class="side">
+    <h1>painel</h1>
+    <div class="sub">Rafa</div>
+    <button data-page="overview" class="active">Visão geral</button>
 
-  <header class="top">
-    <div class="header-row">
-      <svg class="pet" id="pet-icon" viewBox="0 0 60 44" xmlns="http://www.w3.org/2000/svg">
-        <ellipse cx="30" cy="30" rx="22" ry="13" fill="var(--gold)" opacity="0.85"/>
-        <circle cx="14" cy="16" r="3.2" fill="var(--gold)" opacity="0.85"/>
-        <circle cx="24" cy="10" r="3.6" fill="var(--gold)" opacity="0.85"/>
-        <circle cx="16" cy="26" r="2.4" fill="var(--card)"/>
-        <circle cx="15.3" cy="25.6" r="1" fill="var(--ink)"/>
-        <path d="M12 30 q4 3 8 0" stroke="var(--ink)" stroke-width="1.2" fill="none" stroke-linecap="round"/>
-      </svg>
-      <div>
-        <h1 id="greeting">bom dia, Rafa</h1>
-        <span class="status-badge sleeping" id="status-badge">dormindo · tudo certo</span>
-      </div>
-    </div>
-    <div class="date" id="today"></div>
-  </header>
+    <div class="group-label">Automático · Gmail/Calendar</div>
+    <button data-page="auto"><span class="dot" style="background:var(--terra)"></span>Precisa de você</button>
 
-  <div class="stats">
-    <div class="stat precisa">
-      <div class="label">precisa de você</div>
-      <div class="num" id="count-precisa">0</div>
-    </div>
-    <div class="stat resolvidos">
-      <div class="label">resolvidos</div>
-      <div class="num" id="count-resolvidos">0</div>
-    </div>
-    <div class="stat rascunhos">
-      <div class="label">rascunhos</div>
-      <div class="num" id="count-rascunhos">0</div>
-    </div>
-  </div>
-
-  <div class="banner" id="banner" style="display:none;"></div>
-  <div class="saved-note" id="sync-status" style="margin-bottom:16px;">Carregando...</div>
-
-  <div class="grid">
-    <div class="card">
-      <h2>precisa de você</h2>
-      <ul id="list-precisa"><li class="empty">Cole o resumo de hoje para preencher.</li></ul>
-    </div>
-    <div class="card">
-      <h2>agenda de hoje</h2>
-      <ul id="list-agenda"><li class="empty">Cole o resumo de hoje para preencher.</li></ul>
-    </div>
-  </div>
-
-  <div class="grid" style="margin-top:16px;">
-    <div class="card">
-      <h2>resolvido / informativo</h2>
-      <ul id="list-resolvidos"><li class="empty">Nada ainda.</li></ul>
-    </div>
-    <div class="card">
-      <h2>rascunhos criados</h2>
-      <ul id="list-rascunhos"><li class="empty">Nenhum rascunho hoje.</li></ul>
-    </div>
-  </div>
-
-  <div class="card" style="margin-top:16px;">
-    <h2>áreas da vida</h2>
-    <div class="areas-grid" id="areas-grid"></div>
-  </div>
-
-  <details class="updater" id="updater">
-    <summary>Atualizar painel com o resumo de hoje</summary>
-    <textarea id="raw-input" placeholder="Cole aqui o texto que a Varredura Matinal gerou..."></textarea>
-    <br>
-    <button id="update-btn">Atualizar painel</button>
-    <div class="updated-at" id="updated-at"></div>
-  </details>
-
+    <div class="group-label">Manual · você atualiza</div>
+    <button data-page="saude"><span class="dot" style="background:var(--sage)"></span>Saúde e bem-estar</button>
+    <button data-page="pet"><span class="dot" style="background:var(--gold)"></span>Pet/filhote</button>
+    <button data-page="financeiro"><span class="dot" style="background:var(--terra)"></span>Financeiro pessoal</button>
+    <button data-page="fellow"><span class="dot" style="background:var(--blue)"></span>Fellow/CTBMF</button>
+  </nav>
+  <main id="main"></main>
 </div>
 
 <script>
 (function(){
-  var STORAGE_KEY = 'painel-rafa-data-v1';
+  var KEY = 'painel-unificado-v1';
   var DATA_URL = 'data.json';
-
-  function todayLabel(){
-    var d = new Date();
-    var opts = { weekday: 'long', day: 'numeric', month: 'long' };
-    return d.toLocaleDateString('pt-BR', opts);
-  }
-  document.getElementById('today').textContent = todayLabel();
-
-  function renderFromJson(json){
-    var sections = {
-      precisa: json.precisa || [],
-      resolvidos: json.resolvidos || [],
-      agenda: json.agenda || [],
-      rascunhos: json.rascunhos || [],
-      areas: []
-    };
-    var areasObj = json.areas || {};
-    for(var k in areasObj){
-      sections.areas.push(k + ': ' + areasObj[k]);
-    }
-    var data = { sections: sections, updatedAt: json.updatedAt || '' };
-    render(data);
-    save(data);
-  }
-
-  function loadFromGitHub(){
-    fetch(DATA_URL, { cache: 'no-store' })
-      .then(function(resp){
-        if(!resp.ok) throw new Error('sem dados ainda');
-        return resp.json();
-      })
-      .then(function(json){
-        renderFromJson(json);
-        document.getElementById('sync-status').textContent = 'Sincronizado automaticamente com a Routine.';
-      })
-      .catch(function(){
-        document.getElementById('sync-status').textContent = 'Ainda não recebeu dados da Routine. Mostrando o último salvo manualmente, se houver.';
-        loadSaved();
-      });
-  }
-
-  function normalize(s){
-    return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase();
-  }
-
-  // find section boundaries by header keywords, case/accent-insensitive
-  function parseSections(raw){
-    var lines = raw.split('\n');
-    var headers = [
-      { key: 'precisa', test: function(n){ return n.indexOf('PRECISA DE VOC') === 0 || n.indexOf('PRECISA DE VOC') > -1 && n.length < 40; } },
-      { key: 'resolvidos', test: function(n){ return n.indexOf('RESOLVID') === 0 || (n.indexOf('RESOLVID') > -1 && n.length < 40); } },
-      { key: 'agenda', test: function(n){ return n.indexOf('AGENDA') === 0 || (n.indexOf('AGENDA') > -1 && n.length < 40); } },
-      { key: 'rascunhos', test: function(n){ return n.indexOf('RASCUNH') === 0 && n.length < 40; } },
-      { key: 'areas', test: function(n){ return n.indexOf('AREAS DA VIDA') === 0 || (n.indexOf('AREAS DA VIDA') > -1 && n.length < 40); } }
-    ];
-
-    var sections = { precisa: [], resolvidos: [], agenda: [], rascunhos: [], areas: [] };
-    var current = null;
-
-    lines.forEach(function(line){
-      var trimmed = line.trim();
-      if(!trimmed){ return; }
-      var n = normalize(trimmed);
-      var matched = null;
-      for(var i=0;i<headers.length;i++){
-        if(headers[i].test(n)){ matched = headers[i].key; break; }
-      }
-      if(matched){
-        current = matched;
-        return;
-      }
-      if(!current) return;
-      var bulletMatch = trimmed.match(/^[-•*]\s*(.+)$/);
-      if(bulletMatch){
-        sections[current].push(bulletMatch[1]);
-      } else if(sections[current].length === 0 || trimmed.length > 3){
-        // plain sentence line inside a section, keep as its own item if short paragraph
-        if(trimmed.length < 240){
-          sections[current].push(trimmed);
-        }
-      }
-    });
-
-    return sections;
-  }
-
-  function renderList(elId, items, emptyText){
-    var el = document.getElementById(elId);
-    el.innerHTML = '';
-    if(!items || items.length === 0){
-      var li = document.createElement('li');
-      li.className = 'empty';
-      li.textContent = emptyText;
-      el.appendChild(li);
-      return;
-    }
-    items.forEach(function(item){
-      var li = document.createElement('li');
-      li.textContent = item;
-      el.appendChild(li);
-    });
-  }
-
   var LIFE_AREAS = ['Saúde e bem-estar', 'Família', 'Pet/filhote', 'Financeiro pessoal', 'Social/lazer', 'Fellow/CTBMF'];
 
-  function renderAreas(areaLines){
-    var counts = {};
-    LIFE_AREAS.forEach(function(a){ counts[a] = 0; });
-    (areaLines || []).forEach(function(line){
-      var m = line.match(/^(.+?):\s*(\d+)/);
-      if(m){
-        var label = m[1].trim();
-        var found = LIFE_AREAS.find(function(a){
-          return normalize(a) === normalize(label);
-        });
-        if(found){ counts[found] = parseInt(m[2], 10); }
-      }
-    });
-    var grid = document.getElementById('areas-grid');
-    grid.innerHTML = '';
-    LIFE_AREAS.forEach(function(a){
-      var chip = document.createElement('div');
-      chip.className = 'area-chip';
-      chip.innerHTML = '<span>' + a + '</span><span class="area-num">' + counts[a] + '</span>';
-      grid.appendChild(chip);
-    });
+  function defaultState(){
+    return {
+      auto: { precisa:[], resolvidos:[], agenda:[], rascunhos:[], areas:{}, updatedAt:'', synced:false },
+      saude: { treinos:[false,false,false,false,false,false,false], metaSemanal:5, sonoHoras:'', pesoAtual:'', pesoHistorico:[] },
+      pet: { nomePet:'Zigo', dataNascimento:'', vacinas:[], vermifugoProxima:'', passeiosSemana:0, rotina:'', brincadeiras:'', alimentacao:'' },
+      financeiro: { faturaValor:'', faturaStatus:'pendente', metaReservaPct:0, investimentoValor:'' },
+      fellow: { modulos:[], proximasAulas:[], aprendizados:'', tecnicasReforcar:'' }
+    };
   }
 
-  function render(data){
-    var sections = data.sections || { precisa: [], resolvidos: [], agenda: [], rascunhos: [], areas: [] };
-    renderAreas(sections.areas);
-
-    document.getElementById('count-precisa').textContent = sections.precisa.length;
-    document.getElementById('count-resolvidos').textContent = sections.resolvidos.length;
-    document.getElementById('count-rascunhos').textContent = sections.rascunhos.length;
-
-    renderList('list-precisa', sections.precisa, 'Nada pendente. Tudo em dia.');
-    renderList('list-agenda', sections.agenda, 'Sem compromissos marcados.');
-    renderList('list-resolvidos', sections.resolvidos, 'Nada resolvido registrado.');
-    renderList('list-rascunhos', sections.rascunhos, 'Nenhum rascunho hoje.');
-
-    var badge = document.getElementById('status-badge');
-    var pet = document.getElementById('pet-icon');
-    var n = sections.precisa.length;
-    if(n > 0){
-      badge.className = 'status-badge awake';
-      badge.textContent = 'acordado · ' + n + (n === 1 ? ' coisa precisa de você' : ' coisas precisam de você');
-      pet.classList.add('awake-pet');
-    } else {
-      badge.className = 'status-badge sleeping';
-      badge.textContent = 'dormindo · tudo certo';
-      pet.classList.remove('awake-pet');
-    }
-
-    var banner = document.getElementById('banner');
-    if(data.raw){
-      banner.style.display = 'block';
-      banner.innerHTML = '<b>última varredura:</b> ' + (data.updatedAt || 'agora');
-    }
-
-    var updatedEl = document.getElementById('updated-at');
-    updatedEl.textContent = data.updatedAt ? ('Atualizado em ' + data.updatedAt) : '';
-  }
-
-  function loadSaved(){
+  function loadManual(){
+    var defaults = defaultState();
     try{
-      var raw = localStorage.getItem(STORAGE_KEY);
+      var raw = localStorage.getItem(KEY);
       if(raw){
-        var data = JSON.parse(raw);
-        render(data);
-        if(data.raw){
-          document.getElementById('raw-input').value = data.raw;
-        }
+        var saved = JSON.parse(raw);
+        ['saude','pet','financeiro','fellow'].forEach(function(section){
+          if(saved[section]){
+            for(var k in defaults[section]){
+              defaults[section][k] = (saved[section][k] !== undefined) ? saved[section][k] : defaults[section][k];
+            }
+          }
+        });
       }
-    }catch(e){
-      console.error('Não foi possível carregar dados salvos', e);
-    }
+    }catch(e){ console.error(e); }
+    return defaults;
   }
 
-  function save(data){
+  function saveManual(){
     try{
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-    }catch(e){
-      console.error('Não foi possível salvar', e);
+      localStorage.setItem(KEY, JSON.stringify({ saude: state.saude, pet: state.pet, financeiro: state.financeiro, fellow: state.fellow }));
+      var el = document.getElementById('saved-note');
+      if(el) el.textContent = 'Salvo agora neste navegador.';
+    }catch(e){ console.error('Não foi possível salvar', e); }
+  }
+
+  var state = loadManual();
+  var currentPage = 'overview';
+
+  function el(tag, attrs, children){
+    var e = document.createElement(tag);
+    attrs = attrs || {};
+    for(var k in attrs){ if(k==='class') e.className = attrs[k]; else if(k==='html') e.innerHTML = attrs[k]; else e.setAttribute(k, attrs[k]); }
+    (children||[]).forEach(function(c){ e.appendChild(c); });
+    return e;
+  }
+  function bindInput(input, getVal, setVal){
+    input.value = getVal();
+    input.addEventListener('input', function(){ setVal(input.value); saveManual(); });
+    return input;
+  }
+  function calcAge(birthDateStr){
+    if(!birthDateStr) return null;
+    var birth = new Date(birthDateStr + 'T00:00:00');
+    var today = new Date();
+    if(isNaN(birth.getTime()) || birth > today) return null;
+    if(birth.getFullYear() < 2000) return null;
+    var months = (today.getFullYear() - birth.getFullYear()) * 12 + (today.getMonth() - birth.getMonth());
+    var dayDiff = today.getDate() - birth.getDate();
+    if(dayDiff < 0){ months -= 1; var prevMonth = new Date(today.getFullYear(), today.getMonth(), 0); dayDiff += prevMonth.getDate(); }
+    return { months: months, days: dayDiff };
+  }
+  function formatAge(age){
+    if(!age) return '';
+    return age.months + ' mês' + (age.months===1?'':'es') + ' e ' + age.days + ' dia' + (age.days===1?'':'s');
+  }
+
+  // ---------- AUTO DATA (from GitHub) ----------
+  function loadAuto(cb){
+    fetch(DATA_URL, { cache: 'no-store' })
+      .then(function(r){ if(!r.ok) throw new Error('sem dados'); return r.json(); })
+      .then(function(json){
+        state.auto = {
+          precisa: json.precisa || [], resolvidos: json.resolvidos || [],
+          agenda: json.agenda || [], rascunhos: json.rascunhos || [],
+          areas: json.areas || {}, updatedAt: json.updatedAt || '', synced: true
+        };
+        cb();
+      })
+      .catch(function(){ state.auto.synced = false; cb(); });
+  }
+
+  // ---------- OVERVIEW ----------
+  function renderOverview(main){
+    main.appendChild(el('h2',{class:'page-title'},[document.createTextNode('bom dia, Rafa')]));
+    main.appendChild(el('div',{class:'page-sub'},[document.createTextNode(new Date().toLocaleDateString('pt-BR',{weekday:'long',day:'numeric',month:'long'}))]));
+
+    var n = state.auto.precisa.length;
+    var badge = el('span',{class:'status-badge ' + (n>0?'awake':'sleeping')},[document.createTextNode(
+      n>0 ? ('acordado · ' + n + (n===1?' coisa precisa de você':' coisas precisam de você')) : 'dormindo · tudo certo'
+    )]);
+    main.appendChild(el('div',{style:'margin-bottom:16px;'},[badge]));
+
+    if(!state.auto.synced){
+      main.appendChild(el('div',{class:'manual-note'},[document.createTextNode('Ainda não recebi dados novos da Routine. Mostrando o último conhecido.')]));
+    }
+
+    var stats = el('div',{class:'stats'});
+    stats.appendChild(el('div',{class:'stat precisa'},[el('div',{class:'label'},[document.createTextNode('precisa de você')]),el('div',{class:'num'},[document.createTextNode(String(state.auto.precisa.length))])]));
+    stats.appendChild(el('div',{class:'stat resolvidos'},[el('div',{class:'label'},[document.createTextNode('resolvidos')]),el('div',{class:'num'},[document.createTextNode(String(state.auto.resolvidos.length))])]));
+    stats.appendChild(el('div',{class:'stat rascunhos'},[el('div',{class:'label'},[document.createTextNode('rascunhos')]),el('div',{class:'num'},[document.createTextNode(String(state.auto.rascunhos.length))])]));
+    main.appendChild(stats);
+
+    var grid = el('div',{class:'overview-grid'});
+
+    var treinosFeitos = state.saude.treinos.filter(Boolean).length;
+    var ovSaude = el('div',{class:'ov-card'},[
+      el('h3',{},[document.createTextNode('Saúde e bem-estar')]),
+      el('div',{class:'sublist'},[document.createTextNode(treinosFeitos+'/'+state.saude.metaSemanal+' treinos esta semana'+(state.saude.pesoAtual?' · peso: '+state.saude.pesoAtual+'kg':''))])
+    ]);
+    ovSaude.onclick = function(){ goTo('saude'); };
+    grid.appendChild(ovSaude);
+
+    var petAge = calcAge(state.pet.dataNascimento);
+    var ovPet = el('div',{class:'ov-card'},[
+      el('h3',{},[document.createTextNode('Pet/filhote')]),
+      el('div',{class:'sublist'},[document.createTextNode((state.pet.nomePet||'Pet')+(petAge?': '+formatAge(petAge):'')+' · '+state.pet.vacinas.length+' vacina(s)')])
+    ]);
+    ovPet.onclick = function(){ goTo('pet'); };
+    grid.appendChild(ovPet);
+
+    var ovFin = el('div',{class:'ov-card'},[
+      el('h3',{},[document.createTextNode('Financeiro pessoal')]),
+      el('div',{class:'sublist'},[document.createTextNode((state.financeiro.faturaValor?'Fatura: R$ '+state.financeiro.faturaValor+' ('+state.financeiro.faturaStatus+')':'Fatura não informada')+' · reserva: '+state.financeiro.metaReservaPct+'%')])
+    ]);
+    ovFin.onclick = function(){ goTo('financeiro'); };
+    grid.appendChild(ovFin);
+
+    var ovFellow = el('div',{class:'ov-card'},[
+      el('h3',{},[document.createTextNode('Fellow/CTBMF')]),
+      el('div',{class:'sublist'},[document.createTextNode(state.fellow.modulos.length+' módulo(s) · '+state.fellow.proximasAulas.length+' aula(s) programada(s)')])
+    ]);
+    ovFellow.onclick = function(){ goTo('fellow'); };
+    grid.appendChild(ovFellow);
+
+    main.appendChild(grid);
+
+    if(state.auto.updatedAt){
+      main.appendChild(el('div',{class:'saved-note', style:'margin-top:16px;'},[document.createTextNode('Última varredura automática: '+state.auto.updatedAt)]));
     }
   }
 
-  document.getElementById('update-btn').addEventListener('click', function(){
-    var raw = document.getElementById('raw-input').value;
-    var sections = parseSections(raw);
-    var now = new Date();
-    var updatedAt = now.toLocaleDateString('pt-BR') + ' às ' + now.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'});
-    var data = { raw: raw, sections: sections, updatedAt: updatedAt };
-    save(data);
-    render(data);
-    document.getElementById('updater').open = false;
-    document.getElementById('sync-status').textContent = 'Mostrando dado colado manualmente (não veio da Routine).';
-  });
+  // ---------- AUTO PAGE ----------
+  function renderAuto(main){
+    main.appendChild(el('h2',{class:'page-title'},[document.createTextNode('Precisa de você')]));
+    main.appendChild(el('div',{class:'page-sub'},[document.createTextNode('Gerado automaticamente pela Routine, sem você precisar fazer nada.')]));
 
-  loadFromGitHub();
+    function listCard(title, items, emptyText){
+      var card = el('div',{class:'card'},[el('h3',{},[document.createTextNode(title)])]);
+      var ul = el('ul',{class:'plain'});
+      if(!items.length){ ul.appendChild(el('li',{class:'empty'},[document.createTextNode(emptyText)])); }
+      else items.forEach(function(i){ ul.appendChild(el('li',{},[document.createTextNode(i)])); });
+      card.appendChild(ul);
+      return card;
+    }
+    main.appendChild(listCard('Precisa de você', state.auto.precisa, 'Nada pendente. Tudo em dia.'));
+    main.appendChild(listCard('Agenda de hoje', state.auto.agenda, 'Sem compromissos marcados.'));
+    main.appendChild(listCard('Resolvido / informativo', state.auto.resolvidos, 'Nada resolvido registrado.'));
+    main.appendChild(listCard('Rascunhos criados', state.auto.rascunhos, 'Nenhum rascunho hoje.'));
+
+    var areasCard = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Áreas da vida (pendências detectadas)')])]);
+    var grid = el('div',{class:'areas-grid'});
+    LIFE_AREAS.forEach(function(a){
+      var count = state.auto.areas[a] !== undefined ? state.auto.areas[a] : 0;
+      grid.appendChild(el('div',{class:'area-chip'},[el('span',{},[document.createTextNode(a)]),el('span',{class:'area-num'},[document.createTextNode(String(count))])]));
+    });
+    areasCard.appendChild(grid);
+    main.appendChild(areasCard);
+
+    if(state.auto.updatedAt){
+      main.appendChild(el('div',{class:'saved-note'},[document.createTextNode('Última varredura: '+state.auto.updatedAt)]));
+    }
+  }
+
+  // ---------- SAÚDE ----------
+  function renderSaude(main){
+    main.appendChild(el('h2',{class:'page-title'},[document.createTextNode('Saúde e bem-estar')]));
+    main.appendChild(el('div',{class:'manual-note'},[document.createTextNode('Você atualiza esta página manualmente.')]));
+
+    var cardTreino = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Treino da semana')])]);
+    var week = el('div',{class:'week'});
+    ['Seg','Ter','Qua','Qui','Sex','Sáb','Dom'].forEach(function(d,i){
+      var dayEl = el('div',{class:'day'+(state.saude.treinos[i]?' on':'')},[document.createTextNode(d)]);
+      dayEl.onclick = function(){ state.saude.treinos[i] = !state.saude.treinos[i]; saveManual(); rerender(); };
+      week.appendChild(dayEl);
+    });
+    cardTreino.appendChild(week);
+    var metaInput = el('input',{type:'number', min:'0', max:'7'});
+    cardTreino.appendChild(el('label',{},[document.createTextNode('Meta semanal (dias)')]));
+    bindInput(metaInput, function(){ return state.saude.metaSemanal; }, function(v){ state.saude.metaSemanal = v; });
+    cardTreino.appendChild(metaInput);
+    main.appendChild(cardTreino);
+
+    var cardSono = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Sono')])]);
+    var sonoInput = el('input',{type:'number', step:'0.5', placeholder:'Horas de sono hoje'});
+    bindInput(sonoInput, function(){ return state.saude.sonoHoras; }, function(v){ state.saude.sonoHoras = v; });
+    cardSono.appendChild(sonoInput);
+    main.appendChild(cardSono);
+
+    var cardPeso = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Peso')])]);
+    var pesoInput = el('input',{type:'number', step:'0.1', placeholder:'Peso atual (kg)'});
+    bindInput(pesoInput, function(){ return state.saude.pesoAtual; }, function(v){ state.saude.pesoAtual = v; });
+    cardPeso.appendChild(pesoInput);
+    var addPesoBtn = el('button',{class:'add', type:'button'},[document.createTextNode('+ Registrar peso de hoje no histórico')]);
+    addPesoBtn.onclick = function(){ if(!state.saude.pesoAtual) return; state.saude.pesoHistorico.push({data:new Date().toLocaleDateString('pt-BR'), valor:state.saude.pesoAtual}); saveManual(); rerender(); };
+    cardPeso.appendChild(addPesoBtn);
+    if(state.saude.pesoHistorico.length){
+      var hist = el('div',{style:'margin-top:12px; font-size:13px; color:var(--ink-soft);'});
+      state.saude.pesoHistorico.slice(-8).reverse().forEach(function(h){ hist.appendChild(el('div',{},[document.createTextNode(h.data+': '+h.valor+'kg')])); });
+      cardPeso.appendChild(hist);
+    }
+    main.appendChild(cardPeso);
+  }
+
+  // ---------- PET ----------
+  function renderPet(main){
+    main.appendChild(el('h2',{class:'page-title'},[document.createTextNode('Pet/filhote')]));
+    main.appendChild(el('div',{class:'manual-note'},[document.createTextNode('Você atualiza esta página manualmente.')]));
+
+    var cardIdade = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Zigo')])]);
+    var rowIdade = el('div',{class:'row'});
+    var dNome = el('div',{},[el('label',{},[document.createTextNode('Nome')])]);
+    var nomeInput = el('input',{type:'text'});
+    bindInput(nomeInput, function(){ return state.pet.nomePet; }, function(v){ state.pet.nomePet = v; });
+    dNome.appendChild(nomeInput);
+    rowIdade.appendChild(dNome);
+    var dNasc = el('div',{},[el('label',{},[document.createTextNode('Data de nascimento')])]);
+    var nascInput = el('input',{type:'date'});
+    nascInput.value = state.pet.dataNascimento;
+    nascInput.addEventListener('input', function(){ state.pet.dataNascimento = nascInput.value; saveManual(); rerender(); });
+    dNasc.appendChild(nascInput);
+    rowIdade.appendChild(dNasc);
+    cardIdade.appendChild(rowIdade);
+    var age = calcAge(state.pet.dataNascimento);
+    if(age){ cardIdade.appendChild(el('div',{class:'stat-chip'},[el('span',{class:'n'},[document.createTextNode(formatAge(age))]),document.createTextNode('idade atual')])); }
+    else if(state.pet.dataNascimento){ cardIdade.appendChild(el('div',{class:'saved-note'},[document.createTextNode('Data parece incorreta, confira o ano.')])); }
+    main.appendChild(cardIdade);
+
+    var cardVac = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Vacinas')])]);
+    state.pet.vacinas.forEach(function(v,i){
+      var row = el('div',{class:'list-item'});
+      var nameInput = el('input',{type:'text', placeholder:'Vacina', value:v.nome||''});
+      nameInput.oninput = function(){ v.nome = nameInput.value; saveManual(); };
+      var dateInput = el('input',{type:'date', value:v.data||''});
+      dateInput.oninput = function(){ v.data = dateInput.value; saveManual(); };
+      var rm = el('button',{class:'rm', type:'button'},[document.createTextNode('×')]);
+      rm.onclick = function(){ state.pet.vacinas.splice(i,1); saveManual(); rerender(); };
+      row.appendChild(nameInput); row.appendChild(dateInput); row.appendChild(rm);
+      cardVac.appendChild(row);
+    });
+    var addVac = el('button',{class:'add', type:'button'},[document.createTextNode('+ Adicionar vacina')]);
+    addVac.onclick = function(){ state.pet.vacinas.push({nome:'',data:''}); saveManual(); rerender(); };
+    cardVac.appendChild(addVac);
+    main.appendChild(cardVac);
+
+    var cardRotina = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Passeios e vermífugo')])]);
+    var row1 = el('div',{class:'row'});
+    var d1 = el('div',{},[el('label',{},[document.createTextNode('Passeios esta semana')])]);
+    var passeiosInput = el('input',{type:'number', min:'0'});
+    bindInput(passeiosInput, function(){ return state.pet.passeiosSemana; }, function(v){ state.pet.passeiosSemana = v; });
+    d1.appendChild(passeiosInput); row1.appendChild(d1);
+    var d2 = el('div',{},[el('label',{},[document.createTextNode('Próximo vermífugo')])]);
+    var vermInput = el('input',{type:'date'});
+    bindInput(vermInput, function(){ return state.pet.vermifugoProxima; }, function(v){ state.pet.vermifugoProxima = v; });
+    d2.appendChild(vermInput); row1.appendChild(d2);
+    cardRotina.appendChild(row1);
+    main.appendChild(cardRotina);
+
+    var cardNotas = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Rotina, brincadeiras e alimentação')])]);
+    [['rotina','Rotina diária'],['brincadeiras','Brincadeiras'],['alimentacao','Alimentação']].forEach(function(pair){
+      cardNotas.appendChild(el('label',{},[document.createTextNode(pair[1])]));
+      var ta = el('textarea',{});
+      bindInput(ta, function(){ return state.pet[pair[0]]; }, function(v){ state.pet[pair[0]] = v; });
+      cardNotas.appendChild(ta);
+    });
+    main.appendChild(cardNotas);
+  }
+
+  // ---------- FINANCEIRO ----------
+  function renderFinanceiro(main){
+    main.appendChild(el('h2',{class:'page-title'},[document.createTextNode('Financeiro pessoal')]));
+    main.appendChild(el('div',{class:'manual-note'},[document.createTextNode('Você atualiza esta página manualmente.')]));
+
+    var card = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Fatura do mês')])]);
+    var row = el('div',{class:'row'});
+    var d1 = el('div',{},[el('label',{},[document.createTextNode('Valor (R$)')])]);
+    var valInput = el('input',{type:'number', step:'0.01'});
+    bindInput(valInput, function(){ return state.financeiro.faturaValor; }, function(v){ state.financeiro.faturaValor = v; });
+    d1.appendChild(valInput); row.appendChild(d1);
+    var d2 = el('div',{},[el('label',{},[document.createTextNode('Status')])]);
+    var select = el('select',{});
+    ['pendente','paga','parcelada'].forEach(function(opt){
+      var o = el('option',{value:opt},[document.createTextNode(opt)]);
+      if(state.financeiro.faturaStatus===opt) o.setAttribute('selected','selected');
+      select.appendChild(o);
+    });
+    select.onchange = function(){ state.financeiro.faturaStatus = select.value; saveManual(); };
+    d2.appendChild(select); row.appendChild(d2);
+    card.appendChild(row);
+    main.appendChild(card);
+
+    var card2 = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Metas de longo prazo')])]);
+    var row2 = el('div',{class:'row'});
+    var e1 = el('div',{},[el('label',{},[document.createTextNode('Reserva de emergência (%)')])]);
+    var reservaInput = el('input',{type:'number', min:'0', max:'100'});
+    bindInput(reservaInput, function(){ return state.financeiro.metaReservaPct; }, function(v){ state.financeiro.metaReservaPct = v; });
+    e1.appendChild(reservaInput); row2.appendChild(e1);
+    var e2 = el('div',{},[el('label',{},[document.createTextNode('Investimentos (R$ acumulado)')])]);
+    var invInput = el('input',{type:'number', step:'0.01'});
+    bindInput(invInput, function(){ return state.financeiro.investimentoValor; }, function(v){ state.financeiro.investimentoValor = v; });
+    e2.appendChild(invInput); row2.appendChild(e2);
+    card2.appendChild(row2);
+    main.appendChild(card2);
+  }
+
+  // ---------- FELLOW ----------
+  function renderFellow(main){
+    main.appendChild(el('h2',{class:'page-title'},[document.createTextNode('Fellow/CTBMF')]));
+    main.appendChild(el('div',{class:'manual-note'},[document.createTextNode('Você atualiza esta página manualmente.')]));
+
+    var cardMod = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Módulos')])]);
+    state.fellow.modulos.forEach(function(m,i){
+      var row = el('div',{class:'list-item'});
+      var nameInput = el('input',{type:'text', placeholder:'Nome do módulo', value:m.nome||''});
+      nameInput.oninput = function(){ m.nome = nameInput.value; saveManual(); };
+      var progInput = el('input',{type:'number', min:'0', max:'100', placeholder:'%', style:'max-width:70px;', value:m.progresso||0});
+      progInput.oninput = function(){ m.progresso = progInput.value; saveManual(); };
+      var rm = el('button',{class:'rm', type:'button'},[document.createTextNode('×')]);
+      rm.onclick = function(){ state.fellow.modulos.splice(i,1); saveManual(); rerender(); };
+      row.appendChild(nameInput); row.appendChild(progInput); row.appendChild(rm);
+      cardMod.appendChild(row);
+    });
+    var addMod = el('button',{class:'add', type:'button'},[document.createTextNode('+ Adicionar módulo')]);
+    addMod.onclick = function(){ state.fellow.modulos.push({nome:'',progresso:0}); saveManual(); rerender(); };
+    cardMod.appendChild(addMod);
+    main.appendChild(cardMod);
+
+    var cardAulas = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Próximas aulas e cursos')])]);
+    state.fellow.proximasAulas.forEach(function(a,i){
+      var row = el('div',{class:'list-item'});
+      var nameInput = el('input',{type:'text', placeholder:'Aula ou curso', value:a.nome||''});
+      nameInput.oninput = function(){ a.nome = nameInput.value; saveManual(); };
+      var dateInput = el('input',{type:'date', value:a.data||''});
+      dateInput.oninput = function(){ a.data = dateInput.value; saveManual(); };
+      var rm = el('button',{class:'rm', type:'button'},[document.createTextNode('×')]);
+      rm.onclick = function(){ state.fellow.proximasAulas.splice(i,1); saveManual(); rerender(); };
+      row.appendChild(nameInput); row.appendChild(dateInput); row.appendChild(rm);
+      cardAulas.appendChild(row);
+    });
+    var addAula = el('button',{class:'add', type:'button'},[document.createTextNode('+ Adicionar aula ou curso')]);
+    addAula.onclick = function(){ state.fellow.proximasAulas.push({nome:'',data:''}); saveManual(); rerender(); };
+    cardAulas.appendChild(addAula);
+    main.appendChild(cardAulas);
+
+    var cardNotas = el('div',{class:'card'},[el('h3',{},[document.createTextNode('Aprendizados e técnicas a reforçar')])]);
+    cardNotas.appendChild(el('label',{},[document.createTextNode('Principais aprendizados')]));
+    var ta1 = el('textarea',{}); bindInput(ta1, function(){ return state.fellow.aprendizados; }, function(v){ state.fellow.aprendizados = v; }); cardNotas.appendChild(ta1);
+    cardNotas.appendChild(el('label',{},[document.createTextNode('Técnicas que preciso reforçar')]));
+    var ta2 = el('textarea',{}); bindInput(ta2, function(){ return state.fellow.tecnicasReforcar; }, function(v){ state.fellow.tecnicasReforcar = v; }); cardNotas.appendChild(ta2);
+    main.appendChild(cardNotas);
+  }
+
+  function rerender(){
+    var main = document.getElementById('main');
+    main.innerHTML = '';
+    if(currentPage==='overview') renderOverview(main);
+    else if(currentPage==='auto') renderAuto(main);
+    else if(currentPage==='saude') renderSaude(main);
+    else if(currentPage==='pet') renderPet(main);
+    else if(currentPage==='financeiro') renderFinanceiro(main);
+    else if(currentPage==='fellow') renderFellow(main);
+    main.appendChild(el('div',{class:'saved-note', id:'saved-note'},[document.createTextNode('')]));
+    document.querySelectorAll('nav.side button').forEach(function(b){ b.classList.toggle('active', b.getAttribute('data-page')===currentPage); });
+  }
+  function goTo(page){ currentPage = page; rerender(); }
+  document.querySelectorAll('nav.side button').forEach(function(b){ b.addEventListener('click', function(){ goTo(b.getAttribute('data-page')); }); });
+
+  loadAuto(function(){ rerender(); });
 })();
 </script>
 </body>
