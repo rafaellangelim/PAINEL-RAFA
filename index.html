@@ -512,15 +512,17 @@
       var row = el('div',{class:'list-item'});
       var nameInput = el('input',{type:'text', placeholder:'Aula ou curso', value:a.nome||''});
       nameInput.oninput = function(){ a.nome = nameInput.value; saveManual(); };
-      var dateInput = el('input',{type:'date', value:a.data||''});
+      var dateInput = el('input',{type:'date', value:a.data||'', style:'max-width:150px;'});
       dateInput.oninput = function(){ a.data = dateInput.value; saveManual(); };
+      var timeInput = el('input',{type:'time', value:a.hora||'', style:'max-width:110px;'});
+      timeInput.oninput = function(){ a.hora = timeInput.value; saveManual(); };
       var rm = el('button',{class:'rm', type:'button'},[document.createTextNode('×')]);
       rm.onclick = function(){ state.fellow.proximasAulas.splice(i,1); saveManual(); rerender(); };
-      row.appendChild(nameInput); row.appendChild(dateInput); row.appendChild(rm);
+      row.appendChild(nameInput); row.appendChild(dateInput); row.appendChild(timeInput); row.appendChild(rm);
       cardAulas.appendChild(row);
     });
     var addAula = el('button',{class:'add', type:'button'},[document.createTextNode('+ Adicionar aula ou curso')]);
-    addAula.onclick = function(){ state.fellow.proximasAulas.push({nome:'',data:''}); saveManual(); rerender(); };
+    addAula.onclick = function(){ state.fellow.proximasAulas.push({nome:'',data:'',hora:''}); saveManual(); rerender(); };
     cardAulas.appendChild(addAula);
     main.appendChild(cardAulas);
 
