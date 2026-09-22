@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "22/09/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Fatura do cartão de crédito C6 Bank (pessoa física) chegou - pagar ou parcelar pelo app. [Fonte: e-mail C6 Bank | Área: Financeiro pessoal | Prazo: vencimento em setembro/2026 | Prioridade: Alta]",
+    "DAS-MEI referente a agosto/2026 (CNPJ 53.328.790/0001-03) - pagamento em atraso, regularizar o quanto antes. [Fonte: e-mail MEI Digital | Área: Financeiro pessoal | Prazo: venceu em 21/09/2026 (atrasado) | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Plantão hospitalar (14/09 a 21/09) foi concluído. [Fonte: Google Calendar | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 2,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 1
   }
 }
