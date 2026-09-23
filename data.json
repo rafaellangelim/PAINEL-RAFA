@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
-  "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+  "updatedAt": "23/09/2026, 07:13 (horário de Brasília)",
+  "precisa": [
+    "Terapia - lembrete de tarefa pendente (Todoist, item \"TERAPIA\" no Inbox). [Fonte: Todoist, e-mail de 22/09 | Área: Saúde e bem-estar | Prazo: não definido | Prioridade: média]",
+    "Passagem aérea Brasília → São Paulo com queda de preço (de R$ 1.061 para R$ 693) para o período 10 a 15/11 - avaliar se compra a passagem. [Fonte: Google Flights (alerta de preço monitorado), e-mail de 22/09 | Área: Social/lazer | Prazo: viagem em 10-15/11, preço pode subir novamente | Prioridade: baixa]"
   ],
+  "resolvidos": [],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Não foi possível carregar a agenda do Google Calendar nesta varredura - a ferramenta de listagem de eventos retornou erro técnico persistente (falha de validação no servidor). Uma busca semântica por compromissos de hoje não encontrou resultados. Recomenda-se conferir a agenda manualmente."
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
