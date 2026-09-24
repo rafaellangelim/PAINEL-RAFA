@@ -1,21 +1,21 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "24/09/2026, 13:17 (horário de Brasília)",
+  "precisa": [
+    "Fatura do cartão de crédito pessoal (C6 Bank) chegou, vencimento em setembro/2026, protegida por senha (6 primeiros dígitos do CPF do titular), anexo em PDF no e-mail. [Fonte: C6 Bank (e-mail 21/09) | Área: Financeiro pessoal | Prazo: vencimento em setembro/2026 - verificar data exata e pagar/parcelar no app | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Queda de preço em passagem monitorada Rio de Janeiro → São Paulo (10 a 13/fev/2027): de R$1.143 para R$889. [Fonte: Google Flights (e-mail 23/09) | Área: Social/lazer | Informativo, sem ação necessária]",
+    "Queda de preço em passagem monitorada Brasília → São Paulo (10 a 15/nov/2026): de R$1.061 para R$693. [Fonte: Google Flights (e-mail 22/09) | Área: Social/lazer | Informativo, sem ação necessária]",
+    "Dr. Rafael Ruman pediu feedback da comunidade Bucomax via formulário, publicado no fórum Circle.so. [Fonte: Circle.so (e-mail 23/09) | Área: Fellow/CTBMF | Informativo, ação opcional - sem prazo definido]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
