@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "25/09/2026, 19:18 (horário de Brasília)",
+  "precisa": [
+    "Retomar/confirmar sessão de terapia (lembrete do Todoist, tarefa em atraso desde 21/04/2026, reenviado em 22/09) [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: atrasado, sem nova data confirmada | Prioridade: Alta]",
+    "Reativar o projeto Supabase \"RAV Finance\", pausado por inatividade (restauração possível em até 90 dias) [Fonte: E-mail Supabase, 25/09 | Área: Financeiro pessoal | Prazo: até ~24/12/2026 | Prioridade: Média]",
+    "Responder ao formulário de feedback da escola Bucomax, pedido pelo Dr. Rafael Ruman [Fonte: Circle.so (comunidade Bucomax), 23/09 | Área: Fellow/CTBMF | Prazo: sem prazo definido | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Masterclass ao vivo \"Lifting Temporal\" - Paciente Priscila Jaques Saturnino, presença confirmada e evento realizado em 24/09, às 15h. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
+    "Alerta de preço: voo Rio de Janeiro → São Paulo (10 a 13/fev) caiu para R$889. [Fonte: Google Voos, 23/09 | Área: Social/lazer | Informativo, sem ação necessária]",
+    "Alerta de preço: voo Brasília → São Paulo (10 a 15/nov) caiu para R$693. [Fonte: Google Voos, 22/09 | Área: Social/lazer | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum compromisso pessoal encontrado no Google Calendar para hoje, 25/09/2026."
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
     "Fellow/CTBMF": 2
   }
 }
