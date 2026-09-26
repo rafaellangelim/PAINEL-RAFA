@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "26/09/2026, 07:18 (horário de Brasília)",
+  "precisa": [
+    "Pagar a fatura do cartão de crédito pessoal (C6 Bank), com vencimento em setembro. [Fonte: Gmail (C6 Bank) | Área: Financeiro pessoal | Prazo: vencimento em setembro/2026 | Prioridade: Alta]",
+    "Avaliar participação no Webinar RDC 1.000 para prescritores (online e gratuito). [Fonte: Gmail (Receita Digital/Mevo) | Área: Fellow/CTBMF | Prazo: 30/09/2026, 19h | Prioridade: Média]",
+    "Avaliar compra de passagens com queda de preço monitorada: Brasília–São Paulo (10 a 15/nov, R$ 821) e Rio de Janeiro–São Paulo (10 a 13/fev, R$ 889). [Fonte: Gmail (Google Voos) | Área: Social/lazer | Prazo: sem prazo definido | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Presença confirmada na aula ao vivo \"Lifting Temporal - Paciente Priscila Jaques Saturnino\" (Circle.so), realizada em 24/09 às 15h. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
+    "Convite para webinar \"Comportamento suicida: como identificar os fatores de risco na prática\" (Memed), com Prof. Humberto Correa. [Fonte: Gmail (Memed) | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum compromisso pessoal agendado para hoje no Google Calendar."
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 3
   }
 }
