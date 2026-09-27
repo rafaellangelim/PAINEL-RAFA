@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "27/09/2026, 07:18 (horário de Brasília)",
+  "precisa": [
+    "Assinatura \"Bucomax\" (plataforma de conteúdo CTBMF) será renovada automaticamente HOJE, 27/09, via Stripe - decidir se mantém ou cancela antes da cobrança. [Fonte: Gmail (Stripe, 20/09) | Área: Fellow/CTBMF | Prazo: hoje, 27/09 | Prioridade: Alta]",
+    "DAS do MEI (competência 08/2026) venceu em 21/09 e não há confirmação de pagamento no e-mail - verificar se foi pago para evitar multa/juros. [Fonte: Gmail (meumeidigital.com.br, 21/09) | Área: Financeiro pessoal | Prazo: vencido desde 21/09 | Prioridade: Alta]",
+    "Tarefa \"TERAPIA\" pendente/lembrada no Todoist, sem data definida - agendar ou concluir. [Fonte: Todoist (lembrete automático, 22/09) | Área: Saúde e bem-estar | Prazo: não definido | Prioridade: Média]",
+    "Passagem Brasília → São Paulo (10 a 15/11) sendo monitorada: preço oscilando, R$ 821 na última atualização (25/09) - avaliar se compra agora. [Fonte: Gmail (Google Flights) | Área: Social/lazer | Prazo: viagem em 10/11 | Prioridade: Média]",
+    "Passagem Rio de Janeiro → São Paulo (10 a 13/02) sendo monitorada: R$ 889 na última atualização (23/09). [Fonte: Gmail (Google Flights) | Área: Social/lazer | Prazo: viagem em 10/02 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Masterclass ao vivo \"Lifting Temporal\" (Paciente Priscila Jaques Saturnino) - presença confirmada e aula realizada em 24/09, às 15h. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum compromisso pessoal encontrado no Google Calendar para hoje, 27/09."
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
     "Fellow/CTBMF": 2
   }
 }
