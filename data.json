@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "28/09/2026, 13:18 (horário de Brasília)",
+  "precisa": [
+    "Fatura do cartão de crédito pessoal (C6 Bank, CPF) chegou e vence em setembro — conferir valor e pagar antes do vencimento (protegida por senha: 6 primeiros dígitos do CPF). [Fonte: Gmail - C6 Bank, 21/09 | Área: Financeiro pessoal | Prazo: vencimento em setembro, verificar se já venceu | Prioridade: Alta]",
+    "Assinatura da Escola BUCOMAX com pagamento recusado 3x seguidas (R$ 98,00) — acesso à plataforma suspenso temporariamente (aulas teóricas, cirurgias gravadas e transmissões ao vivo bloqueadas). Atualizar dados do cartão para reativar. [Fonte: Gmail - Stripe/Circle.so BUCOMAX, 27-28/09 | Área: Fellow/CTBMF | Prazo: o quanto antes, acesso já suspenso | Prioridade: Alta]",
+    "Tarefa \"TERAPIA\" pendente no Todoist (lembrete recebido). [Fonte: Todoist, 22/09 | Área: Saúde e bem-estar | Prazo: verificar data no app | Prioridade: Média]",
+    "Preço da passagem aérea monitorada Brasília ↔ São Paulo (10 a 15/11) caiu para R$ 821 ida e volta — avaliar se vale comprar agora antes que suba de novo. [Fonte: Gmail - Google Voos, 28/09 | Área: Social/lazer | Prazo: preço pode subir novamente | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Masterclass \"Lifting Temporal ao Vivo — Paciente Priscila Jaques Saturnino\" (Circle.so) realizada em 24/09, presença confirmada. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
+    "Escola BUCOMAX pediu feedback via formulário sobre melhorias na plataforma (mensagem de Dr. Rafael Ruman). [Fonte: Circle.so, 23/09 | Área: Fellow/CTBMF | Informativo, ação opcional]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum compromisso pessoal encontrado no Google Calendar para hoje, 28/09/2026."
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 3
   }
 }
