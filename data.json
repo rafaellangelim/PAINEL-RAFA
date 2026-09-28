@@ -1,13 +1,14 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "28/09/2026, 07:17 (horário de Brasília)",
+  "precisa": [
+    "Pagamento da assinatura da Escola BUCOMAX recusado (mensalidade de R$ 98,00) - cartão não foi cobrado com sucesso; atualizar a forma de pagamento no Circle.so/Stripe para não perder o acesso ao curso. [Fonte: Circle.so/Stripe (BUCOMAX) | Área: Fellow/CTBMF | Prazo: urgente | Prioridade: Alta]",
+    "Preço da passagem Brasília↔São Paulo (10 a 15/11) caiu de R$ 1.363 para R$ 821 - avaliar se vale comprar enquanto o valor está baixo. [Fonte: Google Flights (alerta de preço) | Área: Social/lazer | Prazo: sem prazo definido, preço pode subir novamente | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Presença confirmada e aula \"Lifting Temporal ao Vivo - Paciente Priscila Jaques Saturnino\" realizada em 24/09. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum compromisso pessoal agendado para hoje no Google Calendar."
   ],
   "rascunhos": [],
   "areas": {
@@ -15,7 +16,7 @@
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
