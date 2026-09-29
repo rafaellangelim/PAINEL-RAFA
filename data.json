@@ -1,21 +1,21 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "29/09/2026, 07:16 (horário de Brasília)",
+  "precisa": [
+    "Regularizar pagamento da assinatura Escola BUCOMAX (R$ 98,00): cobrança no cartão falhou 3 vezes (27/09 e 28/09) e o Rafael Ruman mandou mensagens no Circle. Atualizar cartão/dados de pagamento para não perder acesso. [Fonte: Stripe + Circle.so | Área: Fellow/CTBMF + Financeiro pessoal | Prazo: o quanto antes | Prioridade: ALTA]",
+    "Confirmar que o novo login na conta OpenAI (app Codex, 28/09 10:16, Brasília) foi seu; se não foi, trocar a senha. [Fonte: OpenAI | Área: Financeiro pessoal (segurança de conta) | Prazo: hoje | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Google Voos: preço monitorado Brasília→São Paulo (ter 10/11 a dom 15/11, ida e volta) oscilou: R$ 821 → R$ 1.363 → R$ 1.181. Decidir se compra. [Fonte: Google Viagens | Área: Social/lazer | Informativo]",
+    "Aviso do Google: dados da conta compartilhados com o Claude via login (28/09). [Fonte: Google | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
