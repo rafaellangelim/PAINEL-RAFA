@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "29/09/2026, 19:20 (horário de Brasília)",
+  "precisa": [
+    "[ALTA] Regularizar pagamento da mensalidade da Escola BUCOMAX (R$ 98,00): cobrança no cartão falhou repetidamente (Stripe e Circle.so, 28 e 29/09) — atualizar/verificar cartão ou saldo. [Fonte: Stripe/Circle.so (BUCOMAX) | Área: Financeiro pessoal + Fellow/CTBMF | Prazo: o quanto antes, para não perder acesso]",
+    "[BAIXA] Lembrete Todoist \"TERAPIA\" disparado hoje às 09:00 — confirmar/agendar a sessão da semana. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: esta semana]",
+    "[BAIXA] Monitor de voos Brasília → São Paulo (10–15/11, ida e volta): preço oscilou, atualmente a partir de R$ 1.181; decidir se compra. [Fonte: Google Voos | Área: Social/lazer | Prazo: sem data fixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Webinar Memed \"Prevenção do Comportamento Suicida\" (29/09, 19h) — evento já ocorreu, apenas informativo. [Fonte: Memed | Área: Saúde e bem-estar | Informativo]",
+    "Aviso de login do Google com Claude e novo login OpenAI (28/09) — informativo, sem ação. [Fonte: Google/OpenAI | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem eventos no Google Calendar para hoje (29/09)."
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
