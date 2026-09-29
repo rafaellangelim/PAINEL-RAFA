@@ -1,21 +1,22 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "29/09/2026, 10:30 (horário de Brasília)",
+  "precisa": [
+    "Regularizar pagamento da assinatura BUCOMAX (R$ 98,00): cartão recusado 3x (27/09 e 28/09), com avisos do Stripe, Circle e mensagem direta do Rafael Ruman. Atualizar/trocar o cartão. [Fonte: Stripe/Circle.so | Área: Fellow/CTBMF + Financeiro pessoal | Prazo: o quanto antes, risco de perder acesso | Prioridade: ALTA]",
+    "TERAPIA: lembrete no Todoist (Inbox) em 29/09. Confirmar/agendar a sessão. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: hoje | Prioridade: MÉDIA]",
+    "Passagem Brasília → São Paulo, 10/11 a 15/11 (ida e volta): preço monitorado oscilando (R$ 821 → R$ 1.363 → R$ 1.181). Decidir se compra. [Fonte: Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Notas fiscais da Manychat (NFS-e 187038) e Simples Dental: informativos, sem ação pessoal. [Fonte: e-mail | Informativo]",
+    "Aviso de compartilhamento de dados do Google com Claude e novo login OpenAI (28/09): informativos de segurança, conferir só se não reconhecer. [Fonte: Google/OpenAI | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
