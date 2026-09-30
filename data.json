@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "30/09/2026, 07:20 (horário de Brasília)",
+  "precisa": [
+    "ALTA - Regularizar pagamento da assinatura BUCOMAX (R$ 98,00): cobrança no cartão falhou 4 vezes (27, 28 e 29/09) e a escola enviou avisos e DMs; atualizar cartão/dados ou pagar para não perder acesso. [Fonte: Stripe/Circle.so | Área: Fellow/CTBMF + Financeiro pessoal | Prazo: o quanto antes (novas tentativas de cobrança diárias)]",
+    "MÉDIA - Terapia: lembrete no Todoist (TERAPIA, na Inbox) - agendar/confirmar a sessão. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: sem data definida]",
+    "BAIXA - Decidir sobre a passagem Brasília > São Paulo (ter 10/11 a dom 15/11): preço monitorado oscilou entre R$ 821 e R$ 1.385 nos últimos dias (R$ 1.181 em 30/09). [Fonte: Google Voos | Área: Social/lazer | Prazo: antes de 10/11]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aviso de novo login na conta OpenAI (Codex, 28/09, Brasília) - se foi você, nada a fazer; caso contrário, revisar a segurança da conta. [Fonte: OpenAI | Área: Financeiro pessoal/segurança | Informativo]",
+    "Google informou compartilhamento de dados da conta com o Claude (login em 28/09). [Fonte: Google | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento no Google Calendar para hoje (30/09) nem para os próximos 7 dias."
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
