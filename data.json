@@ -1,13 +1,11 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
-  "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+  "updatedAt": "30/09/2026, 13:20 (horário de Brasília)",
+  "precisa": [
+    "Regularizar pagamento da assinatura BUCOMAX (R$ 98,00): cobrança no cartão falhou novamente (Stripe/Circle.so, 29/09). Atualizar cartão/dados de pagamento para não perder acesso. [Fonte: Stripe + Circle.so (3 e-mails) | Área: Fellow/CTBMF | Prazo: o quanto antes (nova tentativa de cobrança pode suspender o acesso) | Prioridade: Alta]"
   ],
+  "resolvidos": [],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem eventos pessoais na agenda hoje (30/09)."
   ],
   "rascunhos": [],
   "areas": {
@@ -16,6 +14,6 @@
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 1
   }
 }
