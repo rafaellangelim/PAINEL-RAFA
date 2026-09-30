@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "30/09/2026, 18:45 (horário de Brasília)",
+  "precisa": [
+    "Regularizar pagamento da assinatura BUCOMAX (R$ 98,00): cobrança no cartão falhou desde 28/09 (3 tentativas, última 29/09) e o acesso às aulas/cirurgias gravadas está suspenso. Atualizar/confirmar cartão no link do e-mail da Escola BUCOMAX (ou responder ao Rafael Ruman pelo Circle se precisar de ajuda). [Fonte: Gmail (Circle.so/Stripe) | Área: Fellow/CTBMF | Prazo: o quanto antes (acesso suspenso) | Prioridade: Alta]",
+    "Lembrete Todoist \"TERAPIA\" disparado em 29/09 e ainda não lido: confirmar/agendar a sessão de terapia da semana. [Fonte: Gmail (Todoist) | Área: Saúde e bem-estar | Prazo: esta semana | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Correios - coleta reversa agendada para 01/10/2026 (PAC Reverso, objeto QS658387032BR, pedido 4739557421, autorizador Bolt Card Instituição de Pagamentos, valor declarado R$ 1.050,00). Informativo: embalar e ter a nota/declaração de conteúdo à mão; se for equipamento da clínica, desconsiderar. [Fonte: Gmail (Correios) | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 1
   }
 }
