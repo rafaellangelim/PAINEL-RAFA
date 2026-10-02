@@ -1,21 +1,22 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "02/10/2026, 07:17 (horário de Brasília)",
+  "precisa": [
+    "ALTA - Regularizar pagamento da assinatura BUCOMAX (R$ 98,00): cartão falhou repetidamente (Stripe 01/10, 2 tentativas) e a escola mandou avisos e mensagem direta no Circle.so. Atualizar cartão/dados de pagamento para não perder o acesso. [Fonte: Stripe/Circle.so | Área: Fellow/CTBMF + Financeiro pessoal | Prazo: o quanto antes (hoje)]",
+    "BAIXA - Voos monitorados Brasília→São Paulo (10/11 a 15/11, ida e volta) baixaram para R$ 1.269; decidir se compra. [Fonte: Google Voos | Área: Social/lazer | Prazo: sem prazo definido]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aviso dos Correios sobre coleta de encomenda (logística reversa) em 30/09 - informativo. [Fonte: Correios | Área: Financeiro pessoal | Sem ação]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento no Google Calendar para hoje (02/10)."
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
