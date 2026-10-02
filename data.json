@@ -1,13 +1,14 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "02/10/2026, horário de Brasília (varredura automática)",
+  "precisa": [
+    "Regularizar pagamento da assinatura BUCOMAX (R$ 98,00): Stripe falhou várias vezes (29/09, 01/10) e Rafael Ruman enviou mensagens diretas e e-mails pedindo atualização do cartão. [Fonte: Stripe/Circle.so | Área: Fellow/CTBMF | Prazo: o quanto antes (risco de perder acesso) | Prioridade: Alta]",
+    "Decidir sobre passagem Brasília→São Paulo (ter 10/11 a dom 15/11, ida e volta, 1 adulto): preço monitorado oscilou entre R$ 1.269 e R$ 1.357 (Gol). [Fonte: Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alertas de status do Supabase (incidente de latência / confirmação de assinatura). [Fonte: Statuspage | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento no Google Calendar para hoje (02/10/2026)."
   ],
   "rascunhos": [],
   "areas": {
@@ -15,7 +16,7 @@
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
