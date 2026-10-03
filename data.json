@@ -1,21 +1,23 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "03/10/2026, 13:20 (horário de Brasília)",
+  "precisa": [
+    "Regularizar pagamento da assinatura BUCOMAX (R$ 98,00, falha repetida desde 01/10; acesso à plataforma suspenso) - atualizar cartão no link do Circle. Já existe rascunho no Gmail para Rafael Ruman (01/10), revisar e enviar se quiser. [Fonte: Circle/Stripe | Área: Fellow/CTBMF (financeiro) | Prazo: o quanto antes | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Voos monitorados Brasília → São Paulo (10–15/11, ida e volta): preço caiu para R$ 1.190 (era R$ 1.357). [Fonte: Google Voos | Área: Social/lazer | Informativo, decidir se compra]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "09:15–13:45 - Cirurgia ao vivo Bucomax \"Vera Lucia Cardoso\" (Circle.so) [Fellow/CTBMF]"
   ],
-  "rascunhos": [],
+  "rascunhos": [
+    "Rascunho já existente (01/10) para rafaelruman1@gmail.com - provável resposta sobre o pagamento BUCOMAX. Nenhum rascunho novo criado nesta execução."
+  ],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
