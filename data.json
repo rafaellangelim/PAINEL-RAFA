@@ -1,21 +1,22 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "04/10/2026, 19:20 (horário de Brasília)",
+  "precisa": [
+    "Regularizar pagamento da assinatura BUCOMAX (R$ 98,00): cobrança no cartão falhou repetidamente (28/09, 29/09 e 01/10) e há mensagens diretas de Rafael Scigliano Ruman no Circle sobre isso. [Fonte: Stripe/Circle.so | Área: Fellow/CTBMF | Prazo: o quanto antes, risco de perder acesso | Prioridade: Alta]",
+    "Lembrete Todoist \"TERAPIA\" (Inbox) - definir/confirmar sessão de terapia. [Fonte: Todoist, 29/09 | Área: Saúde e bem-estar | Prazo: não definido | Prioridade: Média]",
+    "Decidir sobre voo monitorado Brasília → São Paulo: preço subiu de R$ 1.190 para R$ 1.547. [Fonte: Google Voos, 04/10 | Área: Social/lazer | Prazo: sem data definida | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Pix enviado de R$ 25,00 (C6 Bank) em 03/10 - comprovante, sem ação. [Fonte: C6 Bank | Área: Financeiro pessoal | Informativo]",
+    "Alerta de novo login na conta OpenAI em 28/09 e compartilhamento de dados da conta Google com Claude - informativo; confirmar apenas se não foram feitos por você. [Fonte: OpenAI/Google | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
