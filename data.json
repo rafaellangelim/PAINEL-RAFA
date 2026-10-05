@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "05/10/2026, 07:20 (horário de Brasília)",
+  "precisa": [
+    "Regularizar pagamento da assinatura BUCOMAX (R$ 98,00, cobrança falhou em 01/10): atualizar cartão no Circle e enviar o rascunho de resposta ao Rafael Ruman. [Fonte: Gmail/Circle.so | Área: Fellow/CTBMF | Prazo: o quanto antes (acesso em risco) | Prioridade: Alta]",
+    "Decidir sobre voo monitorado Brasília → São Paulo (10–15/11, Gol): preço subiu de R$ 1.190 para R$ 1.547 em 04/10. [Fonte: Google Voos/Gmail | Área: Social/lazer (viagem, confirmar se é pessoal ou curso) | Prazo: antes de 10/11 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Circle.so: novo evento \"Vera Lucia Cardoso - 03/10/2026\" (aula/masterclass já realizada). [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum compromisso no Google Calendar para hoje (05/10)."
   ],
-  "rascunhos": [],
+  "rascunhos": [
+    "Re: Problema com pagamento da assinatura BUCOMAX, para rafaelruman1@gmail.com (já salvo no Gmail desde 01/10; NÃO enviado)"
+  ],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
