@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "06/10/2026, 13:20 (horário de Brasília)",
+  "precisa": [
+    "TERAPIA - lembrete do Todoist na Inbox (06/10). Confirmar/agendar a sessão. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: hoje | Prioridade: Média]",
+    "Pagar DAS 09/2026 do MEI (aviso do Meu MEI Digital, 06/10). Confirmar se o MEI é pessoal ou da clínica e pagar o boleto. [Fonte: Gmail - Meu MEI Digital | Área: Financeiro pessoal | Prazo: ver vencimento no e-mail (DAS costuma vencer dia 20) | Prioridade: Alta]",
+    "Assinatura BUCOMAX - falha na cobrança de R$ 98,00. Atualizar a forma de pagamento e enviar o rascunho de resposta ao Rafael, se a cobrança não reprocessar. [Fonte: Gmail - rascunho de 01/10 | Área: Fellow/CTBMF | Prazo: atrasado | Prioridade: Alta]",
+    "Decidir sobre a passagem Brasília→São Paulo, 10 a 15/11. O preço do voo monitorado caiu para R$ 1.209 (estava em R$ 1.547). [Fonte: Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Incidentes Supabase de 06/10 (API de gerenciamento já resolvida; problema de upgrade em investigação) e de 29/09 (latência no leste dos EUA, resolvida). [Informativo, sem ação]",
+    "Newsletters e avisos (C6 Bank, Neon alerta de golpe, InfinitePay, Notion, OpenAI, Serasa). [Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento no Google Calendar para hoje (06/10) nem nos próximos 7 dias."
   ],
-  "rascunhos": [],
+  "rascunhos": [
+    "Re: Problema com pagamento da assinatura BUCOMAX, para rafaelruman1@gmail.com. Já salvo no Gmail desde 01/10 e ainda não enviado.",
+    "Re: Cancelamento Kommo, para support@kommo.com. Pedido de reembolso, 2 rascunhos salvos (18 e 19/09). Item da clínica, só listado por existir como rascunho."
+  ],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
