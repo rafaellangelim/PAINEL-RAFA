@@ -1,21 +1,22 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "07/10/2026, 07:20 (horário de Brasília)",
+  "precisa": [
+    "Pagar DAS-MEI referente a 09/2026 (guia no app MEI Digital). [Fonte: Gmail - MEI Digital | Área: Financeiro pessoal | Prazo: 20/10/2026 | Prioridade: Média]",
+    "Lembrete Todoist \"TERAPIA\" disparado em 06/10 (tarefa na Inbox do Todoist) - confirmar/agendar a sessão de terapia. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: sem data definida | Prioridade: Média]",
+    "Decidir sobre a passagem monitorada Brasília→São Paulo (ter 10/11 a dom 15/11, ida e volta): preço oscilou R$ 1.190 → R$ 1.547 → R$ 1.209 → R$ 1.292 (última atualização 06/10). [Fonte: Gmail - Google Voos | Área: Social/lazer | Prazo: antes de 10/11/2026 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Assinatura/oferta ChatGPT Plus (mês grátis expirando) - apenas promocional, sem ação necessária. [Fonte: Gmail - OpenAI | Informativo]",
+    "Alertas de golpe Neon, newsletter C6 Macro Review e promoções InfinitePay/Notion/Serasa - informativos, sem ação pessoal."
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
