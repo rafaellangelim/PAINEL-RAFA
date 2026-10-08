@@ -1,21 +1,21 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "08/10/2026, 19:17 (horário de Brasília)",
+  "precisa": [
+    "Conferir se o novo cartão adicionado ao Google Pay (e-mail de 08/10) foi mesmo adicionado por você; se não, bloquear o cartão. [Fonte: Gmail/Google Pay | Área: Financeiro pessoal | Prazo: hoje | Prioridade: média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Pagamento de R$ 2.000,00 confirmado via InfinitePay para Welt Medical (08/10); Pix de R$ 1.850,00 enviado a Welt Medical no mesmo dia. [Fonte: Gmail/InfinitePay e C6 | Área: Fellow/CTBMF | Informativo]",
+    "Voo monitorado Brasília→São Paulo (10–13/fev) subiu de R$ 579 para R$ 612 (LATAM). [Fonte: Gmail/Google Voos | Área: Social/lazer | Informativo]",
+    "Aula ao vivo Face Lifting (Bucomax/Circle.so) em 08/10 às 9h30 - já ocorreu; gravação pode estar disponível. [Fonte: Gmail/Circle.so | Área: Fellow/CTBMF | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 1,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 0
   }
 }
