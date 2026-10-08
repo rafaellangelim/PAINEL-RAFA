@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "08/10/2026, horário de Brasília (varredura automática)",
+  "precisa": [
+    "Pagar DAS-MEI 09/2026 (CNPJ 53.328.790/0001-03, MEI pessoal). [Fonte: Gmail - MEI Digital | Área: Financeiro pessoal | Prazo: 20/10/2026 | Prioridade: Alta]",
+    "Lembrete Todoist \"TERAPIA\" recebido em 06/10 - confirmar/agendar sessão de terapia. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: sem data definida | Prioridade: Média]",
+    "Passagem monitorada Brasília→São Paulo (10–13/fev) caiu para R$ 579 (LATAM); decidir se compra. [Fonte: Gmail - Google Voos | Área: Social/lazer | Prazo: sem data, preço variável | Prioridade: Baixa]",
+    "Passagem monitorada Brasília→São Paulo (10–15/nov) subiu para R$ 1.292 (Gol); decidir se compra ou ajusta o alerta. [Fonte: Gmail - Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Incidentes Supabase (06/10) - resolvidos, apenas informativos. [Fonte: Gmail | Informativo]",
+    "Newsletters e promoções (C6 Macro Review, ChatGPT, Notion, Neon, Serasa) - sem ação. [Fonte: Gmail | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem eventos pessoais no Google Calendar para hoje (08/10) nem nos próximos 7 dias."
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 0
   }
 }
