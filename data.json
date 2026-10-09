@@ -1,21 +1,21 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "09/10/2026, 13:30 (horário de Brasília)",
+  "precisa": [
+    "Pagar boleto da Fatura Cartão C6 (R$ 1.602,33), vence 15/10/2026. Confirmar se é cartão pessoal. [Fonte: C6 Bank | Área: Financeiro pessoal | Prazo: 15/10/2026 | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aula ao vivo BUCOMAX \"Face Lifting\" (Dr. Rafael Jorge Ruman) em 08/10 às 9h30 (Circle.so). [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
+    "Alerta de preço do voo monitorado Brasília→São Paulo (10–13/02): R$ 612, antes R$ 579 (LATAM). [Fonte: Google Voos | Área: Social/lazer | Informativo]",
+    "Novo cartão adicionado ao Google Pay. [Fonte: Google Pay | Área: Financeiro pessoal | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 1,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 0
   }
 }
