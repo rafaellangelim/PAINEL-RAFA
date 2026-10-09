@@ -1,21 +1,19 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
+  "updatedAt": "09/10/2026, 07:16 (horário de Brasília)",
   "precisa": [],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Evento BUCOMAX \"AO VIVO | Face Lifting com Dr. Rafael Jorge Ruman\" (Circle.so) - 08/10 às 9h30, já ocorrido. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
+    "Novo cartão adicionado ao Google Pay (08/10). [Fonte: Google Pay | Área: Financeiro pessoal | Informativo; confirmar apenas se não reconhece a ação]",
+    "Alerta de preço do voo monitorado Brasília → São Paulo (10–13/fev): R$ 612 (antes R$ 579; 07/10 estava R$ 579). [Fonte: Google Viagens | Área: Social/lazer | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
