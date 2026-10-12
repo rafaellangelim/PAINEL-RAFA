@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "2026-10-12T11:00:00-03:00",
+  "precisa": [
+    "Pagar boleto da Fatura Cartão C6 (R$ 1.602,33) — fonte: Gmail C6 Bank (09/10) — área: Financeiro pessoal — prazo: 15/10/2026 — prioridade: Alta",
+    "Conferir a nova fatura do cartão C6 (PDF protegido, senha = 6 primeiros dígitos do CPF) e pagar/parcelar — fonte: Gmail C6 Bank (12/10) — área: Financeiro pessoal — prazo: vencimento em outubro (ver fatura) — prioridade: Média",
+    "Decidir sobre passagem monitorada Brasília/Rio → São Paulo (preços oscilando: R$ 612, R$ 860) — fonte: Gmail Google Voos — área: Social/lazer — prazo: sem prazo definido — prioridade: Baixa"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Pix enviado R$ 5.369,57 (C6, 10/10) — comprovante recebido",
+    "Pix enviado R$ 550,00 (C6, 08/10) — comprovante recebido",
+    "Novo cartão adicionado ao Google Pay (08/10) — informativo"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento no Google Calendar para hoje (12/10/2026)"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
