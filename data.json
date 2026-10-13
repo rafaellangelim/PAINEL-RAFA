@@ -1,21 +1,22 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "13/10/2026, horário de Brasília (varredura automática)",
+  "precisa": [
+    "Pagar a fatura do cartão de crédito pessoal C6 (PDF \"Fatura-CPF\", senha = 6 primeiros dígitos do CPF; vence em outubro, data exata só no PDF/app). [Fonte: Gmail/C6 Bank, 12/10 | Área: Financeiro pessoal | Prazo: outubro/2026 (conferir data no PDF) | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alertas de preço de voos monitorados (Brasília→São Paulo 10–15/nov a R$ 972; Rio→São Paulo 10–13/fev a R$ 860, queda de R$ 1.087). [Fonte: Google Voos | Área: Social/lazer | Informativo, decidir se compra quando quiser]",
+    "Ofertas do C6 para parcelamento de fatura (marketing). [Fonte: C6 Bank | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem eventos no Google Calendar para hoje (13/10/2026)."
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 1,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 0
   }
 }
