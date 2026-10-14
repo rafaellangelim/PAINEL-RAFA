@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "14/10/2026, 18:30 (horário de Brasília)",
+  "precisa": [
+    "Pagar a fatura pessoal do cartão C6 (vence em outubro; PDF Fatura-CPF protegido por senha, 6 primeiros dígitos do CPF). [Fonte: Gmail/C6 Bank, 12/10 | Área: Financeiro pessoal | Prazo: vencimento em outubro (conferir data exata no app) | Prioridade: Alta]",
+    "Decidir sobre a passagem Brasília→São Paulo (10–15/nov, ida e volta): preço oscilou R$ 972 → R$ 1.303 → R$ 1.433 (última leitura R$ 1.303 na Gol). [Fonte: Gmail/Google Voos, 12–14/10 | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: Média]",
+    "Lembrete Todoist \"TERAPIA\": confirmar/agendar a sessão de terapia. [Fonte: Gmail/Todoist, 13/10 | Área: Saúde e bem-estar | Prazo: não informado (tarefa com data 21/abr, lembrete disparado em 13/10) | Prioridade: Média]",
+    "Preparar-se para a Aula Fellow em 20/10, 12:00–19:00. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 20/10 | Prioridade: Média]",
+    "Firestore do projeto PAINEL RAFA (Firebase) em Test Mode: acesso do cliente expira em ~4 dias (≈18/10); ajustar as regras de segurança para o painel não parar. [Fonte: Gmail/Firebase, 14/10 | Área: Outros (painel pessoal) | Prazo: ≈18/10 | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Incidentes de status do Supabase (Realtime latency, Edge Function Degradation, Log ingestion) encerrados como resolvidos em 13–14/10. [Informativo]",
+    "Google Maps: lugar adicionado por você atingiu 1.000 visualizações. [Informativo]",
+    "Convite DL Laser One Day (curso de laserterapia odontológica) recebido por e-mail encaminhado; sem ação pessoal pendente. [Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (14/10): nenhum evento pessoal no Google Calendar.",
+    "20/10, 12:00–19:00 - Aula Fellow [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
