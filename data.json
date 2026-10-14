@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "14/10/2026, 07:16 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do cartão C6 que vence em outubro (e-mail de 12/10). [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencimento em outubro, conferir data exata | Prioridade: Alta]",
+    "Conferir a tarefa 'TERAPIA' no Todoist (notificação de 13/10, está na Inbox, sem data). [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: sem data | Prioridade: Média]",
+    "Decidir sobre a passagem Brasília→São Paulo (10–15/11): o preço subiu de R$ 972 para R$ 1.303 (Gol, 07:00). [Fonte: Gmail/Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: Média]",
+    "Preparar-se para a Aula Fellow de 20/10, 12:00–19:00. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 20/10 | Prioridade: Média]",
+    "Verificar o aviso do Firebase 'PAINEL RAFA': o acesso ao Firestore (Test Mode) expira em cerca de 4 dias, então é preciso ajustar as regras de segurança para o painel não parar. [Fonte: Gmail/Firebase | Área: Social/lazer (projeto pessoal) | Prazo: ~18/10 | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Incidentes de status do Supabase (Edge Functions, log ingestion) resolvidos; o de Realtime latency está em monitoramento. [Fonte: Gmail/incident.io | Informativo]",
+    "Google Maps: o lugar que você adicionou passou de 1.000 visualizações. [Fonte: Gmail/Google Maps | Informativo]",
+    "Newsletters e promoções (C6, SHEIN, Serasa etc.) ignoradas por não exigirem ação."
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento pessoal hoje (14/10).",
+    "Próximo: 20/10, 12:00–19:00, Aula Fellow [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
