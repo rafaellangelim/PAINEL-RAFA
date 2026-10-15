@@ -1,21 +1,21 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "15/10/2026, 13:30 (horário de Brasília)",
+  "precisa": [
+    "Pagar boleto C6 Bank de R$ 1.602,33 (beneficiário Banco C6 S.A.) – vence HOJE 15/10. [Fonte: Gmail C6 Bank | Área: Financeiro pessoal | Prazo: hoje 15/10 | Prioridade: ALTA]",
+    "Pagar ou parcelar fatura do cartão de crédito C6 – vence HOJE 15/10. [Fonte: Gmail C6 Bank | Área: Financeiro pessoal | Prazo: hoje 15/10 | Prioridade: ALTA]",
+    "Terapia – lembrete Todoist agendado para 21/04/2026 09:00 (data já passada; confirmar/reagendar sessão). [Fonte: Gmail Todoist | Área: Saúde e bem-estar | Prazo: a definir | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Monitor de preço Google Voos Brasília→São Paulo: 10–15/11 R$ 1.433 (era R$ 1.303); 10–13/02/2027 R$ 661 (era R$ 612). [Fonte: Google Voos | Área: Social/lazer | Informativo, sem ação necessária]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
