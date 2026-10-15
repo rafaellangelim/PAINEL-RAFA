@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "15/10/2026, 07:20 (horário de Brasília)",
+  "precisa": [
+    "URGENTE: Firebase \"PAINEL RAFA\" - acesso do cliente ao Cloud Firestore (Test Mode) expira em ~3 dias (por volta de 18/10); atualizar as regras de segurança ou o painel deixa de ler/gravar dados. [Fonte: e-mail Firebase | Área: Social/lazer (projeto pessoal) | Prazo: 18/10 | Prioridade: Alta]",
+    "Terapia - lembrete Todoist para 21/10 às 09:00; confirmar/organizar horário. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: 21/10 09:00 | Prioridade: Média]",
+    "Aula Fellow (CTBMF) em 20/10, 12:00–19:00; preparar material/deslocamento. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 20/10 | Prioridade: Média]",
+    "Correios - devolução de encomenda: 2 rótulos de postagem (AE021749770BR e AE023051323BR) com PDF anexo; imprimir e postar o(s) objeto(s). Confirmar se é pessoal ou da clínica. [Fonte: e-mail Correios | Área: Financeiro pessoal | Prazo: validade do rótulo (ver e-mail) | Prioridade: Média]",
+    "Passagem monitorada Brasília→São Paulo (10–15/11): preço subiu de R$ 972 para R$ 1.303 e depois R$ 1.433/1.303; decidir se compra ou aguarda. [Fonte: Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Incidentes de status Realtime/Edge Function (incident.io) - resolvidos, apenas informativo. [Área: Social/lazer (projeto pessoal)]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (15/10): nenhum compromisso pessoal no Google Calendar.",
+    "20/10 12:00–19:00 - Aula Fellow [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
