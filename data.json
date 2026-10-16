@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "16/10/2026, 07:20 (horário de Brasília)",
+  "precisa": [
+    "Confirmar pagamento da fatura do cartão C6 (venceu 15/10; e-mail \"Sua fatura vence hoje\") e do boleto C6 de R$ 1.602,33 (vencia 15/10). [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencido 15/10 | Prioridade: Alta]",
+    "Assistir/estudar Aula 01 do preparatório para a prova de título CEOF (aula gravada será publicada em 16/10 no Circle). [Fonte: Gmail/Circle.so | Área: Fellow/CTBMF | Prazo: sem data definida | Prioridade: Média]",
+    "Preparar-se para a Aula Fellow de 20/10 (12:00–19:00). [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 20/10 | Prioridade: Média]",
+    "Lembrete Todoist \"TERAPIA\" (agendado para 21/04 09:00; confirmar/reagendar sessão de terapia). [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: a confirmar | Prioridade: Média]",
+    "Decidir sobre compra do voo monitorado Brasília→São Paulo (10–15/11, ida e volta): preço oscilou R$ 972 → 1.303 → 1.433 → 1.610 nos últimos dias. [Fonte: Gmail/Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: Baixa]",
+    "Firebase do projeto PAINEL RAFA: acesso do cliente ao Firestore (modo de teste) expira em ~2 dias (cerca de 18/10); ajustar regras de segurança para o painel não parar. [Fonte: Gmail/Firebase | Área: Fellow/CTBMF (painel pessoal) | Prazo: 18/10 | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alertas de status de Realtime/Edge Functions (incident.io) - incidentes resolvidos. [Informativo]",
+    "Google Docs: atividade em \"ROTEIRO DE CONTEÚDO NOVEMBRO- DRA\" (comentários resolvidos). [Informativo]",
+    "Conta Google: aviso de login com Google no Kiwid (15/10). [Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (16/10): nenhum evento no Google Calendar.",
+    "20/10 12:00–19:00 - Aula Fellow [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 3
   }
 }
