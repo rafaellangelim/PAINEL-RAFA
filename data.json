@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "17/10/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Atualizar as regras de segurança do Firestore do projeto \"PAINEL RAFA\" (Test Mode expira em 18/10; depois disso o painel perde o acesso ao banco). [Fonte: Firebase | Área: Outros (painel pessoal) | Prazo: 18/10/2026 | Prioridade: ALTA]",
+    "Assistir à Aula 01 do preparatório para a prova de título CEOF (publicada no Circle.so em 15/10). [Fonte: Circle.so | Área: Fellow/CTBMF | Prazo: sem prazo definido | Prioridade: MÉDIA]",
+    "Confirmar que a alteração de senha do app C6 Bank (código enviado em 16/10 às 14:00) foi feita por você; se não foi, trocar a senha e contatar o banco. [Fonte: C6 Bank | Área: Financeiro pessoal | Prazo: imediato | Prioridade: MÉDIA]",
+    "Decidir sobre o voo monitorado Brasília → São Paulo (10 a 15/11, Gol): preço subiu de R$ 1.610 para R$ 1.931. [Fonte: Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Incidente de status \"Project creation errors ap-ne1\" (Supabase) aberto e resolvido em 17/10; serviço restabelecido. [Fonte: status.incident.io | Informativo, sem ação necessária]",
+    "Newsletter \"This week in Claude Code\" e aviso de mudança nos Termos do Google Play (05/11). [Fonte: Claude / Google Play | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (17/10): nenhum compromisso na agenda.",
+    "20/10, 12:00–19:00 - Aula Fellow [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
