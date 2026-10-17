@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "17/10/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Renovar/proteger regras do Cloud Firestore do projeto \"PAINEL RAFA\": o modo de teste expira em ~1 dia (aviso do Firebase de 17/10) e o painel perde acesso ao banco. [Fonte: Firebase | Área: sem área fixa (painel pessoal) | Prazo: 18/10/2026 | Prioridade: Alta]",
+    "Confirmar que foi você quem pediu a alteração de senha do app C6 Bank (código enviado em 16/10 às 14:00); se não foi, trocar senha e contatar o banco. [Fonte: C6 Bank | Área: Financeiro pessoal | Prazo: hoje | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta Google Voos: Brasília → São Paulo (10–15/11) subiu de R$ 1.610 para R$ 1.931 (Gol, 09:50–11:35). Decidir se compra ou segue monitorando. [Fonte: Google Voos | Área: Social/lazer | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
