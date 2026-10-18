@@ -1,13 +1,15 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "18/10/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Assistir à aula gravada \"Aula 01 preparatório prova título CEOF\" (Circle.so, Dr. Rafael Jorge Ruman) - publicada em 16/10. [Fonte: Circle.so | Área: Fellow/CTBMF | Prazo: sem prazo definido, antes da Aula Fellow de 20/10 | Prioridade: média]",
+    "Ajustar regras de segurança do Firestore do projeto PAINEL RAFA no Firebase - acesso em Test Mode expira HOJE (18/10) e o painel pode parar de ler/gravar dados. [Fonte: Firebase | Área: sem área da vida (painel pessoal) | Prazo: hoje, 18/10 | Prioridade: alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Voo monitorado Brasília-São Paulo (10-15/nov, ida e volta, 1 adulto): preço caiu para R$ 1.799 (era R$ 1.931; já oscilou entre R$ 1.433 e R$ 1.931 nos últimos dias). Informativo, decidir compra se desejar. [Fonte: Google Voos | Área: Social/lazer]",
+    "Aula 01 do preparatório CEOF: aviso de que a aula gravada seria publicada no dia seguinte (16/10). [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem compromissos hoje (18/10). Próximo: 20/10, 12:00-19:00 - Aula Fellow [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
@@ -15,7 +17,7 @@
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 3
   }
 }
