@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "18/10/2026, 19:00 (horário de Brasília)",
+  "precisa": [
+    "Pagar ou parcelar a fatura do cartão de crédito C6 (outubro), vencida em 15/10/2026 e em atraso. [Fonte: C6 Bank | Área: Financeiro pessoal | Prazo: vencido, pagar o quanto antes | Prioridade: ALTA]",
+    "Renovar as regras do Firestore do projeto Firebase \"PAINEL RAFA\": o acesso em modo de teste expira hoje (18/10) e o painel pode parar de ler/gravar. [Fonte: Firebase | Área: Social/lazer (projeto pessoal) | Prazo: hoje | Prioridade: ALTA]",
+    "Assistir à Aula 01 do preparatório para a prova de título CEOF. [Fonte: Circle.so | Área: Fellow/CTBMF | Prazo: sem prazo definido | Prioridade: MÉDIA]",
+    "Decidir sobre a passagem Brasília → São Paulo (10 a 15/11), monitorada: caiu para R$ 1.799 (estava R$ 1.931; já esteve em R$ 1.610). [Fonte: Google Voos | Área: Social/lazer | Prazo: antes de 10/11 | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alteração de senha do app C6: código de validação enviado em 16/10. Se não foi você, trocar a senha. [Fonte: C6 Bank | Área: Financeiro pessoal | Informativo]",
+    "Atualização dos Termos de Serviço do Google Play em 05/11. [Fonte: Google Play | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento no Google Calendar para hoje (18/10/2026)."
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
