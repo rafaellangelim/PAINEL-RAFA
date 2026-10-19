@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "19/10/2026, 19:14 (horário de Brasília)",
+  "precisa": [
+    "Fatura do cartão de crédito C6 de outubro EM ATRASO (venceu em 15/10/2026; aviso de 18/10) - pagar à vista ou parcelar. [Fonte: C6 Bank | Área: Financeiro pessoal | Prazo: vencido, urgente | Prioridade: ALTA | Obs: confirmar se é o cartão pessoal]",
+    "Confirmar com o hospital a artroscopia da paciente Hemili (Dr. Hugo, Max Surgical), 20/10 às 14h no Santa Lúcia Taguatinga - consta \"aguardando confirmação do hospital\". [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 20/10 | Prioridade: MÉDIA]",
+    "Firestore do projeto PAINEL RAFA expirou (modo de teste, acesso do cliente bloqueado desde 19/10) - atualizar as regras de segurança no Firebase para o painel voltar a funcionar. [Fonte: Firebase | Área: ferramenta pessoal (não contada nas áreas) | Prazo: vencido | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Preço do voo monitorado Brasília → São Paulo (10 a 15/11, ida e volta) caiu para R$ 1.486 (antes R$ 1.799 e R$ 1.931). [Fonte: Google Voos | Área: Social/lazer | Informativo; comprar se a viagem estiver confirmada]",
+    "Aulão online FaceAll - Rinoplastia com Dr. Ahmet Turquia, 24/10, 10h–11h30 (grupo de WhatsApp DR AHMET/DENISE). [Fonte: Google Calendar | Área: Fellow/CTBMF | Informativo, já na agenda]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (19/10): nenhum compromisso na agenda.",
+    "Amanhã 20/10: 06:00 Expansão - Amanda Vitoria (Dr. Valdor, Mantevida Asa Norte) | 08:00 Ortognática - Rauf (só se operar nesta data; senão janeiro, Daher) | 12:00–19:00 Aula Fellow | 14:00 Artroscopia - Hemili (aguardando confirmação do hospital) | 16:00 Expansão - Larissa Mell (Dr. Valdor, HOME)",
+    "22/10: 10:00 Ortognática - Raphael (Mantevida Asa Norte) | 13:00 Ortognática - Isleia Francisca (Hospital Brasiliense)",
+    "24/10: 10:00 Aulão FaceAll - Rinoplastia (online)",
+    "25/10: Eleições (dia todo)"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 1,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 1
   }
 }
