@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "19/10/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar ou parcelar a fatura do cartão C6 Bank de outubro, vencida em 15/10/2026 e ainda em aberto (juros correndo). [Fonte: Gmail - C6 Bank \"Fatura em atraso\" | Área: Financeiro pessoal | Prazo: vencida, hoje | Prioridade: ALTA]",
+    "Renovar as regras de segurança do Firestore do projeto PAINEL RAFA: o acesso do cliente ao banco expirou (Test Mode) e o painel pode parar de ler/gravar dados. [Fonte: Gmail - Firebase | Área: sem área de vida (ferramenta pessoal) | Prazo: hoje | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "E-mails promocionais (C6 Bank: FGTS e CDB; Shein; Vivo Empresas) - sem ação necessária. [Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 1,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 0
   }
 }
