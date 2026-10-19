@@ -1,21 +1,33 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "19/10/2026, 12:30 (horário de Brasília)",
+  "precisa": [
+    "URGENTE: Fatura do cartão C6 de outubro venceu em 15/10 e está em atraso - pagar à vista ou parcelar. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencida (15/10) | Prioridade: Alta]",
+    "Passagem monitorada Brasília → São Paulo (10–15/11) caiu para R$ 1.799 (antes R$ 1.931) - decidir se compra. [Fonte: Gmail/Google Voos | Área: Social/lazer | Prazo: sem prazo definido, 10/11 é a ida | Prioridade: Baixa]",
+    "Preparar-se para a Aula Fellow de amanhã (20/10, 12h–19h). [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 20/10 | Prioridade: Média]",
+    "Aulão online FaceAll - Rinoplastia com Dr. Ahmet Turquia (24/10, 10h–11h30, grupo de WhatsApp DR AHMET/DENISE). [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 24/10 | Prioridade: Baixa]",
+    "Firebase do PAINEL RAFA: acesso do cliente ao Firestore (modo de teste) expirou em 19/10 - ajustar as regras de segurança para o painel voltar a funcionar. [Fonte: Gmail/Firebase | Área: Outros (projeto pessoal, fora das áreas de vida) | Prazo: vencido (19/10) | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aviso anterior do Firebase (18/10) de que o acesso ao Firestore expirava - substituído pelo aviso de expiração de 19/10 (listado em pendências). [Fonte: Gmail/Firebase | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (19/10): nenhum compromisso pessoal na agenda.",
+    "20/10 06h–08h - Expansão - Amanda Vitoria (Dr. Valdor) - Mantevida Asa Norte [Fellow/CTBMF]",
+    "20/10 08h–10h - Ortognática - Rauf (se operar nesta data; senão janeiro) - Daher [Fellow/CTBMF]",
+    "20/10 12h–19h - Aula Fellow [Fellow/CTBMF]",
+    "20/10 14h–16h - Artroscopia - Hemili (aguardando confirmação do hospital) - Santa Lúcia Taguatinga [Fellow/CTBMF]",
+    "20/10 16h–18h - Expansão - Larissa Mell (Dr. Valdor) - HOME [Fellow/CTBMF]",
+    "22/10 10h–12h - Ortognática - Raphael - Mantevida Asa Norte [Fellow/CTBMF]",
+    "22/10 13h–15h - Ortognática - Isleia Francisca (Marcelo Salomão) - Hospital Brasiliense [Fellow/CTBMF]",
+    "24/10 10h–11h30 - Aulão FaceAll Rinoplastia com Dr. Ahmet Turquia (online) [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
