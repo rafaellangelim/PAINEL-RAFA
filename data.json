@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "20/10/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura em atraso do cartão de crédito C6 Bank (outubro, venceu em 15/10/2026; aviso de 18/10). [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencido, pagar o quanto antes | Prioridade: ALTA]",
+    "Renovar as regras de acesso do Cloud Firestore do projeto PAINEL RAFA (modo de teste expirou em 19/10; o painel pode ficar sem ler/gravar dados). [Fonte: Gmail/Firebase | Área: outra (técnico, fora das 6 áreas) | Prazo: vencido | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta de preço de voo monitorado Brasília → São Paulo (10–15/11): caiu para R$ 1.486 (antes R$ 1.799). Decidir se compra quando fizer sentido. [Fonte: Gmail/Google Voos | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "07:00–09:00 - Expansão - Amanda Vitoria (Dr. Valdor) - Mantevida Asa Norte [Fellow/CTBMF]",
+    "09:00–11:00 - Ortognática - Rauf (Dr. Hugo) - Daher [Fellow/CTBMF]",
+    "12:00–19:00 - Aula Fellow [Fellow/CTBMF]",
+    "14:00–16:00 - Artroscopia - Hemili (Dr. Hugo) - Santa Lúcia Taguatinga, aguardando confirmação do hospital [Fellow/CTBMF]",
+    "16:00–18:00 - Expansão + remoção de sisos - Larissa Mell (Dr. Valdor) - HOME [Fellow/CTBMF]",
+    "Próximos dias: 22/10 10:00 Ortognática Raphael (Mantevida Asa Norte) e 13:00 Ortognática Isleia Francisca (Hospital Brasiliense) [Fellow/CTBMF]; 24/10 10:00 Aulão online FaceAll Rinoplastia com Dr. Ahmet Turquia [Fellow/CTBMF]; 25/10 Eleições [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 8
   }
 }
