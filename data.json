@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "20/10/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "TERAPIA - lembrete no Todoist (Inbox): agendar/confirmar sessão de terapia. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: sem prazo definido | Prioridade: média]",
+    "Boleto SDAMed próximo do vencimento (parcela enviada em 19/10, cópia no e-mail). Conferir se é despesa pessoal e pagar. [Fonte: Gmail/Bling | Área: Financeiro pessoal | Prazo: ver vencimento no boleto | Prioridade: alta]",
+    "Artroscopia - Hemili (Dr. Hugo, Santa Lúcia Taguatinga, hoje 14:00): aguardando confirmação do hospital. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: hoje | Prioridade: alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Voo monitorado Brasília → São Paulo (10 a 15/nov) caiu para R$ 1.486 (era R$ 1.799). Informativo; decidir se compra. [Fonte: Google Voos | Área: Social/lazer]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "07:00–09:00 - Expansão, paciente Amanda Vitoria (Dr. Valdor) - Mantevida Asa Norte [Fellow/CTBMF]",
+    "09:00–11:00 - Ortognática, paciente Rauf (Dr. Hugo) - Daher [Fellow/CTBMF]",
+    "12:00–19:00 - Aula Fellow [Fellow/CTBMF]",
+    "14:00–16:00 - Artroscopia, paciente Hemili (Dr. Hugo) - Santa Lúcia Taguatinga, aguardando confirmação do hospital [Fellow/CTBMF]",
+    "16:00–18:00 - Expansão + remoção de sisos, paciente Larissa Mell (Dr. Valdor) - HOME [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
