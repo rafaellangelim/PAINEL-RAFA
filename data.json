@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "20/10/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "URGENTE: Fatura do cartão de crédito C6 de outubro em atraso desde 15/10; o banco avisa que o cartão pode ser bloqueado em ~48h. Conferir no app e pagar ou parcelar. Se já pagou, ignorar (processamento leva até 3 dias). [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: imediato | Prioridade: ALTA]",
+    "TERAPIA: lembrete do Todoist para 21/10 às 09:00. Confirmar horário e se vai ser presencial ou online. [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: 21/10 09:00 | Prioridade: MÉDIA]",
+    "Aulão online FaceAll Rinoplastia com Dr. Ahmet Turquia (lifting endoscópico e rinoplastia), 24/10 das 10:00 às 11:30, pelo grupo de WhatsApp DR AHMET/DENISE. Reservar o horário. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 24/10 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta de preço de voo monitorado Brasília → São Paulo: 10–13/fev por R$ 708 (era R$ 843) e 10–15/nov por R$ 1.486 (era R$ 1.799). Só informativo; decidir se quer comprar. [Fonte: Google Voos | Área: Social/lazer | Informativo]",
+    "Aviso de eleições em 25/10 (evento de dia inteiro no calendário). [Fonte: Google Calendar | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "12:00–19:00 - Aula Fellow [Fellow/CTBMF]",
+    "Amanhã 21/10, 09:00 - Terapia (lembrete Todoist) [Saúde e bem-estar]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 1,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 1
   }
 }
