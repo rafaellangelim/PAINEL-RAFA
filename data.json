@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "2026-10-21T21:30:00-03:00",
+  "precisa": [
+    "[ALTA] Fatura do cartão C6 de outubro em atraso desde 15/10, com risco de bloqueio do cartão em 48h (fonte: C6 Bank, 20/10) | Financeiro pessoal | prazo: imediato. Confirmar se o cartão é pessoal e regularizar",
+    "[MÉDIA] Assinatura Bucomax renova automaticamente em 27/10 (fonte: Stripe, 20/10) | Fellow/CTBMF | prazo: 27/10. Confirmar se quer manter",
+    "[BAIXA] Tarefa 'TERAPIA' na Inbox do Todoist (fonte: Todoist, 20/10) | Saúde e bem-estar | prazo: sem prazo definido. Agendar ou confirmar a sessão",
+    "[BAIXA] Preço do voo monitorado Brasília→São Paulo (10 a 15/11) caiu de R$ 1.900 para R$ 1.486 (fonte: Google Voos, 21/10) | Social/lazer | prazo: antes de 10/11. Decidir se compra"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Incidentes de status (projetos reiniciando e operações de ciclo de vida) já resolvidos, só informativos"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem eventos no Google Calendar hoje (21/10/2026)"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
