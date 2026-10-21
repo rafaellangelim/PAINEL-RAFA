@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "21/10/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar/regularizar fatura em atraso do cartão C6 (venceu 15/10; C6 avisa possível bloqueio do cartão em ~48h). Confirmar se já foi paga (processamento até 3 dias). [Fonte: Gmail C6 Bank | Área: Financeiro pessoal | Prazo: HOJE, 21/10 | Prioridade: ALTA]",
+    "Lembrete TERAPIA hoje às 09:00 (Todoist). [Fonte: Gmail Todoist | Área: Saúde e bem-estar | Prazo: hoje, 21/10 09:00 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alertas de preço de voos monitorados Brasília→São Paulo: 10–13/fev por R$ 708 (LATAM, antes R$ 843) e 10–15/nov por R$ 1.486 (Gol, antes R$ 1.799). [Fonte: Google Voos | Área: Social/lazer | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (21/10): sem eventos no Google Calendar. Lembrete de TERAPIA às 09:00 (Todoist) [Saúde e bem-estar]",
+    "22/10 10:00–12:00 - Ortognática - Raphael (Mantevida Asa Norte; cirurgiões André e João Geraldo) [Fellow/CTBMF]",
+    "22/10 13:00–15:00 - Ortognática - Isleia Francisca (Hospital Brasiliense; cirurgião Marcelo Salomão) [Fellow/CTBMF]",
+    "24/10 10:00–11:30 - Aulão online FaceAll Rinoplastia com Dr. Ahmet Turquia (grupo de WhatsApp DR AHMET/DENISE) [Fellow/CTBMF]",
+    "25/10 (dia inteiro) - Eleições [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 3
   }
 }
