@@ -1,21 +1,23 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "22/10/2026, 13:20 (horário de Brasília)",
+  "precisa": [
+    "Fatura do cartão de crédito de outubro em atraso desde 15/10 - C6 avisa risco de bloqueio do cartão. Verificar se é cartão pessoal e regularizar. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: imediato | Prioridade: ALTA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta de preço Google Voos Brasília→São Paulo (10–15/11, Gol): passagem caiu de R$ 1.900 para R$ 1.486. [Fonte: Gmail/Google Voos | Área: Social/lazer | Informativo]",
+    "Lembrete Todoist \"TERAPIA\" (20/10). [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "10:00–12:00 - Ortognática - Raphael (cirurgiões André e João Geraldo) - Mantevida Asa Norte [Fellow/CTBMF]",
+    "13:00–15:00 - Ortognática - Isleia Francisca (cirurgião Marcelo Salomão) - Hospital Brasiliense [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
+    "Financeiro pessoal": 1,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 0
   }
 }
