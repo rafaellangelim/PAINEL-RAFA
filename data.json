@@ -1,13 +1,15 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "23/10/2026, 15:00 (horário de Brasília)",
+  "precisa": [
+    "Aulão online FaceAll - Rinoplastia com Dr. Ahmet (Turquia): lifting endoscópico e rinoplastia, sáb 24/10 das 10:00 às 11:30, via grupo de WhatsApp DR AHMET/DENISE. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 24/10 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta do Google Voos: preço do voo monitorado Rio de Janeiro → São Paulo (10 a 13/fev) caiu para R$ 1.500 (antes R$ 2.210). Decidir se compra, sem urgência. [Fonte: Gmail | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (23/10): nenhum evento pessoal na agenda.",
+    "Próximos: sáb 24/10 10:00–11:30 - Aulão FaceAll Rinoplastia com Dr. Ahmet (online) [Fellow/CTBMF]",
+    "Próximos: dom 25/10 - Eleições (dia inteiro) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
@@ -15,7 +17,7 @@
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
