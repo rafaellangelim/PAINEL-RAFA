@@ -1,13 +1,15 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "24/10/2026, 12:10 (horário de Brasília)",
+  "precisa": [
+    "Decidir qual acompanhar hoje: cirurgia ao vivo Bucomax (09:30–13:00) conflita com o Aulão FaceAll (10:00–11:30). [Fonte: Circle.so + Google Calendar | Área: Fellow/CTBMF | Prazo: hoje, 24/10 | Prioridade: Média]",
+    "Avaliar a passagem monitorada Rio de Janeiro → São Paulo (10–13/fev/2027): preço caiu para R$ 1.500 (era R$ 2.210). [Fonte: Google Viagens | Área: Social/lazer | Prazo: sem prazo definido (preço pode subir) | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Circle.so: novo evento \"Cirurgia ao vivo – Blefaroplastia inferior + remoção de PMMA dos lábios\" (Dr. Rafael Jorge Ruman, Bucomax), sáb 24/10, 09:30–13:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "10:00–11:30 - Aulão online FaceAll: Rinoplastia com Dr. Ahmet Turquia (lifting endoscópico e rinoplastia; grupo de WhatsApp DR AHMET/DENISE) [Fellow/CTBMF]",
+    "09:30–13:00 - Cirurgia ao vivo Bucomax (Circle.so), não está na agenda; conflita com o aulão [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
@@ -15,7 +17,7 @@
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
