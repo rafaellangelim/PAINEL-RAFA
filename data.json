@@ -1,13 +1,16 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "24/10/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Votar nas eleições - domingo 25/10 (evento no calendário). [Fonte: Google Calendar | Área: Social/lazer | Prazo: 25/10 | Prioridade: Média]",
+    "Avaliar compra da passagem Rio → São Paulo (10 a 13/fev): preço monitorado caiu de R$ 2.210 para R$ 1.500. [Fonte: Gmail/Google Voos | Área: Social/lazer | Prazo: sem prazo definido | Prioridade: Baixa]",
+    "Participar do encontro online \"Complicações em Blefaroplastia Inferior\" - segunda 26/10, 20:00–21:00; link será enviado no grupo do curso. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 26/10 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aulão FaceAll - Rinoplastia com Dr. Ahmet Turquia (hoje 24/10, 10:00–11:30) - já ocorreu. [Fonte: Google Calendar | Área: Fellow/CTBMF | Informativo]",
+    "Novo evento no Circle.so: \"CIRURGIA AO VIVO | Blefaroplastia inferior + remoção de PMMA dos lábios\" - informativo, sem ação necessária. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "10:00–11:30 - Aulão FaceAll Rinoplastia com Dr. Ahmet Turquia (online, já realizado) [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
@@ -15,7 +18,7 @@
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
