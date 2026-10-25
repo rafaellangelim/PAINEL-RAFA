@@ -1,13 +1,14 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "25/10/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Avaliar compra do voo monitorado Rio de Janeiro → São Paulo (10 a 13/02/2027, ida e volta): preço caiu de R$ 2.210 para R$ 1.500. [Fonte: Google Voos (e-mail 23/10) | Área: Social/lazer | Prazo: sem prazo definido, preço pode variar | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Novo evento no Circle.so: \"Cirurgia ao vivo - Blefaroplastia inferior + remoção de PMMA dos lábios\" (aviso de 24/10). [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro - Eleições (hoje, 25/10) [Social/lazer]",
+    "26/10 (amanhã), 20:00–21:00 - Encontro online \"Complicações em Blefaroplastia Inferior\" (link será enviado no dia no grupo do curso) [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
@@ -15,7 +16,7 @@
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Social/lazer": 2,
     "Fellow/CTBMF": 2
   }
 }
