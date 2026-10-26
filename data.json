@@ -1,13 +1,15 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "26/10/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Participar do encontro online \"Complicações em Blefaroplastia Inferior\" hoje, 20h–21h; link será enviado no grupo do curso. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: hoje 26/10, 20h | Prioridade: Alta]",
+    "Avaliar se vai assistir à \"Cirurgia ao vivo: blefaroplastia inferior + remoção de PMMA dos lábios\" (novo evento no Circle.so; conferir data na plataforma). [Fonte: Gmail/Circle.so | Área: Fellow/CTBMF | Prazo: ver data do evento | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta de preço de voos monitorados Brasília → São Paulo (10–13/fev): menor preço R$ 709 (Gol), em queda. [Fonte: Google Viagens | Área: Social/lazer | Informativo]",
+    "Firebase: acesso de cliente ao Firestore do projeto PAINEL RAFA expirou (modo de teste). [Fonte: Firebase | Informativo, verificar regras do banco se o painel depender dele]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "20:00–21:00 - Encontro online \"Complicações em Blefaroplastia Inferior\" [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
