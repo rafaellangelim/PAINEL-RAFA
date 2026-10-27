@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "27/10/2026, 13:22 (horário de Brasília)",
+  "precisa": [
+    "Lembrete Todoist \"TERAPIA\" (tarefa originalmente datada de 21/04/2026, lembrete recebido hoje 09:00) - confirmar/agendar a sessão de terapia. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: sem prazo definido | Prioridade: Média]",
+    "Voo monitorado Rio de Janeiro → São Paulo (10–13/fev) subiu de R$ 1.500 para R$ 1.893; Brasília → São Paulo (mesmas datas) caiu para R$ 709 (era R$ 783). Decidir se compra/ajusta a origem. [Fonte: Google Voos | Área: Social/lazer | Prazo: sem prazo (preço varia) | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Firebase: acesso do cliente ao Firestore do projeto PAINEL RAFA expirou (modo de teste, há 7 dias) - informativo; regras do banco precisam ser atualizadas se o painel usar Firestore. [Fonte: Firebase | Área: sem área de vida | Informativo]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
