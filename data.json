@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "28/10/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Lembrete Todoist \"TERAPIA\" (recebido 27/10; tarefa original datada de 21/04, ainda sem conclusão) - confirmar/agendar sessão de terapia. [Fonte: Todoist/Gmail | Área: Saúde e bem-estar | Prazo: sem data definida | Prioridade: Alta]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo Bucomax \"Blefaroplastia inferior + remoção de PMMA dos lábios\" (Circle.so) - evento de 24/10 já ocorreu. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Google Voos: voo monitorado Rio de Janeiro > São Paulo (10 a 13/02/2027) caiu para R$ 1.500 (era R$ 2.210). [Fonte: Google Voos | Área: Social/lazer | Informativo - avaliar compra se for viagem pessoal]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
