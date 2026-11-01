@@ -1,13 +1,13 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "01/11/2026, horário de Brasília (varredura automática)",
+  "precisa": [
+    "Concluir cadastro (criar senha) na plataforma de cursos \"cursosdrmarra\" - usuário criado automaticamente em 31/10. [Fonte: Gmail (membros.app.br) | Área: Fellow/CTBMF | Prazo: sem prazo definido | Prioridade: média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Demais e-mails dos últimos 2 dias são promocionais/institucionais (Shein, Vivo, C6 marketing, Parcelamais, Memed, XP, Serasa) ou da clínica (Kommo, Pix C6 Empresas) - ignorados/sem ação pessoal."
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Nenhum evento no Google Calendar para hoje (01/11)."
   ],
   "rascunhos": [],
   "areas": {
@@ -16,6 +16,6 @@
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
     "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Fellow/CTBMF": 1
   }
 }
