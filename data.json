@@ -1,21 +1,23 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "03/11/2026, 12:00 (horário de Brasília)",
+  "precisa": [
+    "TERAPIA - lembrete do Todoist disparou hoje (03/11); confirmar/agendar a sessão. [Fonte: Todoist (Gmail) | Área: Saúde e bem-estar | Prazo: hoje | Prioridade: Média]",
+    "Passagens para São Paulo - preço monitorado subiu de R$ 1.337 para R$ 1.487; decidir se compra ou aguarda, e acompanhar promoção LATAM Pass (01-30/11). [Fonte: Google Voos (Gmail) + Google Calendar | Área: Social/lazer | Prazo: até 30/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aula online \"Preenchedores Faciais\" (reologia e técnicas de preenchimento) hoje às 20:00; link será enviado no grupo do curso. [Fonte: Google Calendar | Área: Fellow/CTBMF | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - LATAM Pass: acompanhar passagens (01-30/11) [Social/lazer]",
+    "20:00–21:00 - Aula online \"Preenchedores Faciais\" (link no grupo do curso) [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
