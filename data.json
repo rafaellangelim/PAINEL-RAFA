@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "04/11/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Definir/agendar TERAPIA (tarefa no Todoist, ainda no Inbox) [Fonte: Todoist via Gmail, 03/11 | Área: Saúde e bem-estar | Prazo: sem prazo definido | Prioridade: média]",
+    "Acompanhar passagens promocionais LATAM Pass (01–30/11), Smiles (05–30/11) e Azul (10–30/11) - sem compra automática [Fonte: Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: baixa]",
+    "Viagem a São Paulo/Praia Grande: voo LA 3017 BSB→SP em 10/11 às 13:25; hospedagem Beach House Guilhermina de 10 a 16/11 [Fonte: Google Calendar | Área: Social/lazer | Prazo: 10/11 | Prioridade: média]",
+    "Voo monitorado Rio→São Paulo (10–13/02/2027) subiu de R$ 1.337 para R$ 1.487; decidir se compra ou espera [Fonte: Google Flights | Área: Social/lazer | Prazo: sem prazo | Prioridade: baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta Supabase (instabilidade no pooler us-east-2) já resolvido [Fonte: Gmail | Informativo]",
+    "Senha de acesso ao app CFO (Identidade Digital) recebida em 04/11 - uso imediato, sem ação pendente [Fonte: Gmail | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "20:00–21:00 - Aula online \"Preenchedores Faciais\" (reologia e técnicas de preenchimento; link enviado no grupo do curso) [Fellow/CTBMF]",
+    "Dia todo (lembretes) - acompanhar passagens LATAM Pass (01–30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 3,
+    "Fellow/CTBMF": 1
   }
 }
