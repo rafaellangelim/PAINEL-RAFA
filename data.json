@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "04/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Revisar tarefa \"TERAPIA\" no Todoist (lembrete recebido em 03/11; tarefa originalmente datada de 21/04/2026, possivelmente atrasada) - agendar/confirmar sessão ou concluir/reprogramar. [Fonte: Todoist | Área: Saúde e bem-estar | Prazo: sem prazo definido, atrasada | Prioridade: Média]",
+    "Voo LA 3017 Brasília → São Paulo em 10/11 às 13:25 e hospedagem em Praia Grande/SP (Guilhermina) de 10 a 16/11 - conferir check-in, documentos e organização da viagem. [Fonte: Google Agenda | Área: Social/lazer | Prazo: 10/11 | Prioridade: Média]",
+    "Acompanhar preços de passagens (LATAM Pass 01-30/11, Smiles 05-30/11, Azul 10-30/11); voo monitorado Rio → São Paulo (10-13/02) subiu de R$ 1.337 para R$ 1.487 - decidir se compra ou aguarda. [Fonte: Google Agenda / Google Flights | Área: Social/lazer | Prazo: até 30/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "C6 Bank (pessoal): newsletters e promoções (C6 Black anuidade zero, atualizar perfil de investidor, Saque-Aniversário FGTS, Extrato de Carbono, C6 Macro Review) - apenas informativo, sem fatura ou cobrança pendente. [Área: Financeiro pessoal]",
+    "SHEIN, Neon, Parcela Mais: e-mails promocionais - informativo, sem ação necessária. [Área: Social/lazer]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "20:00–21:00 - Aula online \"Preenchedores Faciais\" (reologia e técnicas de preenchimento; link no grupo do curso) [Fellow/CTBMF]",
+    "Dia todo (acompanhamento) - LATAM Pass, Smiles e Azul: acompanhar passagens [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
