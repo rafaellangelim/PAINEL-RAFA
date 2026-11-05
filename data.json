@@ -1,21 +1,25 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "05/11/2026 (horário de Brasília)",
+  "precisa": [
+    "TERAPIA - lembrete do Todoist (03/11) ainda na Inbox: confirmar/agendar a sessão. [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: esta semana | Prioridade: média]",
+    "Viagem a São Paulo - voo LA 3017 BSB→SP em 10/11 às 13:25 e estadia na Praia Grande 10–16/11: conferir check-in online, documentos e reserva. [Fonte: Google Calendar/Gmail | Área: Social/lazer | Prazo: 10/11 | Prioridade: média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Google Flights: preço monitorado Rio→São Paulo (10–13/fev) subiu de R$ 1.032 para R$ 1.161. [Fonte: Gmail | Área: Social/lazer | Informativo, sem ação necessária]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem compromissos com horário hoje (05/11).",
+    "Lembrete dia inteiro: LATAM Pass - acompanhar passagens (01–30/11) [Social/lazer]",
+    "Lembrete dia inteiro: Smiles - acompanhar passagens (início hoje, 05–30/11) [Social/lazer]",
+    "Próximo: 10/11 13:25 - voo LA 3017 Brasília→São Paulo [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
