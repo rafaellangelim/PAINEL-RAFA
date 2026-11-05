@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "05/11/2026, 13:16 (horário de Brasília)",
+  "precisa": [
+    "[Alta | Prazo: hoje] Lembrete Todoist \"TERAPIA\" (caiu na caixa de entrada em 03/11) - confirmar/agendar a sessão de terapia. [Fonte: Todoist/Gmail | Área: Saúde e bem-estar]",
+    "[Alta | Prazo: 10/11] Viagem a São Paulo: voo LA 3017 BSB→SP em 10/11 às 13:25 e hospedagem Beach House Guilhermina (Praia Grande) a partir de 10/11 - conferir check-in e bagagem. [Fonte: Google Agenda | Área: Social/lazer]",
+    "[Média | Prazo: 05-30/11] Acompanhar passagens promocionais (Smiles 05-30/11, LATAM Pass 01-30/11, Azul 10-30/11). Alerta Google Flights RIO→SP (10-13/02) subiu de R$ 1.032 para R$ 1.161. [Fonte: Google Agenda/Google Flights | Área: Social/lazer]",
+    "[Baixa | Prazo: 05/12] Seguro C6 Conta renova em 05/12 (mesmos valores) - só revisar se quiser cancelar. [Fonte: C6 Bank | Área: Financeiro pessoal]",
+    "[Baixa | Sem prazo] Conteúdos do IN26 (Plenum) disponíveis para você - assistir quando houver tempo. [Fonte: Plenum | Área: Fellow/CTBMF]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Lembrete do Todoist \"TERAPIA\" apenas informativo (ver pendência acima).",
+    "Avisos de promoções (Shein, C6, Vivo, PicPay, XP, Neon) - sem ação necessária, ignorados."
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem compromissos com horário hoje (05/11).",
+    "Dia inteiro: Smiles - acompanhar passagens (05-30/11)",
+    "Dia inteiro: LATAM Pass - acompanhar passagens (01-30/11)"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
