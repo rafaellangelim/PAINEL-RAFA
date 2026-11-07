@@ -1,21 +1,20 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
-  "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+  "updatedAt": "07/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Fazer check-in / conferir documentos do voo LA 3017 Brasília → São Paulo, terça 10/11, 13:25–15:10. [Fonte: Google Agenda | Área: Social/lazer | Prazo: 10/11 | Prioridade: Média]",
+    "Preparar a viagem/estadia na casa de praia Guilhermina (Praia Grande-SP), 10/11 a 16/11. [Fonte: Google Agenda (evento do Gmail) | Área: Social/lazer | Prazo: 10/11 | Prioridade: Média]",
+    "Decidir sobre voo monitorado Rio → São Paulo (10–13/fev), preço caiu para R$ 1.279 (antes R$ 1.487). [Fonte: Google Flights | Área: Social/lazer | Prazo: sem prazo definido | Prioridade: Baixa]",
+    "Acompanhar passagens promocionais LATAM Pass (até 30/11), Smiles (até 30/11) e Azul (10–30/11). [Fonte: Google Agenda | Área: Social/lazer | Prazo: 30/11 | Prioridade: Baixa]"
   ],
-  "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
-  ],
+  "resolvidos": [],
+  "agenda": [],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 4,
+    "Fellow/CTBMF": 0
   }
 }
