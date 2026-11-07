@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "07/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do cartão C6 (boleto emitido) - R$ 2.874,16. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 | Prioridade: Alta]",
+    "Decidir sobre voo monitorado Rio de Janeiro → São Paulo (10–13/fev, ida e volta): preço caiu para R$ 1.279 (antes R$ 1.487). [Fonte: Gmail/Google Flights | Área: Social/lazer | Prazo: sem prazo definido | Prioridade: Baixa]",
+    "Acompanhar passagens LATAM Pass (01–30/11) e Smiles (05–30/11) - lembretes no calendário, sem compra automática. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Novo evento no Circle.so (bucomax): \"Cirurgia ao vivo - Blefaroplastia superior e inferior + técnica de Castanhares\". [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo - conferir data/horário na plataforma se quiser assistir]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro (lembrete) - LATAM Pass: acompanhar passagens (01–30/11) [Social/lazer]",
+    "Dia inteiro (lembrete) - Smiles: acompanhar passagens (05–30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
