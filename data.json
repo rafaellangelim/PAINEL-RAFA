@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "08/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar boleto da Fatura Cartão C6 - R$ 2.874,16. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 | Prioridade: Alta]",
+    "Concluir validação facial de documentos (link Netrin, enviado por Thais Alves Mesquita) - precisa de RG/CNH em mãos, 2h para concluir as fotos; link expira em ~09/11 (96h após 05/11). Origem/área não identificada no e-mail, confirmar. [Fonte: Gmail | Área: a confirmar | Prazo: 09/11/2026 | Prioridade: Alta]",
+    "Preparar viagem a São Paulo: voo LA 3017 BSB→SP em 10/11 às 13:25 e estadia em Praia Grande (Beach House Guilhermina) de 10 a 16/11. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 10/11/2026 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Blefaroplastia superior e inferior + técnica de Castanhares\" (Escola Bucomax/Circle) - transmitida em 07/11, 14:30. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Google Flights: preço do voo monitorado Rio de Janeiro → São Paulo (10–13/fev) caiu para R$ 1.279 (era R$ 1.487). [Fonte: Google Flights | Área: Social/lazer | Informativo, sem ação obrigatória]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Sem compromissos com horário marcado hoje (08/11).",
+    "Lembretes de dia inteiro em andamento: acompanhar passagens LATAM Pass (01–30/11), Smiles (05–30/11) [Social/lazer]",
+    "Amanhã/próximos dias: 10/11 - voo LA 3017 para São Paulo (13:25) e início da estadia em Praia Grande (até 16/11)"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
