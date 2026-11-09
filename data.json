@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "09/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "[ALTA] Pagar fatura do Cartão C6 (boleto R$ 2.874,16), vence 15/11/2026. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: 15/11]",
+    "[ALTA] Voo LA 3017 Brasília → São Paulo amanhã (10/11), 13:25–15:10: fazer check-in e organizar a viagem. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 10/11]",
+    "[MÉDIA] Estadia Our Beach House Guilhermina, Praia Grande-SP, 10 a 16/11: confirmar reserva e detalhes de chegada. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 10/11]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aula ao vivo Escola Bucomax: Cirurgia ao vivo de blefaroplastia superior e inferior + técnica de Castanhares, 07/11 14h30. Evento já passou. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Google Flights: preço monitorado Rio de Janeiro → São Paulo (10–13/fev) subiu de R$ 1.279 para R$ 1.382. [Fonte: Google Flights | Área: Social/lazer | Informativo]",
+    "Lembretes de acompanhar passagens de milhas (LATAM Pass, Smiles, Azul, Esfera) até 30/11. [Fonte: Google Calendar | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje (09/11): sem compromissos pessoais com horário na agenda.",
+    "Em andamento: lembretes de acompanhar passagens (LATAM Pass, Smiles) [Social/lazer]",
+    "Amanhã 10/11, 13:25: Voo LA 3017 BSB → São Paulo [Social/lazer]",
+    "10/11 a 16/11: Estadia em Praia Grande-SP [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 0
   }
 }
