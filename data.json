@@ -1,21 +1,32 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "09/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar boleto da fatura do Cartão C6 - R$ 2.874,16, vence 15/11/2026. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: 15/11 | Prioridade: Alta]",
+    "Fazer a validação de documentos pelo link da Netrin (e-mail de 09/11, 'Link de validação Netrin'). Conferir se é pessoal ou da clínica. [Fonte: Gmail/Netrin | Área: Fellow/CTBMF (a confirmar) | Prazo: o quanto antes | Prioridade: Média]",
+    "Preparar o voo de amanhã 10/11 para São Paulo (LA 3017, Brasília 13:25 – 15:10) e a estadia na casa de praia em Praia Grande (10 a 16/11). [Fonte: Google Calendar | Área: Social/lazer | Prazo: 10/11 | Prioridade: Alta]",
+    "Acompanhar preço do voo monitorado Rio–São Paulo (10–13/fev): subiu para R$ 1.382 (era R$ 1.279). [Fonte: Gmail/Google Flights | Área: Social/lazer | Prazo: sem prazo | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Aviso de retenção SaudeService (mensalidade R$ 49,90, retida em 06/11). [Fonte: Gmail | Área: Financeiro pessoal | Informativo]",
+    "Convite Circle.so/bucomax: cirurgia ao vivo de blefaroplastia superior e inferior + técnica de Castanhares. [Fonte: Gmail | Área: Fellow/CTBMF | Informativo, avaliar se quer assistir]",
+    "Rastreamento SDAMed (pedido pelos Correios, atualizado em 07/11). [Fonte: Gmail | Informativo]",
+    "Newsletter C6 Bank (Selic) e novidades de limite Pix da InfinitePay. [Fonte: Gmail | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje 09/11: nenhum compromisso pessoal na agenda (a consulta das 16:00 é da clínica, ignorada).",
+    "10/11 09:00–10:00 - Terapia com Marina [Saúde e bem-estar]",
+    "10/11 13:25–15:10 - Voo LA 3017 Brasília → São Paulo [Social/lazer]",
+    "10/11 a 16/11 - Estadia Our Beach House Guilhermina, Praia Grande - SP [Social/lazer]",
+    "15/11 - Vencimento fatura Cartão C6 R$ 2.874,16 [Financeiro pessoal]",
+    "23/11, 14/12 e 21/12 - Plantão (dia inteiro, bloqueado na agenda) [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 3,
+    "Fellow/CTBMF": 3
   }
 }
