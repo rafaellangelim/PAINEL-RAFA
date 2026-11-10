@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "10/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar boleto da Fatura Cartão C6 - R$ 2.874,16, vence 15/11/2026. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: 15/11 | Prioridade: Alta]",
+    "Abrir o link de validação de documentos da Netrin (e-mail de 09/11, enviado por Thais Alves Mesquita). Conferir se é pessoal/formação antes de concluir. [Fonte: Gmail/Netrin | Área: Fellow/CTBMF (a confirmar) | Prazo: sem prazo informado | Prioridade: Média]",
+    "Conferir o preço do voo monitorado Rio-São Paulo (10-13/fev): subiu de R$ 1.279 para R$ 1.382. [Fonte: Gmail/Google Flights | Área: Social/lazer | Prazo: sem prazo | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Novo evento no Circle.so (bucomax): cirurgia ao vivo de blefaroplastia superior e inferior + técnica de Castanhares. Informativo, sem ação obrigatória; ver data no e-mail se quiser assistir. [Fonte: Circle.so | Área: Fellow/CTBMF]",
+    "Newsletter de economia do C6 Bank (Selic). Informativo. [Fonte: Gmail | Área: Financeiro pessoal]",
+    "Lembretes de acompanhamento de passagens LATAM Pass, Smiles e Azul (nov/2026) ativos na agenda, sem compra automática. [Fonte: Calendar | Área: Social/lazer]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "09:00-10:00 - Terapia com Marina [Saúde e bem-estar]",
+    "13:25-15:10 - Voo para São Paulo (LA 3017), saída de Brasília [Social/lazer]",
+    "Dia inteiro - Estadia na casa de praia, Guilhermina, Praia Grande-SP (10 a 16/11) [Social/lazer]",
+    "Dia inteiro - Acompanhar passagens: LATAM Pass, Smiles e Azul [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 1
   }
 }
