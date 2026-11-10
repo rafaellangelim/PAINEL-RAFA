@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "10/11/2026, 19:16 (horário de Brasília)",
+  "precisa": [
+    "Concluir a validação de documentos Netrin (validação facial com RG/CNH em mãos; depois de iniciada, são 2h para terminar). O link expira por volta das 17:38 de 13/11. Confira antes se o pedido é seu e é legítimo. [Fonte: Gmail (Netrin) | Área: Financeiro pessoal | Prazo: 13/11 | Prioridade: Alta]",
+    "Passagens SP: o voo monitorado Rio→São Paulo de 10 a 13/02 subiu de R$ 1.279 para R$ 1.382. Decidir se compra ou se continua acompanhando (LATAM Pass, Smiles, Azul e Esfera até 30/11). [Fonte: Gmail (Google Flights) + Agenda | Área: Social/lazer | Prazo: 30/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Terapia com Marina realizada hoje, 10/11, às 09:00. O lembrete do Todoist 'TERAPIA' (de abr/2026) pode ser concluído ou reagendado no app. [Fonte: Agenda + Todoist | Área: Saúde e bem-estar | Informativo]",
+    "Voo LA 3017 Brasília→São Paulo realizado hoje (13:25–15:10). [Fonte: Agenda | Área: Social/lazer | Informativo]",
+    "Aviso da 'MEI Digital' sobre a declaração anual e o CNPJ: é um site de terceiros, não oficial. Não precisa agir pelo e-mail. Se quiser, confira no Portal do Empreendedor (gov.br). [Fonte: Gmail | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "09:00–10:00 - Terapia com Marina [Saúde e bem-estar]",
+    "13:25–15:10 - Voo LA 3017 Brasília (BSB) → São Paulo [Social/lazer]",
+    "Dia todo (10 a 15/11) - Estadia na Beach House Guilhermina, Praia Grande/SP [Social/lazer]",
+    "Lembretes para acompanhar passagens: LATAM Pass, Smiles e Azul (até 30/11) [Social/lazer]",
+    "Próximo: 15/11, 13:00–14:45 - Voo LA 3108 São Paulo (CGH) → Brasília [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 3,
+    "Fellow/CTBMF": 0
   }
 }
