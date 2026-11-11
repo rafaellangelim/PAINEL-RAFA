@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "11/11/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Decidir compra do voo Rio de Janeiro → São Paulo (10–13/02, ida e volta) - preço monitorado caiu para R$ 670 (era R$ 1.382). [Fonte: Gmail/Google Flights | Área: Social/lazer | Prazo: hoje, preço pode subir | Prioridade: Alta]",
+    "Fazer check-in do voo LA 3108 São Paulo (CGH) → Brasília, dom 15/11 às 13:00. [Fonte: Google Calendar | Área: Social/lazer | Prazo: até 15/11, 12:00 | Prioridade: Média]",
+    "TERAPIA - lembrete do Todoist em atraso (data original 21/04/2026); agendar/retomar sessão ou atualizar a tarefa. [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: vencido | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Alerta anterior do Google Flights (09/11) para Rio → São Paulo a R$ 1.382 - substituído pelo alerta de queda para R$ 670. [Fonte: Gmail | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Hospedagem Our Beach House Guilhermina, Praia Grande - SP (10/11 a 15/11, em andamento) [Social/lazer]",
+    "Dia todo - Acompanhar passagens LATAM Pass (até 30/11), Smiles (até 30/11) e Azul (até 30/11) - lembrete, sem compra automática [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 4,
+    "Fellow/CTBMF": 0
   }
 }
