@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "11/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do Cartão C6 - R$ 2.874,16, vence 15/11 (domingo; pague até sexta 13/11 para garantir). [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 15/11 | Prioridade: ALTA]",
+    "TERAPIA - lembrete P1 do Todoist vencido desde 21/04; agendar/retomar sessão ou atualizar a tarefa. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: vencido | Prioridade: ALTA]",
+    "Voo monitorado Rio de Janeiro → São Paulo (10–13/02) caiu de R$ 1.382 para R$ 670 - decidir se compra antes de o preço subir. [Fonte: Gmail - Google Flights | Área: Social/lazer | Prazo: o quanto antes | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo Bucomax \"Blefaroplastia superior e inferior + técnica de Castanhares\" (Circle.so) - aconteceu em 07/11; ver se há gravação. [Fonte: Gmail - Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "E-mails da \"MEI Digital\" (Declaração Anual MEI / perdão de dívidas) - site de terceiros, não oficial; não clicar nos links. Se quiser conferir o CNPJ MEI, use só o gov.br/Portal do Empreendedor. [Fonte: Gmail - meumeidigital.com.br | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Hospedagem Our Beach House Guilhermina, Praia Grande/SP (10/11 a 16/11, em andamento) [Social/lazer]",
+    "Dia todo - LATAM Pass: acompanhar passagens (01–30/11) [Social/lazer]",
+    "Dia todo - Smiles: acompanhar passagens (05–30/11) [Social/lazer]",
+    "Dia todo - Azul: acompanhar passagens (10–30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 5,
+    "Fellow/CTBMF": 1
   }
 }
