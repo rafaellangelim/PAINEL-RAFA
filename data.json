@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "11/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do Cartão C6 (pessoal) - R$ 2.874,16. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 15/11 (domingo, dia do voo de volta) | Prioridade: ALTA]",
+    "Concluir validação facial/documentos Netrin (link enviado em 09/11, expira em 96h; ter RG/CNH em mãos). Confirmar se é pessoal antes de seguir. [Fonte: Gmail - Netrin | Área: Financeiro pessoal | Prazo: 13/11 até ~17h30 | Prioridade: ALTA]",
+    "Voo LA 3108 São Paulo (CGH) → Brasília, 15/11 às 13:00: fazer check-in e organizar a ida ao aeroporto saindo de Praia Grande. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 15/11 | Prioridade: MÉDIA]",
+    "Passagem monitorada Rio → São Paulo (10–13/fev) caiu para R$ 670 (era R$ 1.382): decidir se compra. [Fonte: Gmail - Google Flights | Área: Social/lazer | Prazo: o quanto antes (preço pode subir) | Prioridade: MÉDIA]",
+    "TERAPIA - lembrete do Todoist (tarefa marcada para 21/04, ainda aberta): agendar/retomar sessão. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: sem data definida (atrasada) | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Blefaroplastia superior e inferior + técnica de Castanhares\" (Escola Bucomax/Circle.so) foi em 07/11. Já passou; ver gravação se quiser. [Fonte: Gmail - Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Plantão bloqueado na agenda, dia inteiro, todos os dias a partir de 21/12. [Fonte: Gmail - notificação de agenda | Área: Fellow/CTBMF | Informativo]",
+    "E-mails da \"MEI Digital\" (Declaração Anual MEI / perdão de dívidas) parecem vir de um site não oficial. Se precisar, confira só no Portal do Empreendedor (gov.br). [Fonte: Gmail | Área: Financeiro pessoal | Informativo - não clicar nos links]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro - Hospedagem Our Beach House Guilhermina, Praia Grande/SP (10/11 a 15/11, em andamento) [Social/lazer]",
+    "Lembretes de passagens em andamento: LATAM Pass (até 30/11), Smiles (até 30/11), Azul (até 30/11) [Social/lazer]",
+    "Sem compromissos com horário marcado hoje"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 3,
+    "Social/lazer": 2,
     "Fellow/CTBMF": 2
   }
 }
