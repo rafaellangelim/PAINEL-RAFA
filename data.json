@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "12/11/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Concluir validação de documentos Netrin (validação facial com RG/CNH original; 2h para concluir após iniciar). Link expira em 96h. Confirme se é um processo pessoal seu antes de clicar. [Fonte: Gmail - THAIS ALVES MESQUITA (ESP) | Área: Financeiro pessoal | Prazo: 13/11 ~17:38 | Prioridade: ALTA]",
+    "Retomar/agendar TERAPIA: tarefa do Todoist atrasada desde 21/04/2026, com lembrete reenviado em 10/11. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: vencida | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Voo monitorado Rio → São Paulo (10-13/fev, ida e volta): caiu para R$ 670 em 10/11 e voltou a subir para R$ 1.350 em 12/11. [Fonte: Google Flights | Área: Social/lazer | Informativo]",
+    "MEI Digital - 'Declaração Anual MEI' e 'perdão de dívidas': e-mails de um serviço particular, não do governo. A declaração oficial (DASN-SIMEI) é feita de graça no Portal do Empreendedor. [Fonte: Gmail - meumeidigital | Área: Financeiro pessoal | Informativo, provável marketing]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro - Estadia na Our Beach House Guilhermina, Praia Grande/SP (10/11 a 15/11) [Social/lazer]",
+    "Dia inteiro - Acompanhar passagens: LATAM Pass (até 30/11), Smiles (até 30/11), Azul (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 3,
+    "Fellow/CTBMF": 0
   }
 }
