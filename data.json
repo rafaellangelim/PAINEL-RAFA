@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "12/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do Cartão C6 (pessoal) - R$ 2.874,16, boleto emitido 07/11. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 (domingo - pague até 13/11 para evitar problema de compensação) | Prioridade: ALTA]",
+    "Concluir validação de documentos Netrin (validação facial com RG/CNH) - link enviado 09/11 expira em 96h. Confirme se é processo seu antes de clicar. [Fonte: Gmail - Netrin | Área: Financeiro pessoal | Prazo: 13/11/2026 ~17h30 | Prioridade: ALTA]",
+    "Lembrete Todoist: TERAPIA - agendar/confirmar sessão. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: sem data definida | Prioridade: MÉDIA]",
+    "Voo monitorado Rio de Janeiro → São Paulo (10-13/02) subiu de R$ 670 para R$ 1.350; decidir se compra agora ou continua acompanhando (LATAM Pass/Smiles/Azul/Esfera até 30/11). [Fonte: Gmail - Google Flights + Agenda | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo Bucomax 'Blefaroplastia superior e inferior + técnica de Castanhares' (Circle.so) - evento já ocorreu em 07/11. [Fonte: Gmail - Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Hospedagem Beach House Guilhermina (Praia Grande/SP) 10-16/11 em andamento e voo LA 3108 CGH → Brasília em 15/11 às 13:00 confirmados. [Fonte: Agenda | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Hospedagem Beach House Guilhermina, Praia Grande/SP (10/11 a 15/11) [Social/lazer]",
+    "Dia todo - Acompanhar passagens: LATAM Pass, Smiles e Azul (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
