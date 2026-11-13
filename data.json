@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "13/11/2026, 07:16 (horário de Brasília)",
+  "precisa": [
+    "Conferir e pagar a fatura do cartão C6 Bank: o banco avisa que o vencimento está próximo (o e-mail não traz a data exata, confira no app). [Fonte: Gmail - C6 Bank, 12/11 | Área: Financeiro pessoal | Prazo: vencimento próximo | Prioridade: Alta]",
+    "Voo de volta para Brasília (LATAM LA 3108), domingo 15/11, 13:00 em Congonhas (CGH): fazer o check-in e organizar a saída da casa de praia. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 15/11 | Prioridade: Alta]",
+    "TERAPIA: lembrete do Todoist em aberto (prioridade 1, data original 21/04/2026). Agendar ou confirmar a sessão. [Fonte: Gmail - Todoist, 10/11 | Área: Saúde e bem-estar | Prazo: em atraso | Prioridade: Média]",
+    "Passagens de São Paulo para fevereiro (10 a 13/02): o voo monitorado saindo de Brasília subiu de R$ 633 para R$ 668, e o do Rio está em R$ 670. Decidir se compra; os lembretes de LATAM, Smiles, Azul e Esfera seguem até 30/11. [Fonte: Gmail - Google Flights + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Hospedagem na Our Beach House Guilhermina (Praia Grande, SP), de 10 a 16/11, está em andamento. Nada a fazer. [Fonte: Google Calendar | Área: Social/lazer | Informativo]",
+    "Ofertas de parcelamento e cartões extras do C6 Bank e da InfinitePay, e promoções da SHEIN (11.11): são só marketing e não pedem ação. [Fonte: Gmail | Área: Financeiro pessoal | Informativo]",
+    "Minha Black Friday (17/11) e Livelo (a partir de 20/11): lembretes para acompanhar passagens, sem compra automática. [Fonte: Google Calendar | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro - Hospedagem Our Beach House Guilhermina, Praia Grande - SP (10 a 16/11) [Social/lazer]",
+    "Dia inteiro - Acompanhar passagens: LATAM Pass (até 30/11), Smiles (até 30/11), Azul (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 0
   }
 }
