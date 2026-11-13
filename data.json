@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "13/11/2026, 13:33 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do Cartão C6 (pessoal) - R$ 2.874,16. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 (domingo) | Prioridade: ALTA]",
+    "Voo de volta LA 3108 São Paulo (CGH) → Brasília, dom 15/11 às 13:00 - fazer check-in e organizar o checkout da Beach House Guilhermina. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 15/11/2026 | Prioridade: ALTA]",
+    "Terapia - lembrete do Todoist segue em aberto (tarefa de 21/04 ainda não concluída): agendar/retomar sessão. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: sem data definida (atrasada) | Prioridade: MÉDIA]",
+    "Decidir passagem para São Paulo (10–13/02/2027): Brasília→SP agora R$ 668 (subiu de R$ 633); Rio→SP R$ 670. Acompanhar promoções LATAM/Smiles/Azul/Esfera até 30/11. [Fonte: Gmail - Google Flights + Google Calendar | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo Escola Bucomax \"Blefaroplastia superior e inferior + técnica de Castanhares\" (07/11, 14h30) - já ocorreu; transmissão disponível no YouTube. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "C6 Bank \"Precisa de ajuda com a fatura?\" - oferta de parcelamento, sem ação necessária. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Hospedagem Beach House Guilhermina, Praia Grande/SP (10/11 a 16/11, em andamento) [Social/lazer]",
+    "Lembretes - acompanhar passagens LATAM Pass, Smiles e Azul (até 30/11) [Social/lazer]",
+    "Próximos: dom 15/11 13:00 - Voo LA 3108 CGH → Brasília [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
