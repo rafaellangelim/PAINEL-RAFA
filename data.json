@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "13/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do Cartão C6 (boleto R$ 2.874,16) - vence 15/11 (domingo). [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 | Prioridade: ALTA]",
+    "Verificar alerta crítico de segurança do Google: tentativa de login bloqueada com sua senha hoje às 14:03. Se não foi você (configuração do Mac), troque a senha e revise a atividade. [Fonte: Gmail - Google | Área: Pessoal (segurança da conta) | Prazo: hoje | Prioridade: ALTA]",
+    "Acompanhar preços de passagens para São Paulo (10–13/02): Brasília→SP subiu para R$ 668 (antes R$ 633); Rio→SP R$ 670. Lembretes LATAM/Smiles/Azul ativos até 30/11. [Fonte: Gmail - Google Flights + Agenda | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo Escola Bucomax (Circle.so) - Blefaroplastia superior e inferior + técnica de Castanhares, realizada em 07/11. Gravação disponível no Circle/YouTube. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Novo login no Mac OS na conta Google (13/11, 15:29) - provavelmente você configurando o Mac; nenhuma ação se foi você. [Fonte: Gmail - Google | Informativo]",
+    "C6 Bank - ofertas de parcelamento de fatura e antecipação de FGTS (marketing, sem ação necessária). [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro - Hospedagem Our Beach House Guilhermina, Praia Grande/SP (10/11 a 15/11) [Social/lazer]",
+    "Dia inteiro - Lembretes: acompanhar passagens LATAM Pass, Smiles e Azul (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 3,
+    "Fellow/CTBMF": 1
   }
 }
