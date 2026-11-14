@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "14/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do Cartão C6 - R$ 2.874,16 (boleto). [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 (amanhã) | Prioridade: ALTA]",
+    "Alerta crítico de segurança do Google (13/11): alguém usou sua senha para tentar entrar na conta; o Google bloqueou. Trocar a senha e revisar a verificação em duas etapas. Houve também um novo login em Mac OS no mesmo dia; confirmar que foi você. [Fonte: Gmail - Google | Área: Conta pessoal/segurança | Prazo: hoje | Prioridade: ALTA]",
+    "Voo LA 3108 São Paulo (CGH) → Brasília, amanhã 15/11 às 13:00. Fazer o check-in e planejar a saída da Praia Grande. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 15/11/2026 | Prioridade: MÉDIA]",
+    "Voo monitorado Brasília → São Paulo (10–13/02/2027, ida e volta) caiu para R$ 633 (era R$ 668). Decidir se compra. [Fonte: Gmail - Google Flights | Área: Social/lazer | Prazo: sem prazo (o preço oscila) | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Boleto da fatura C6 emitido em 07/11 (R$ 2.874,16). Já está coberto pela tarefa de pagamento. [Fonte: C6 Bank | Financeiro pessoal | Informativo]",
+    "E-mails do C6 sobre parcelamento de fatura e Pix protegido: só promoção, nenhuma ação necessária. [Fonte: C6 Bank | Financeiro pessoal | Informativo]",
+    "Cirurgia ao vivo Bucomax: Blefaroplastia superior e inferior + técnica de Castanhares (07/11, 14h30). O evento já passou; a gravação está no Circle/YouTube. [Fonte: Circle.so | Fellow/CTBMF | Informativo]",
+    "Novo login no Mac OS (13/11): se foi você, nenhuma ação é necessária. [Fonte: Google | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro: hospedagem na Beach House Guilhermina, Praia Grande-SP (10 a 16/11, em andamento) [Social/lazer]",
+    "Lembretes para acompanhar passagens: LATAM Pass (01–30/11), Smiles (05–30/11), Azul (10–30/11) [Social/lazer]",
+    "Amanhã 15/11, 13:00: voo LA 3108 CGH → Brasília [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 0
   }
 }
