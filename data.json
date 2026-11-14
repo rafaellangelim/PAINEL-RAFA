@@ -1,21 +1,30 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "14/11/2026, 13:14 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do cartão C6 pessoal - R$ 2.874,16 (boleto vence AMANHÃ). [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 | Prioridade: ALTA]",
+    "Verificar segurança da conta Google: alerta crítico de tentativa de login bloqueada com sua senha (13/11, 14:03). Se não foi você, troque a senha e ative a verificação em 2 etapas. [Fonte: Gmail/Google | Área: Pessoal - segurança | Prazo: hoje | Prioridade: ALTA]",
+    "Fazer check-in do voo LA 3108 São Paulo (CGH) → Brasília, amanhã às 13:00. [Fonte: Google Agenda | Área: Social/lazer | Prazo: 15/11/2026 | Prioridade: ALTA]",
+    "Acompanhar preços de passagens (LATAM Pass, Smiles, Azul, Esfera a partir de 15/11, Minha Black Friday em 17/11, Livelo a partir de 20/11). Voo monitorado Brasília→São Paulo 10-13/fev caiu para R$ 633. [Fonte: Google Agenda + Google Flights | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Nova fatura do cartão C6 disponível (PDF com senha) - mesma fatura do pagamento acima. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Informativo]",
+    "Novo login no Mac OS na conta Google (13/11, 15:29) - se foi você, nenhuma ação é necessária. [Fonte: Gmail/Google | Área: Pessoal - segurança | Informativo]",
+    "Ofertas de parcelamento de fatura do C6 - promocional, nenhuma ação é necessária. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Informativo]",
+    "Novo evento no Circle (bucomax): Cirurgia ao vivo - Blefaroplastia superior e inferior + técnica de Castanhares. [Fonte: Gmail/Circle.so | Área: Fellow/CTBMF | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Hospedagem Audaar Tech Suítes - Aeroporto de Congonhas (check-in hoje, até 16/11) [Social/lazer]",
+    "Dia todo - Hospedagem Our Beach House Guilhermina - Praia Grande/SP (10/11 a 16/11) [Social/lazer]",
+    "Lembretes de acompanhar passagens: LATAM Pass, Smiles e Azul (até 30/11) [Social/lazer]",
+    "Amanhã 13:00-14:45 - Voo LA 3108 CGH → Brasília [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 3,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
