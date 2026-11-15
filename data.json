@@ -1,21 +1,28 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "15/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar/confirmar pagamento do boleto da fatura do cartão C6 - R$ 2.874,16, vence HOJE (15/11). Não há comprovante de pagamento no e-mail. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 15/11/2026 | Prioridade: ALTA]",
+    "Verificar segurança da Conta Google: tentativa de login bloqueada com sua senha em 13/11 (Alerta crítico). Revisar atividade e trocar a senha se não foi você. [Fonte: Gmail - Google | Área: Financeiro pessoal (segurança de contas) | Prazo: o quanto antes | Prioridade: ALTA]",
+    "Decidir sobre voo para São Paulo 10–13/02 (Google Flights monitorado: BSB→SP R$ 633; RIO→SP subiu para R$ 1.331) e seguir acompanhando LATAM Pass/Smiles/Azul/Esfera até 30/11. [Fonte: Gmail - Google Flights + Agenda | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Blefaroplastia superior e inferior\" (Escola Bucomax / Circle.so) - foi ontem, 14/11, 15h30–17h. Assistir gravação se tiver perdido. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Fatura do cartão C6 de novembro chegou (14/11) - e-mails de parcelamento do C6 são promocionais. [Fonte: C6 Bank | Área: Financeiro pessoal | Informativo]",
+    "Novo login em Mac OS na Conta Google (13/11) - nenhuma ação se foi você. [Fonte: Google | Informativo]",
+    "Hospedagens (Beach House Guilhermina - Praia Grande e Audaar Tech Suítes - Congonhas) encerram hoje, 15/11. [Fonte: Agenda | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "13:00–14:45 - Voo para Brasília LA 3108 (saída São Paulo CGH) [Social/lazer]",
+    "Dia todo - Check-out: Audaar Tech Suítes (Congonhas) e Beach House Guilhermina (Praia Grande) [Social/lazer]",
+    "Lembretes ativos: acompanhar passagens LATAM Pass, Smiles, Azul e Esfera (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 3,
+    "Social/lazer": 3,
+    "Fellow/CTBMF": 1
   }
 }
