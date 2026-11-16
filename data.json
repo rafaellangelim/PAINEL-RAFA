@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "16/11/2026, 07:14 (horário de Brasília)",
+  "precisa": [
+    "Pagar fatura do Cartão C6 - boleto de R$ 2.874,16, venceu domingo 15/11 (pagável hoje, 16/11, primeiro dia útil). Não há confirmação de pagamento no e-mail e o C6 já está oferecendo parcelamento. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: HOJE 16/11 | Prioridade: ALTA]",
+    "Conferir a fatura do cartão C6 de novembro (PDF 'Fatura-CPF' chegou em 14/11; a senha são os 6 primeiros dígitos do CPF) e confirmar se é a mesma do boleto acima. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: 16/11 | Prioridade: ALTA]",
+    "Segurança da conta Google: houve uma tentativa de login bloqueada com a sua senha (13/11) e um novo login em Mac OS. Se o Mac não for seu, troque a senha e ative a verificação em 2 etapas. [Fonte: Gmail - Google | Área: Financeiro pessoal (segurança das contas) | Prazo: o quanto antes | Prioridade: ALTA]",
+    "Voo monitorado para São Paulo (10–13/02): Brasília→SP caiu para R$ 633 e Rio→SP subiu para R$ 1.331. Decidir se compra. [Fonte: Gmail - Google Flights | Área: Social/lazer | Prazo: sem prazo fixo | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Bucomax (Circle.so): novo evento 'Cirurgia ao vivo - Blefaroplastia superior e inferior'. Apenas informativo, veja a data na plataforma. [Fonte: Gmail - Circle.so | Área: Fellow/CTBMF]",
+    "E-mails do C6 Bank oferecendo parcelamento de fatura (12, 13 e 15/11) são marketing, não exigem ação além do pagamento. [Fonte: Gmail | Área: Financeiro pessoal]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro - Lembretes para acompanhar passagens: LATAM Pass, Smiles, Azul e Esfera (até 30/11) [Social/lazer]",
+    "Amanhã 17/11 - Minha Black Friday: acompanhar passagens [Social/lazer]",
+    "A partir de 20/11 - Livelo: acompanhar passagens [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 3,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 0
   }
 }
