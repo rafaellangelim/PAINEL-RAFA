@@ -1,21 +1,30 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "17/11/2026, 19:14 (horário de Brasília)",
+  "precisa": [
+    "Confirmar pagamento da fatura do cartão C6 pessoal (R$ 2.874,16, venceu 15/11). O C6 mandou ofertas de parcelamento em 15 e 16/11 e não chegou nenhuma confirmação de pagamento: checar no app. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencida 15/11 | Prioridade: ALTA]",
+    "Terapia: lembrete do Todoist de hoje (17/11). Confirmar ou agendar a sessão. [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: 17/11 | Prioridade: MÉDIA]",
+    "Enviar ou descartar o rascunho antigo para Rafael Ruman sobre a falha na cobrança da assinatura BUCOMAX (R$ 98,00), parado desde 01/10. Antes, conferir se o pagamento já foi regularizado. [Fonte: Gmail/Rascunhos | Área: Fellow/CTBMF | Prazo: sem data, pendente desde 01/10 | Prioridade: MÉDIA]",
+    "Preparar o plantão de Bucomaxilo de 23 a 29/11 (horários específicos ainda não informados). [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: MÉDIA]",
+    "Passagens para São Paulo de 10 a 13/02: os preços monitorados subiram (Rio→SP R$ 1.161 → R$ 1.491; Brasília→SP R$ 633 → R$ 737). Decidir se compra; os lembretes de LATAM, Smiles, Azul, Esfera e Livelo vão até 30/11. [Fonte: Gmail/Google Flights + Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Blefaroplastia superior e inferior\" (Escola Bucomax/Circle), 14/11, 15h30–17h. Evento já passou, sem ação. [Fonte: Gmail/Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "A fatura do cartão C6 de novembro chegou em 14/11 (PDF protegido por senha). [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo: Minha Black Friday, acompanhar passagens (17/11) [Social/lazer]",
+    "Dia todo: lembretes de passagens LATAM Pass, Smiles, Azul e Esfera (janelas até 30/11) [Social/lazer]"
   ],
-  "rascunhos": [],
+  "rascunhos": [
+    "Nenhum rascunho novo nesta varredura: não há e-mail pessoal pedindo resposta.",
+    "Ainda não enviado: rascunho de 01/10 para rafaelruman1@gmail.com, \"Re: Problema com pagamento da assinatura BUCOMAX\" [Fellow/CTBMF]"
+  ],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 3
   }
 }
