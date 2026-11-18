@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "18/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Confirmar pagamento da fatura do cartão C6 (R$ 2.874,16, venceu em 15/11). Depois do vencimento o C6 mandou e-mails oferecendo parcelamento (15/11 e 16/11), o que pode indicar que a fatura está em aberto. Verifique no app e pague ou regularize. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: vencida desde 15/11 | Prioridade: ALTA]",
+    "TERAPIA: lembrete do Todoist ainda em aberto (tarefa criada para 21/04/2026, lembrete reenviado em 17/11). Agende a sessão ou marque a tarefa como concluída. [Fonte: Gmail - Todoist | Área: Saúde e bem-estar | Prazo: atrasada | Prioridade: MÉDIA]",
+    "Preparar-se para o Plantão Bucomaxilo de 23 a 29/11 (horários ainda não informados na agenda). [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: MÉDIA]",
+    "Passagens monitoradas para São Paulo (10 a 13/02) subiram de preço: Brasília-SP foi de R$ 633 para R$ 737 e Rio-SP de R$ 1.331 para R$ 1.491. Decida se compra agora ou se continua acompanhando as promoções de milhas da agenda (LATAM, Smiles, Azul, Esfera, Livelo e GOL, até 30/11). [Fonte: Gmail - Google Flights + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Blefaroplastia superior e inferior\" (Escola Bucomax/Circle), de 14/11, já aconteceu. [Fonte: Gmail - Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Firebase avisa que o acesso ao banco Cloud Firestore do projeto PAINEL RAFA expirou há 28 dias (modo de teste). Só precisa de ação se o painel depender do Firestore. [Fonte: Gmail - Firebase | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "09:00–09:45 - Gravação (Marilda Café, Asa Norte, Brasília)",
+    "Dia inteiro - Acompanhar passagens: LATAM Pass, Smiles, Azul e Esfera (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
