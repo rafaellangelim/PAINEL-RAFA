@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "19/11/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Confirmar se a fatura do cartão pessoal C6 (R$ 2.874,16, venceu em 15/11) foi paga. O C6 mandou e-mails de parcelamento em 15 e 16/11, o que pode indicar que está em aberto. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencida desde 15/11 | Prioridade: ALTA]",
+    "Terapia: lembrete do Todoist em 17/11, ainda sem confirmação de que foi feita ou agendada. [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: esta semana | Prioridade: MÉDIA]",
+    "Voos para São Paulo de 10 a 13/02: BSB-GRU caiu para R$ 613 (antes R$ 737) e RIO-SP subiu para R$ 1.491. Bom momento para decidir se compra pelo trecho de Brasília. [Fonte: Gmail/Google Flights + Agenda | Área: Social/lazer | Prazo: até 30/11 (janela de acompanhamento das milhas) | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo de blefaroplastia superior e inferior (Escola Bucomax/Circle) em 14/11, evento que já passou. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Saúde Service: sem expediente regular no feriado de 20/11. [Fonte: Gmail | Área: Saúde e bem-estar | Informativo]",
+    "Amanhã (20/11) é feriado de Consciência Negra. [Fonte: Gmail | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo: acompanhar passagens nos programas LATAM Pass, Smiles, Azul e Esfera, até 30/11 [Social/lazer]",
+    "Amanhã (20/11): começa a janela de acompanhamento de passagens no Livelo, até 30/11 [Social/lazer]",
+    "Nenhum compromisso pessoal com horário marcado hoje"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 2,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 3,
+    "Fellow/CTBMF": 1
   }
 }
