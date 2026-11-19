@@ -1,21 +1,30 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "19/11/2026, 19:16 (horário de Brasília)",
+  "precisa": [
+    "Confirmar pagamento da fatura do cartão C6 pessoal (R$ 2.874,16, vencimento 15/11). Não há e-mail confirmando o pagamento, e o C6 mandou ofertas de parcelamento em 15 e 16/11 ('Ainda dá tempo de continuar aproveitando os benefícios do seu cartão'), o que sugere que pode estar em aberto. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencida em 15/11 | Prioridade: ALTA]",
+    "TERAPIA: lembrete do Todoist (17/11) ainda em aberto, agendar ou confirmar a sessão. [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: sem data definida | Prioridade: MÉDIA]",
+    "Voo monitorado Brasília → São Paulo (10–13/02): o preço caiu para R$ 613 (era R$ 737). Rio → São Paulo subiu para R$ 1.491. Avaliar se compra agora. [Fonte: Gmail/Google Flights | Área: Social/lazer | Prazo: acompanhar até 30/11 | Prioridade: MÉDIA]",
+    "Rascunho de resposta ao Rafael (BUCOMAX) sobre a falha na cobrança de R$ 98,00 da assinatura está salvo desde 01/10 e nunca foi enviado. Verificar se o pagamento foi regularizado; enviar ou descartar o rascunho. [Fonte: Gmail/Rascunhos | Área: Fellow/CTBMF | Prazo: sem data | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Pix de R$ 3.722,67 saiu da conta C6 Empresas para NU PAGAMENTOS em 19/11. Pode ser o pagamento da fatura do Nubank, confira se é a fatura pessoal. [Fonte: Gmail/C6 | Área: Financeiro pessoal | Informativo]",
+    "Cirurgia ao vivo Bucomax 'Blefaroplastia superior e inferior' (14/11, 15h30) já aconteceu. A gravação está no YouTube. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Saúde Service: sem expediente regular no feriado de 20/11 (Consciência Negra). [Fonte: Gmail | Área: Saúde e bem-estar | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro: lembretes para acompanhar passagens LATAM Pass (01–30/11), Smiles (05–30/11), Azul (10–30/11) e Esfera (15–30/11) [Social/lazer]",
+    "Sem outros compromissos pessoais hoje. Amanhã (20/11) é feriado de Consciência Negra."
   ],
-  "rascunhos": [],
+  "rascunhos": [
+    "Nenhum rascunho novo nesta varredura: nenhum e-mail pessoal pedia resposta.",
+    "Rascunho antigo e ainda não enviado: 'Re: Problema com pagamento da assinatura BUCOMAX' para Rafael (01/10)"
+  ],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 2,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
     "Fellow/CTBMF": 2
   }
 }
