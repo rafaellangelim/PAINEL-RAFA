@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "20/11/2026, 07:14 (horário de Brasília)",
+  "precisa": [
+    "Confirmar pagamento da fatura do cartão C6 (R$ 2.874,16, venceu 15/11). Não achei e-mail confirmando o pagamento e o C6 tem mandado ofertas de parcelamento. [Fonte: Gmail/C6 Bank | Área: Financeiro pessoal | Prazo: vencida em 15/11 | Prioridade: ALTA]",
+    "Preparar o plantão de Bucomaxilo de 23 a 29/11 (escala e horários ainda não definidos). Há um aviso de conflito de agenda da clínica em 23/11 às 14:30. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: ALTA]",
+    "Lembrete de tarefa no Todoist: TERAPIA (atrasada desde 21/04/2026). Agendar ou retomar a sessão. [Fonte: Gmail/Todoist | Área: Saúde e bem-estar | Prazo: atrasada | Prioridade: MÉDIA]",
+    "Decidir a compra das passagens para São Paulo, 10 a 13/02 (Google Flights: saindo de BSB caiu para R$ 613; saindo do RIO subiu para R$ 1.491). Os lembretes LATAM/Smiles/Azul/Esfera/Livelo/GOL/Black Friday ficam ativos até 30/11. [Fonte: Gmail/Google Flights + Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Pix de R$ 2.500,02 da conta pessoal XP para Angelim Odontologia realizado (12/11). [Fonte: Gmail/XP | Área: Financeiro pessoal | Informativo]",
+    "Google Flights: o preço do voo monitorado BSB→SP caiu de R$ 737 para R$ 613. [Fonte: Gmail | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo: Livelo, acompanhar passagens (20 a 30/11) [Social/lazer]",
+    "Em andamento: LATAM Pass, Smiles, Azul e Esfera, acompanhar passagens (até 30/11) [Social/lazer]",
+    "Feriado nacional, 20/11 (Consciência Negra)"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 1
   }
 }
