@@ -1,21 +1,24 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "20/11/2026, 18:15 (horário de Brasília)",
+  "precisa": [
+    "Pagar boleto SDAMed (parcela) - R$ 490,00, vence AMANHÃ 21/11 (multa de 2% após o vencimento). Boleto em nome pessoal (CPF); confirmar se é compra pessoal/Fellow ou da clínica. [Fonte: Gmail - SDAMed/Bling | Área: Financeiro pessoal | Prazo: 21/11/2026 | Prioridade: ALTA]",
+    "Decidir se mantém a assinatura Bucomax - renovação automática em 27/11 no Mastercard final 9610. [Fonte: Gmail - Bucomax/Stripe | Área: Fellow/CTBMF | Prazo: 27/11/2026 | Prioridade: MÉDIA]",
+    "Passagem para São Paulo (voo monitorado) - preço subiu para R$ 1.647 (antes R$ 1.350; ontem chegou a R$ 613). Avaliar compra. Janelas de milhas abertas até 30/11 (LATAM Pass, Smiles, Azul, Esfera, Livelo). [Fonte: Gmail - Google Voos + Agenda | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Novo evento no Circle (Bucomax): CIRURGIA AO VIVO | Face Lifting Deep Plane. Ver data no Circle se quiser participar. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Livelo - janela para acompanhar passagens abre hoje (20 a 30/11). [Fonte: Agenda | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - LATAM Pass, Smiles, Azul, Esfera e Livelo: acompanhar passagens (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
     "Fellow/CTBMF": 2
   }
 }
