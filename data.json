@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "20/11/2026, 13:20 (horário de Brasília)",
+  "precisa": [
+    "Retomar/agendar TERAPIA - lembrete Todoist (prioridade P1) segue aberto, com data original de 21/04/2026, ou seja, atrasado. [Fonte: Todoist via Gmail, 17/11 | Área: Saúde e bem-estar | Prazo: atrasado | Prioridade: ALTA]",
+    "Conferir a fatura do cartão pessoal C6 Bank - o C6 mandou 2 lembretes (15/11 e 16/11) oferecendo parcelamento da fatura, o que sugere que ela pode estar em aberto. Confirmar se já foi paga. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: o quanto antes | Prioridade: ALTA]",
+    "Preparar-se para o Plantão Bucomaxilo de 23 a 29/11 (horários não informados). [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: MÉDIA]",
+    "Decidir sobre a passagem para São Paulo (10 a 13/02): BSB→SP caiu para R$ 613 (era R$ 737); RIO→SP subiu para R$ 1.647. Os lembretes de acompanhar passagens seguem até 30/11 (Livelo começou hoje, GOL em 25/11, Black Friday em 27/11). [Fonte: Google Flights + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Novo evento Escola Bucomax (Circle.so): Cirurgia ao vivo - Face Lifting Deep Plane com o Dr. Rafael Jorge Ruman, hoje 20/11, transmitida no YouTube. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Saúde Service: aviso de que não haverá expediente regular no feriado de 20/11. [Fonte: Gmail | Área: Saúde e bem-estar | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Hoje, 12:00–16:00 - Cirurgia ao vivo: Face Lifting Deep Plane (Escola Bucomax / YouTube; o texto do e-mail diz 11h) [Fellow/CTBMF]",
+    "Dia inteiro - Livelo: acompanhar passagens (20 a 30/11) [Social/lazer]",
+    "Em andamento - LATAM Pass, Smiles, Azul e Esfera: acompanhar passagens (até 30/11) [Social/lazer]",
+    "Próximo: Plantão Bucomaxilo de 23 a 29/11 [Fellow/CTBMF]",
+    "Feriado nacional - Dia da Consciência Negra (20/11)"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 2,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
