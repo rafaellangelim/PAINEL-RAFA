@@ -1,21 +1,26 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "21/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Preparar-se para o Plantão Bucomaxilo de 23 a 29/11 (horários não informados no evento; confirmar escala) [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: Alta]",
+    "Decidir se mantém a assinatura Bucomax: renovação automática em 27/11 no Mastercard final 9610 [Fonte: Gmail (Stripe/Bucomax) | Área: Fellow/CTBMF | Prazo: 26/11 | Prioridade: Média]",
+    "Voo monitorado para São Paulo caiu para R$ 541 (antes R$ 613 e R$ 737): decidir sobre a compra; as janelas de promoção LATAM/Smiles/Azul/Esfera/Livelo/GOL/Black Friday vão até 30/11 [Fonte: Gmail (Google Travel) + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Frontoplastia Feminizadora\" (Escola Bucomax/Circle.so): presença confirmada; transmissão hoje, 21/11, das 13:45 às 18:00, já encerrada [Fonte: Gmail (Circle.so) | Área: Fellow/CTBMF | Informativo]",
+    "Pedido Claro nº 002371902065 recebido e em análise; entrega no endereço cadastrado (um eSIM chega por e-mail depois da aprovação) [Fonte: Gmail (Minha Claro) | Área: Financeiro pessoal | Informativo, só acompanhar]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "13:45–18:00 - Cirurgia ao vivo \"Frontoplastia Feminizadora\" (Circle Live, Escola Bucomax) [Fellow/CTBMF]",
+    "Dia inteiro - Acompanhar passagens: LATAM Pass (até 30/11), Smiles (até 30/11), Azul (até 30/11), Esfera (até 30/11), Livelo (até 30/11) [Social/lazer]",
+    "Próximo: Plantão Bucomaxilo de 23/11 a 29/11 [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 3
   }
 }
