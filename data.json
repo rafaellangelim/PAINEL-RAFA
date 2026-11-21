@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "21/11/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Verificar fatura do cartão C6 Bank no app: e-mails de 15 e 16/11 oferecem parcelamento ('Solução para sua fatura'), o que pode indicar fatura em aberto. [Fonte: Gmail - C6 Bank | Área: Financeiro pessoal | Prazo: hoje | Prioridade: Alta]",
+    "Pagar boleto da parcela SDAMed (boleto em PDF anexo, 'próximo do vencimento'); confirmar se é despesa pessoal. [Fonte: Gmail - SDAMed, 19/11 | Área: Financeiro pessoal | Prazo: próximos dias (ver vencimento no boleto) | Prioridade: Alta]",
+    "Preparar-se para o Plantão Bucomaxilo de 23 a 29/11 (organizar escala, deslocamento e agenda da semana). [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: Média]",
+    "Decidir sobre a passagem para São Paulo: o preço monitorado caiu para R$ 541 (antes R$ 613 / R$ 737); lembretes LATAM/Smiles/Azul/Esfera/Livelo ativos até 30/11, GOL a partir de 25/11 e Black Friday a partir de 27/11. [Fonte: Gmail - Google Voos + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: Média]",
+    "Assinatura Bucomax renova automaticamente em 27/11: decidir se mantém ou cancela antes da cobrança. [Fonte: Gmail - Bucomax/Stripe, 20/11 | Área: Fellow/CTBMF | Prazo: 27/11 | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Pedido na Claro realizado com sucesso e em análise (21/11). [Fonte: Gmail - Minha Claro | Área: Financeiro pessoal | Informativo]",
+    "Saúde Service divulgou os horários do feriado de 20/11. [Fonte: Gmail | Área: Saúde e bem-estar | Informativo, sem ação]",
+    "Google Voos: alertas de queda de preço para São Paulo (R$ 737 → R$ 613 → R$ 541). [Fonte: Gmail | Área: Social/lazer | Informativo, ver tarefa da passagem]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Lembretes para acompanhar passagens: LATAM Pass, Smiles, Azul, Esfera e Livelo (até 30/11) [Social/lazer]",
+    "Sem compromissos com horário marcado hoje (sábado, 21/11)",
+    "Próximo: Plantão Bucomaxilo de 23 a 29/11 [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 2,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
