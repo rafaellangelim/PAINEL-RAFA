@@ -1,21 +1,30 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "22/11/2026, 13:20 (horário de Brasília)",
+  "precisa": [
+    "Revisar a segurança da conta Google: aviso de conta recuperada (21/11, 22:21), acesso concedido ao app \"Instinct\" e novo login no ChatGPT iOS (Brasília). Se não foi você, troque a senha e revogue os acessos. [Fonte: Gmail (Google/OpenAI) | Área: Segurança pessoal | Prazo: hoje | Prioridade: ALTA]",
+    "Assistir à cirurgia ao vivo \"Face Lifting Deep Plane - Rejuvenescimento Facial\" (Escola Bucomax, Dr. Rafael Ruman), hoje das 13:15 às 17:00 via Circle/YouTube. [Fonte: Gmail (Circle.so) | Área: Fellow/CTBMF | Prazo: hoje, 22/11 | Prioridade: ALTA]",
+    "Preparar-se para o Plantão Bucomaxilo de 23 a 29/11, que começa amanhã. Horários específicos não estão na agenda. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: ALTA]",
+    "Decidir sobre o voo Brasília → São Paulo (10 a 13/02, ida e volta, Gol): o preço caiu de R$ 613 para R$ 541. Os lembretes de acompanhar passagens vão até 30/11. [Fonte: Gmail (Google Flights) + Calendar | Área: Social/lazer | Prazo: até 30/11 | Prioridade: MÉDIA]",
+    "Conferir se a fatura do cartão pessoal C6 está paga: o banco mandou ofertas de parcelamento de fatura em 15 e 16/11. [Fonte: Gmail (C6 Bank) | Área: Financeiro pessoal | Prazo: esta semana | Prioridade: MÉDIA]",
+    "Acompanhar o pedido na Claro feito em 21/11, que ainda está em análise. [Fonte: Gmail (Minha Claro) | Área: Financeiro pessoal | Prazo: sem prazo | Prioridade: BAIXA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Frontoplastia Feminizadora\" (Circle.so): presença confirmada para 21/11, das 13:45 às 18:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Segundo aviso do Circle.so sobre a cirurgia ao vivo \"Face Lifting\" de hoje, que é o mesmo evento da lista de pendências. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Google: lembrete para terminar a configuração do iPhone com a conta Google. [Fonte: Gmail | Informativo, sem urgência]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "13:15–17:00 - Cirurgia ao vivo \"Face Lifting Deep Plane\" (Escola Bucomax, Circle/YouTube) [Fellow/CTBMF]",
+    "Dia inteiro (até 30/11) - Acompanhar passagens nos programas LATAM Pass, Smiles, Azul, Esfera e Livelo [Social/lazer]",
+    "Amanhã (23 a 29/11) - Plantão Bucomaxilo [Fellow/CTBMF]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 4
   }
 }
