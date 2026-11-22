@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "22/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Revisar a segurança da Conta Google: a conta foi recuperada no sáb. 21/11 às 22:21, o app \"Instinct\" ganhou acesso aos seus dados, houve login no ChatGPT pelo iOS (Brasília) e o Google pediu para terminar a configuração de um iPhone. Se foi você trocando de iPhone, está tudo certo; se não foi, proteja a conta em myaccount.google.com. [Fonte: Gmail - Google/OpenAI | Área: Pessoal - segurança digital | Prazo: hoje | Prioridade: ALTA]",
+    "Plantão de Bucomaxilo de 23 a 29/11, que começa amanhã. Os horários não estão na agenda, então confirme a escala e se prepare. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 23/11 | Prioridade: ALTA]",
+    "Aplicação de preenchimento com a Dra. Karol, amanhã das 13:30 às 14:00. Confira se o horário não bate com o plantão. [Fonte: Google Calendar | Área: Saúde e bem-estar | Prazo: 23/11 13:30 | Prioridade: MÉDIA]",
+    "A assinatura Bucomax (Stripe) renova sozinha em 27/11. Decida se mantém ou cancela antes da cobrança. [Fonte: Gmail - Stripe/Bucomax | Área: Fellow/CTBMF | Prazo: 26/11 | Prioridade: MÉDIA]",
+    "Passagens: o voo monitorado para São Paulo caiu de R$ 613 para R$ 541 (Google Flights). As janelas de promoção que você acompanha (LATAM, Smiles, Azul, Esfera, Livelo) vão até 30/11, GOL começa em 25/11 e Black Friday em 27/11. Decida se compra. [Fonte: Gmail - Google Travel + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Presença confirmada na \"Cirurgia ao vivo: Frontoplastia feminizadora\" da Escola Bucomax (Circle.so). [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Novos eventos publicados pela Escola Bucomax: \"Cirurgia ao vivo: Face Lifting\" e \"Face Lifting Deep Plane\" (hoje, das 13:15 às 17:00, já encerrado). [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Pedido na Claro feito em 21/11 e ainda em análise. Nada a fazer por enquanto. [Fonte: Gmail - Minha Claro | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "13:15–17:00: Cirurgia ao vivo \"Face Lifting Deep Plane\", Escola Bucomax (YouTube/Circle), já encerrada [Fellow/CTBMF]",
+    "Dia todo: acompanhar passagens nas janelas LATAM Pass, Smiles, Azul, Esfera e Livelo, que vão até 30/11 [Social/lazer]",
+    "Amanhã (23/11): começa o Plantão de Bucomaxilo (até 29/11) e há preenchimento com a Dra. Karol às 13:30 [Fellow/CTBMF | Saúde e bem-estar]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 4
   }
 }
