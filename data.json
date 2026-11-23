@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "23/11/2026, 19:16 (horário de Brasília)",
+  "precisa": [
+    "Preparar-se para as cirurgias do plantão de amanhã, 24/11: 07:00 e 09:00 no Santa Lúcia Sul, 12:00 no Santa Lúcia Norte. A próxima é 26/11 às 13:00 no Brasiliense. [Fonte: Google Calendar | Área: Fellow/CTBMF | Prazo: 24/11 07:00 | Prioridade: Alta]",
+    "Conferir a segurança da Conta Google: ela foi recuperada em 21/11 às 22:21 e o app 'Instinct' recebeu acesso aos dados. Se não foi você, revise em myaccount.google.com/security. [Fonte: Gmail - Google | Área: Pessoal (segurança de conta) | Prazo: 24/11 | Prioridade: Alta]",
+    "Passagem para São Paulo: o preço do voo monitorado subiu de R$ 541 para R$ 587. Os lembretes de promoção (LATAM Pass, Smiles, Azul, Esfera, Livelo, GOL e Black Friday de 27 a 30/11) vão até 30/11. Decidir se compra. [Fonte: Gmail - Google Flights + Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Preenchimento com a Dra. Karol, hoje às 13:30, já passou do horário. [Fonte: Google Calendar | Área: Saúde e bem-estar | Informativo]",
+    "Cirurgia ao vivo 'Frontoplastia Feminizadora' (Escola Bucomax/Circle), 21/11. Presença confirmada e evento já ocorreu. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Duas cirurgias ao vivo de 'Face Lifting' (Escola Bucomax/Circle), 22/11, já ocorreram. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Novo login no ChatGPT (iOS, Brasília) em 21/11 às 22:21, no mesmo horário da configuração do iPhone. Provavelmente foi você. [Fonte: Gmail - OpenAI | Informativo]",
+    "Claro: ativação concluída com sucesso. [Fonte: Gmail - Claro | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro: Plantão Bucomaxilo, de 23 a 29/11 [Fellow/CTBMF]",
+    "13:30–14:00: Preenchimento com a Dra. Karol [Saúde e bem-estar]",
+    "Dia inteiro: lembretes para acompanhar passagens (LATAM Pass, Smiles, Azul, Esfera, Livelo) até 30/11 [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
     "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 3
   }
 }
