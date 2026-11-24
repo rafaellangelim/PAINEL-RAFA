@@ -1,21 +1,31 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "24/11/2026, 13:15 (horário de Brasília)",
+  "precisa": [
+    "Confirmar que foi você: novo cartão adicionado ao Google Pay hoje (24/11, 12:08) e, em 21–22/11, recuperação da Conta Google, novo login em iPhone, acesso concedido ao app Instinct e novo login no ChatGPT (iOS, Brasília). Se algo não reconhecer, revisar a segurança da conta imediatamente. [Fonte: Gmail (Google Pay / Google / OpenAI) | Área: Financeiro pessoal | Prazo: hoje | Prioridade: Alta]",
+    "TERAPIA - lembrete do Todoist em aberto desde 21/04/2026 (vencido). Agendar/retomar a sessão ou atualizar a tarefa. [Fonte: Gmail (Todoist) | Área: Saúde e bem-estar | Prazo: vencido | Prioridade: Alta]",
+    "Acompanhar promoções de passagens (LATAM Pass, Smiles, Azul, Esfera, Livelo) - janelas terminam em 30/11. Lembrete apenas, sem compra automática. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: Média]",
+    "Rascunho de 01/10 para Rafael (Escola Bucomax) sobre falha na cobrança de R$ 98,00 da assinatura continua sem envio. Verificar se o pagamento já foi regularizado e enviar ou excluir o rascunho. [Fonte: Gmail (Rascunhos) | Área: Fellow/CTBMF | Prazo: sem data | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Presença confirmada na cirurgia ao vivo \"Frontoplastia feminizadora\" (Escola Bucomax/Circle.so, 21/11). [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Cirurgias ao vivo \"Face Lifting\" e \"Face Lifting Deep Plane\" (Escola Bucomax, 22/11, 13h15–17h) - eventos já passaram; gravação no canal do YouTube. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Chip Claro entregue e ativado com sucesso (23/11). [Fonte: Minha Claro | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Plantão Bucomaxilo (23 a 29/11, em andamento) [Fellow/CTBMF]",
+    "07:00–17:00 - Plantão cirúrgico em outro local [Fellow/CTBMF]",
+    "07:00–09:00 - Cirurgia de implante, Santa Lúcia Sul (plantão) [Fellow/CTBMF]",
+    "09:00–12:00 - Cirurgia de enxerto, Santa Lúcia Sul (plantão) [Fellow/CTBMF]",
+    "12:00–00:00 - Cirurgia de artroscopia, Santa Lúcia Norte (plantão) [Fellow/CTBMF]",
+    "Dia todo - Acompanhar passagens LATAM/Smiles/Azul/Esfera/Livelo (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 3
   }
 }
