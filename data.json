@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "24/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Revisar segurança da Conta Google: conta recuperada em 21/11 (22h21), novo login em Apple iPhone e acesso concedido ao app \"Instinct\". Se foi você, nada a fazer; se não, trocar senha e remover acessos em myaccount.google.com/security. [Fonte: Gmail - Google | Área: Financeiro pessoal/segurança de contas | Prazo: hoje | Prioridade: ALTA]",
+    "Concluir configuração do Apple iPhone com o Google (lembrete do Google). [Fonte: Gmail - Google | Área: Financeiro pessoal/segurança de contas | Prazo: sem prazo | Prioridade: BAIXA]",
+    "Acompanhar passagens nas janelas abertas (LATAM Pass, Smiles, Azul, Esfera, Livelo) - todas encerram em 30/11. [Fonte: Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Cirurgia ao vivo \"Frontoplastia Feminizadora\" (Escola Bucomax/Circle) - presença confirmada, evento realizado em 21/11. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Cirurgias ao vivo \"Face Lifting\" e \"Face Lifting Deep Plane\" (Escola Bucomax/Circle) - realizadas em 22/11; ver gravação se não assistiu. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo]",
+    "Novo login no ChatGPT iOS em 21/11, Brasília - mesmo momento da recuperação da conta Google (provável troca de celular). [Fonte: Gmail - OpenAI | Área: Financeiro pessoal/segurança de contas | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Plantão Bucomaxilo (23 a 29/11) [Fellow/CTBMF]",
+    "07:00-09:00 - Cirurgia: implante - Santa Lúcia Sul [Fellow/CTBMF]",
+    "09:00-12:00 - Cirurgia: enxerto - Santa Lúcia Sul [Fellow/CTBMF]",
+    "12:00-12:30 - Cirurgia: artroscopia - Santa Lúcia Norte [Fellow/CTBMF]",
+    "Lembrete (dia todo) - acompanhar passagens LATAM Pass/Smiles/Azul/Esfera/Livelo até 30/11 [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
+    "Financeiro pessoal": 3,
+    "Social/lazer": 1,
     "Fellow/CTBMF": 2
   }
 }
