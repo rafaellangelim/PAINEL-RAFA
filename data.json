@@ -1,21 +1,31 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "26/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Decidir compra da passagem Rio de Janeiro → São Paulo (ida e volta 10–13/02): preço caiu de R$ 1.693 para R$ 1.457. A janela de acompanhamento de passagens/milhas (LATAM, Smiles, Azul, Esfera, Livelo, GOL) termina em 30/11. [Fonte: Gmail (Google Flights) + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: Média]",
+    "Assinar no Autentique o documento \"Pedido #75821\" enviado por Júlia Duarte (pendente desde 24/11). Parece ligado ao pedido na CMOS DRAKE Equipamentos Médicos, que aguarda confirmação de pagamento; confirmar se é compra pessoal ou da clínica. [Fonte: Gmail (Autentique / CMOS DRAKE) | Área: Fellow/CTBMF (a confirmar) | Prazo: sem prazo informado, pendente há 2 dias | Prioridade: Média]",
+    "Conferir na próxima fatura do cartão que a compra do curso \"Escola de Cirurgia Estética Facial - Bucomax\" (Hotmart) foi cobrada só uma vez: a primeira tentativa de débito falhou e a segunda foi aprovada em 26/11. [Fonte: Gmail (Hotmart) | Área: Financeiro pessoal | Prazo: próxima fatura | Prioridade: Baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Compra do curso \"Escola de Cirurgia Estética Facial - Bucomax\" (Hotmart) aprovada e liberada, mais acesso gratuito à \"Comunidade Bucomax AMPLIADA\". [Fonte: Gmail (Hotmart) | Área: Fellow/CTBMF | Informativo]",
+    "Senha de acesso ao aplicativo do CFO recebida em 26/11. [Fonte: Gmail (CFO) | Área: Fellow/CTBMF | Informativo]",
+    "Pasta do Drive \"WOMA - Materiais do curso (originais)\" compartilhada por você mesma (rafaellangelim@gmail.com) em 25/11. [Fonte: Gmail (Google Drive) | Área: Fellow/CTBMF | Informativo]",
+    "Pix de R$ 7.500,00 da sua conta XP para Angelim Odontologia e Estética Facial LTDA realizado em 24/11. [Fonte: Gmail (XP) | Área: Financeiro pessoal | Informativo]",
+    "Novo cartão adicionado ao Google Pay em 24/11; revisar só se você não reconhecer. [Fonte: Gmail (Google Pay) | Área: Financeiro pessoal | Informativo]",
+    "Linha Claro ativada com sucesso. [Fonte: Gmail (Claro) | Área: Financeiro pessoal | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Plantão Bucomaxilo (23 a 29/11, em andamento) [Fellow/CTBMF]",
+    "07:00–17:00 - Plantão cirúrgico em outro local [Fellow/CTBMF]",
+    "14:00 (até 27/11, 15:20) - Cirurgia de drenagem de abscesso em região frontal com debridamento - Brasiliense [Fellow/CTBMF]",
+    "Dia todo - Lembretes para acompanhar passagens: LATAM Pass, Smiles, Azul, Esfera, Livelo e GOL (até 30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 4,
+    "Social/lazer": 1,
+    "Fellow/CTBMF": 4
   }
 }
