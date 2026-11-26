@@ -1,21 +1,29 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "26/11/2026, 13:14 (horário de Brasília)",
+  "precisa": [
+    "Assinar no Autentique o documento \"Pedido #75821\" enviado por Júlia Duarte (ligado ao pedido de equipamento na CMOS DRAKE de 24/11; o pedido aguarda confirmação de pagamento). Antes, confirme se a compra é pessoal ou da clínica. [Fonte: Gmail/Autentique | Área: Fellow/CTBMF | Prazo: o quanto antes, pedido parado | Prioridade: Alta]",
+    "Decidir sobre a passagem para São Paulo: o preço monitorado no Google Voos caiu para R$ 1.457 (era R$ 1.693). Os lembretes de LATAM, Smiles, Azul, Esfera, Livelo e GOL vão até 30/11. [Fonte: Gmail/Google Voos + Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: Média]",
+    "Confirmar que foi você quem adicionou um novo cartão ao Google Pay. Se não foi, remova o cartão e avise o banco. [Fonte: Gmail/Google Pay | Área: Financeiro pessoal | Prazo: hoje | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "C6 Bank: extrato da conta disponível e 2 avisos de transação. [Fonte: Gmail | Área: Financeiro pessoal | Informativo]",
+    "XP Investimentos: Pix realizado. [Fonte: Gmail | Área: Financeiro pessoal | Informativo]",
+    "CMOS DRAKE: conta criada e pedido recebido, aguardando confirmação de pagamento (a assinatura do pedido está nas pendências). [Fonte: Gmail | Área: Fellow/CTBMF | Informativo]",
+    "Pasta \"WOMA - Materiais do curso (originais)\" compartilhada com esta conta pela sua outra conta. [Fonte: Gmail/Google Drive | Informativo, sem ação]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "07:00–17:00: Plantão cirúrgico em outro local [Fellow/CTBMF]",
+    "13:00–00:00: Cirurgia ortognática com Dr. Hugo, Hospital Brasiliense [Fellow/CTBMF]",
+    "Dia inteiro: Plantão Bucomaxilo, de 23/11 a 29/11 (em andamento) [Fellow/CTBMF]",
+    "Lembretes para acompanhar passagens (LATAM, Smiles, Azul, Esfera, Livelo, GOL), até 30/11 [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 3,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 5
   }
 }
