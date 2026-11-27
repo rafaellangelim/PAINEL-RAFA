@@ -1,21 +1,30 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "27/11/2026, 19:15 (horário de Brasília)",
+  "precisa": [
+    "Renovar certificado digital (Serpro) - aviso de 27/11 diz que expira em 15 dias; confirmar se é o e-CPF pessoal. [Fonte: Gmail - ccd@serpro.gov.br | Área: Financeiro pessoal | Prazo: ~11/12/2026 | Prioridade: Alta]",
+    "Decidir compra de passagem Brasília–São Paulo (10–13/fev): preço caiu para R$ 497 ida e volta (Gol, era R$ 587). Janelas de acompanhamento de passagens (LATAM, Smiles, Azul, Esfera, Livelo, GOL, Black Friday) terminam em 30/11. [Fonte: Gmail - Google Flights + Google Calendar | Área: Social/lazer | Prazo: 30/11/2026 | Prioridade: Média]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Hotmart - compra da Escola de Cirurgia Estética Facial - Bucomax aprovada (houve falha de débito no cartão antes, depois a compra foi aprovada). [Fonte: Gmail - Hotmart | Área: Fellow/CTBMF | Informativo]",
+    "Hotmart - acesso gratuito liberado à Comunidade Bucomax AMPLIADA. [Fonte: Gmail - Hotmart | Área: Fellow/CTBMF | Informativo]",
+    "Pasta \"WOMA - Materiais do curso (originais)\" compartilhada no Google Drive. [Fonte: Gmail - Google Drive | Área: Fellow/CTBMF | Informativo]",
+    "Cirurgia de drenagem de abscesso em região frontal com debridamento (Brasiliense, 26–27/11) concluída. [Fonte: Google Calendar | Área: Fellow/CTBMF | Informativo]",
+    "C6 Bank e XP - extratos e Pix/transações recentes. [Fonte: Gmail | Área: Financeiro pessoal | Informativo, sem ação]",
+    "Google Flights - outro alerta de voo para São Paulo caiu para R$ 1.457 (era R$ 1.693). [Fonte: Gmail | Área: Social/lazer | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo - Plantão Bucomaxilo (23 a 29/11, em andamento) [Fellow/CTBMF]",
+    "Até 15:20 - Fim da cirurgia de drenagem de abscesso frontal com debridamento (Brasiliense) [Fellow/CTBMF]",
+    "16:00–18:00 - Cirurgia Adenilson (Hospital Santa Lúcia Sul) [Fellow/CTBMF]",
+    "Dia todo - Black Friday: acompanhar passagens (27–30/11) [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 4
   }
 }
