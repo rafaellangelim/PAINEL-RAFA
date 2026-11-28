@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "28/11/2026, 13:20 (horário de Brasília)",
+  "precisa": [
+    "Decidir compra de passagens: janelas de promoção (LATAM Pass, Smiles, Azul, Esfera, Livelo, GOL, Black Friday) terminam em 30/11. Google Flights: voo monitorado RJ→SP (10–13/02) subiu para R$ 1.645 (era R$ 1.308); outro voo monitorado para SP caiu para R$ 497 (era R$ 587). [Fonte: Google Calendar + Gmail (Google Flights) | Área: Social/lazer | Prazo: 30/11 | Prioridade: ALTA]",
+    "Renovar certificado digital: o Serpro avisa que expira em 15 dias (~11/12). Confirmar se é o e-CPF pessoal ou o certificado da clínica. [Fonte: Gmail (ccd@serpro.gov.br, 27/11) | Área: Financeiro pessoal | Prazo: ~11/12 | Prioridade: MÉDIA]",
+    "Conferir o alerta de segurança do Google: o app \"Instinct\" recebeu acesso a dados da conta dra.rafaellaangelim. Se não foi você, revogar o acesso. [Fonte: Gmail (Google, 27/11) | Área: segurança da conta (fora das áreas) | Prazo: hoje | Prioridade: MÉDIA]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Hotmart: compra da \"Escola de Cirurgia Estética Facial - Bucomax\" aprovada em 26/11, depois de uma primeira tentativa recusada no cartão. Vai aparecer na fatura. [Fonte: Gmail | Área: Fellow/CTBMF | Informativo]",
+    "Hotmart: acesso gratuito à \"Comunidade Bucomax AMPLIADA\" liberado. [Fonte: Gmail | Área: Fellow/CTBMF | Informativo]",
+    "Movimentações bancárias: extratos C6 Bank, detalhes de transação C6 e Pix realizado pela XP (26–28/11). Sem ação necessária. [Fonte: Gmail | Área: Financeiro pessoal | Informativo]",
+    "Próximo compromisso de saúde: TERAPIA na terça, 01/12, das 11h às 12h. [Fonte: Google Calendar | Área: Saúde e bem-estar | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia todo: Plantão - Bucomaxilo (23 a 29/11, em andamento) [Fellow/CTBMF]",
+    "Dia todo: lembretes para acompanhar passagens (LATAM Pass, Smiles, Azul, Esfera, Livelo, GOL, Black Friday), todos até 30/11 [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
-    "Saúde e bem-estar": 0,
+    "Saúde e bem-estar": 1,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 2,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 3
   }
 }
