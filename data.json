@@ -1,21 +1,27 @@
 {
-  "updatedAt": "19/09/2026, 11:30 (horário de Brasília)",
-  "precisa": [],
+  "updatedAt": "28/11/2026, 07:15 (horário de Brasília)",
+  "precisa": [
+    "Decidir compra de passagem para São Paulo (ida 10/02, volta 13/02): o preço caiu de R$ 587 para R$ 497 saindo de Brasília (GOL), e de R$ 1.693 para R$ 1.457 saindo do Rio. Os lembretes de acompanhar passagens vão até 30/11. [Fonte: Google Flights + Google Calendar | Área: Social/lazer | Prazo: 30/11 | Prioridade: média]",
+    "Começar o curso \"Escola de Cirurgia Estética Facial - Bucomax\" (Hotmart, R$ 1.176) e entrar na Comunidade Bucomax AMPLIADA: o acesso já está liberado. [Fonte: Hotmart | Área: Fellow/CTBMF | Prazo: sem prazo | Prioridade: baixa]"
+  ],
   "resolvidos": [
-    "Masterclass \"Feminização facial - Paciente Sulamita\" (Circle.so) - presença confirmada e aula realizada hoje, 19/09, das 8:45 às 14:00. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]",
-    "Atualização de conteúdo da masterclass \"Feminização facial - Paciente Sulamita\" no Circle.so. [Fonte: Circle.so | Área: Fellow/CTBMF | Informativo, sem ação necessária]"
+    "Hotmart: o primeiro débito do cartão falhou (26/11, 20:11), mas a compra foi aprovada logo depois (20:12). Nada a fazer. [Fonte: Hotmart | Área: Fellow/CTBMF | Informativo]",
+    "Pasta \"WOMA - Materiais do curso (originais)\" compartilhada da sua outra conta do Google. [Fonte: Google Drive | Área: Fellow/CTBMF | Informativo]",
+    "A programação do Neodent Congress 2027 foi divulgada. [Fonte: Neodent | Área: Fellow/CTBMF | Informativo]",
+    "Extratos da conta C6 Bank disponíveis. [Fonte: C6 Bank | Área: Financeiro pessoal | Informativo]",
+    "Alerta de segurança do Google: o app \"Instinct\" recebeu acesso à conta dra.rafaellaangelim. Se não foi você, revogue o acesso. [Fonte: Google | Informativo]"
   ],
   "agenda": [
-    "08:45–14:00 - Masterclass ao vivo \"Feminização facial - Paciente Sulamita\" (Circle.so/YouTube) [Fellow/CTBMF]",
-    "Plantão hospitalar - evento de 14/09 a 21/09 (em andamento) [Fellow/CTBMF]"
+    "Dia inteiro: Plantão - Bucomaxilo (23 a 29/11, em andamento) [Fellow/CTBMF]",
+    "Dia inteiro: lembretes para acompanhar passagens (LATAM Pass, Smiles, Azul, Esfera, Livelo, GOL, Black Friday), todos até 30/11 [Social/lazer]"
   ],
   "rascunhos": [],
   "areas": {
     "Saúde e bem-estar": 0,
     "Família": 0,
     "Pet/filhote": 0,
-    "Financeiro pessoal": 0,
-    "Social/lazer": 0,
-    "Fellow/CTBMF": 2
+    "Financeiro pessoal": 1,
+    "Social/lazer": 2,
+    "Fellow/CTBMF": 5
   }
 }
